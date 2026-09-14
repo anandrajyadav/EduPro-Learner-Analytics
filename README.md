@@ -129,3 +129,28 @@ EduPro-Learner-Analytics/
 │
 └── outputs/
     └── reports/
+    ## 📸 Dashboard Preview
+
+### 📊 Dashboard Overview
+
+![EduPro Dashboard Overview](screenshots/dashboard-overview.png)
+
+### 👥 Demographics Analysis
+
+![Demographics Analysis](screenshots/demographics-analysis.png)
+
+### 📚 Course Intelligence
+
+![Course Intelligence](screenshots/course-intelligence.png)
+
+### 📈 Learner Behavior
+
+![Learner Behavior](screenshots/learner-behavior.png)
+
+### 💡 Insights & Analysis
+
+![Insights Analysis](screenshots/insights-analysis.png)
+
+### 🔍 Methodology & Data Validation
+
+![Methodology and Data Validation](screenshots/methodology-data-validation.png)
