@@ -1,0 +1,13 @@
+CourseCategory,DominantLevel,Enrollments,PercentageWithinCategory
+Artificial Intelligence,Beginner,500,60.31
+Business,Advanced,514,61.7
+Cybersecurity,Intermediate,477,58.24
+Data Science,Intermediate,381,41.59
+Design,Advanced,672,81.26
+Digital Marketing,Beginner,359,44.43
+Finance,Beginner,348,40.28
+Machine Learning,Intermediate,341,41.64
+Marketing,Advanced,498,61.79
+Programming,Beginner,657,81.51
+Project Management,Beginner,351,42.34
+Web Development,Advanced,512,60.66

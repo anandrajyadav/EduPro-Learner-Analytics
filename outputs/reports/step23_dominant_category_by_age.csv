@@ -1,0 +1,6 @@
+AgeGroup,CourseCategory,Enrollments,UniqueLearners,ShareWithinAge
+26-35,Data Science,459,341,9.56
+18-25,Data Science,343,254,9.19
+<18,Finance,136,101,9.26
+36-45,Artificial Intelligence,0,0,
+45+,Artificial Intelligence,0,0,

@@ -1,0 +1,6 @@
+AgeGroup,CourseLevel,Enrollments,UniqueLearners
+26-35,Beginner,1727,787
+18-25,Beginner,1345,586
+<18,Advanced,534,248
+36-45,Advanced,0,0
+45+,Advanced,0,0

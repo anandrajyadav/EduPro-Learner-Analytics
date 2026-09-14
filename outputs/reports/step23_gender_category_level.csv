@@ -1,0 +1,63 @@
+Gender,CourseCategory,CourseLevel,Enrollments,UniqueLearners,ShareWithinGender
+Female,Artificial Intelligence,Beginner,250,214,4.92
+Female,Artificial Intelligence,Intermediate,163,158,3.21
+Female,Business,Advanced,256,224,5.04
+Female,Business,Beginner,76,76,1.5
+Female,Business,Intermediate,86,86,1.69
+Female,Cybersecurity,Advanced,93,93,1.83
+Female,Cybersecurity,Beginner,93,93,1.83
+Female,Cybersecurity,Intermediate,244,212,4.81
+Female,Data Science,Advanced,86,86,1.69
+Female,Data Science,Beginner,186,170,3.66
+Female,Data Science,Intermediate,207,191,4.08
+Female,Design,Advanced,346,290,6.81
+Female,Design,Beginner,78,78,1.54
+Female,Digital Marketing,Advanced,151,144,2.97
+Female,Digital Marketing,Beginner,188,175,3.7
+Female,Digital Marketing,Intermediate,78,78,1.54
+Female,Finance,Advanced,98,98,1.93
+Female,Finance,Beginner,182,168,3.58
+Female,Finance,Intermediate,171,154,3.37
+Female,Machine Learning,Advanced,156,144,3.07
+Female,Machine Learning,Beginner,78,78,1.54
+Female,Machine Learning,Intermediate,169,154,3.33
+Female,Marketing,Advanced,230,202,4.53
+Female,Marketing,Intermediate,155,147,3.05
+Female,Programming,Beginner,338,272,6.66
+Female,Programming,Intermediate,82,82,1.61
+Female,Project Management,Advanced,92,92,1.81
+Female,Project Management,Beginner,179,165,3.53
+Female,Project Management,Intermediate,154,145,3.03
+Female,Web Development,Advanced,250,212,4.92
+Female,Web Development,Beginner,163,151,3.21
+Male,Artificial Intelligence,Beginner,250,221,5.08
+Male,Artificial Intelligence,Intermediate,166,156,3.37
+Male,Business,Advanced,258,232,5.24
+Male,Business,Beginner,92,92,1.87
+Male,Business,Intermediate,65,65,1.32
+Male,Cybersecurity,Advanced,70,70,1.42
+Male,Cybersecurity,Beginner,86,86,1.75
+Male,Cybersecurity,Intermediate,233,216,4.73
+Male,Data Science,Advanced,80,80,1.63
+Male,Data Science,Beginner,183,172,3.72
+Male,Data Science,Intermediate,174,161,3.54
+Male,Design,Advanced,326,269,6.62
+Male,Design,Beginner,77,77,1.56
+Male,Digital Marketing,Advanced,137,131,2.78
+Male,Digital Marketing,Beginner,171,158,3.47
+Male,Digital Marketing,Intermediate,83,83,1.69
+Male,Finance,Advanced,74,74,1.5
+Male,Finance,Beginner,166,155,3.37
+Male,Finance,Intermediate,173,163,3.51
+Male,Machine Learning,Advanced,167,159,3.39
+Male,Machine Learning,Beginner,77,77,1.56
+Male,Machine Learning,Intermediate,172,160,3.49
+Male,Marketing,Advanced,268,234,5.44
+Male,Marketing,Intermediate,153,142,3.11
+Male,Programming,Beginner,319,252,6.48
+Male,Programming,Intermediate,67,67,1.36
+Male,Project Management,Advanced,75,75,1.52
+Male,Project Management,Beginner,172,158,3.49
+Male,Project Management,Intermediate,157,148,3.19
+Male,Web Development,Advanced,262,225,5.32
+Male,Web Development,Beginner,169,155,3.43

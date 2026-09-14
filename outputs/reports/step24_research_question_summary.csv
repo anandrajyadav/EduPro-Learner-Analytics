@@ -1,0 +1,10 @@
+ResearchQuestion,Evidence
+Which age groups are most active?,Most active age group: 26-35
+How do enrollment patterns differ by gender?,Highest enrollment gender group: Female
+Which course categories are preferred?,Most preferred category: Data Science
+Are beginner/intermediate/advanced courses preferred by specific age groups?,Age × CourseLevel analysis available in Step 23 outputs.
+Which courses are most popular?,Most popular course: Data Analysis with Python
+How does learner activity vary across segments?,Largest activity segment: Low Activity
+How do enrollment patterns vary over time?,Peak enrollment month: 2025-06
+Is course rating associated with enrollment?,Correlation: 0.294
+Is course price associated with enrollment?,Correlation: -0.163

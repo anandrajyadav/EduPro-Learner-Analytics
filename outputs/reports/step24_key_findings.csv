@@ -1,0 +1,11 @@
+FindingNo,Dimension,Finding,Value
+1,Overall,Total enrollment records analyzed,10000
+2,Learners,Unique learners,3000
+3,Age,Most active age group,26-35
+4,Gender,Highest enrollment gender group,Female
+5,Category,Most preferred course category,Data Science
+6,Level,Most preferred course level,Beginner
+7,Course Type,Most preferred course type,Free
+8,Course,Most popular course,Data Analysis with Python
+9,Activity,Largest learner activity segment,Low Activity
+10,Activity,Highest enrollment contribution segment,Very High Activity

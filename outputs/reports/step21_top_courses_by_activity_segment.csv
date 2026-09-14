@@ -1,0 +1,41 @@
+ActivitySegment,CourseID,CourseName,Enrollments,UniqueLearners,RankWithinSegment
+Low Activity,CR00042,Investment Strategies,62,62,1.0
+Low Activity,CR00014,Sales Mastery,60,60,2.0
+Low Activity,CR00033,Cybersecurity Fundamentals,59,59,3.0
+Low Activity,CR00054,Backend Development with Node.js,57,57,4.0
+Low Activity,CR00007,UI/UX Design,56,56,5.0
+Low Activity,CR00009,Web Design Fundamentals,55,55,6.0
+Low Activity,CR00025,Statistical Analysis,55,55,7.0
+Low Activity,CR00058,Social Media Strategy,55,55,8.0
+Low Activity,CR00010,3D Modeling,54,54,9.0
+Low Activity,CR00031,Network Security,54,54,10.0
+Moderate Activity,CR00029,Natural Language Processing,29,29,1.0
+Moderate Activity,CR00052,JavaScript Mastery,25,25,2.0
+Moderate Activity,CR00035,Cyber Threat Intelligence,24,24,3.0
+Moderate Activity,CR00042,Investment Strategies,24,24,4.0
+Moderate Activity,CR00024,Big Data Analytics,23,23,5.0
+Moderate Activity,CR00056,Google Ads Mastery,23,23,6.0
+Moderate Activity,CR00006,Graphic Design Basics,22,22,7.0
+Moderate Activity,CR00010,3D Modeling,22,22,8.0
+Moderate Activity,CR00002,Java Programming,21,21,9.0
+Moderate Activity,CR00021,Data Analysis with Python,21,21,10.0
+High Activity,CR00036,Agile Project Management,3,3,1.0
+High Activity,CR00003,C++ for Beginners,2,2,2.0
+High Activity,CR00005,Full Stack Development,2,2,3.0
+High Activity,CR00010,3D Modeling,2,2,4.0
+High Activity,CR00014,Sales Mastery,2,2,5.0
+High Activity,CR00019,Content Marketing,2,2,6.0
+High Activity,CR00043,Corporate Finance,2,2,7.0
+High Activity,CR00049,Deep Learning,2,2,8.0
+High Activity,CR00051,HTML & CSS,2,2,9.0
+High Activity,CR00058,Social Media Strategy,2,2,10.0
+Very High Activity,CR00021,Data Analysis with Python,121,121,1.0
+Very High Activity,CR00058,Social Media Strategy,120,120,2.0
+Very High Activity,CR00025,Statistical Analysis,117,117,3.0
+Very High Activity,CR00048,AI Ethics,117,117,4.0
+Very High Activity,CR00022,Data Visualization,115,115,5.0
+Very High Activity,CR00041,Financial Accounting,115,115,6.0
+Very High Activity,CR00023,Machine Learning Fundamentals,112,112,7.0
+Very High Activity,CR00040,Leadership in Projects,112,112,8.0
+Very High Activity,CR00043,Corporate Finance,112,112,9.0
+Very High Activity,CR00019,Content Marketing,111,111,10.0

@@ -1,0 +1,10 @@
+AgeGroup,CourseLevel,Enrollments
+18–25,Advanced,1300
+18–25,Beginner,1345
+18–25,Intermediate,1087
+26–35,Advanced,1641
+26–35,Beginner,1727
+26–35,Intermediate,1431
+<18,Advanced,534
+<18,Beginner,501
+<18,Intermediate,434

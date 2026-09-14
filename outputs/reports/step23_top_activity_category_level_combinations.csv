@@ -1,0 +1,21 @@
+ActivitySegment,CourseCategory,CourseLevel,Enrollments,UniqueLearners,ShareWithinActivity
+Very High Activity,Programming,Beginner,403,288,6.68
+Very High Activity,Design,Advanced,393,285,6.51
+Very High Activity,Artificial Intelligence,Beginner,310,247,5.14
+Very High Activity,Marketing,Advanced,308,251,5.1
+Very High Activity,Web Development,Advanced,302,237,5.0
+Very High Activity,Business,Advanced,295,240,4.89
+Very High Activity,Cybersecurity,Intermediate,277,232,4.59
+Very High Activity,Data Science,Intermediate,233,206,3.86
+Very High Activity,Data Science,Beginner,232,205,3.84
+Very High Activity,Finance,Beginner,227,202,3.76
+Very High Activity,Digital Marketing,Beginner,223,197,3.69
+Very High Activity,Project Management,Beginner,222,195,3.68
+Very High Activity,Machine Learning,Intermediate,205,178,3.4
+Very High Activity,Finance,Intermediate,204,178,3.38
+Low Activity,Design,Advanced,197,197,6.93
+Very High Activity,Web Development,Beginner,195,171,3.23
+Very High Activity,Artificial Intelligence,Intermediate,195,182,3.23
+Very High Activity,Project Management,Intermediate,194,176,3.21
+Very High Activity,Marketing,Intermediate,193,174,3.2
+Very High Activity,Machine Learning,Advanced,187,170,3.1

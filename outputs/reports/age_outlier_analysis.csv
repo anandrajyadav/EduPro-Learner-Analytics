@@ -1,0 +1,7 @@
+Metric,Value
+Q1,20.0
+Q3,30.0
+IQR,10.0
+Lower Bound,5.0
+Upper Bound,45.0
+Potential Outliers,0.0

@@ -1,0 +1,25 @@
+Gender,CourseCategory,Enrollments
+Female,Artificial Intelligence,413
+Female,Business,418
+Female,Cybersecurity,430
+Female,Data Science,479
+Female,Design,424
+Female,Digital Marketing,417
+Female,Finance,451
+Female,Machine Learning,403
+Female,Marketing,385
+Female,Programming,420
+Female,Project Management,425
+Female,Web Development,413
+Male,Artificial Intelligence,416
+Male,Business,415
+Male,Cybersecurity,389
+Male,Data Science,437
+Male,Design,403
+Male,Digital Marketing,391
+Male,Finance,413
+Male,Machine Learning,416
+Male,Marketing,421
+Male,Programming,386
+Male,Project Management,404
+Male,Web Development,431

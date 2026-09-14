@@ -1,0 +1,21 @@
+Gender,CourseCategory,CourseLevel,Enrollments,UniqueLearners,ShareWithinGender
+Female,Design,Advanced,346,290,6.81
+Female,Programming,Beginner,338,272,6.66
+Male,Design,Advanced,326,269,6.62
+Male,Programming,Beginner,319,252,6.48
+Male,Marketing,Advanced,268,234,5.44
+Male,Web Development,Advanced,262,225,5.32
+Male,Business,Advanced,258,232,5.24
+Female,Business,Advanced,256,224,5.04
+Male,Artificial Intelligence,Beginner,250,221,5.08
+Female,Artificial Intelligence,Beginner,250,214,4.92
+Female,Web Development,Advanced,250,212,4.92
+Female,Cybersecurity,Intermediate,244,212,4.81
+Male,Cybersecurity,Intermediate,233,216,4.73
+Female,Marketing,Advanced,230,202,4.53
+Female,Data Science,Intermediate,207,191,4.08
+Female,Digital Marketing,Beginner,188,175,3.7
+Female,Data Science,Beginner,186,170,3.66
+Male,Data Science,Beginner,183,172,3.72
+Female,Finance,Beginner,182,168,3.58
+Female,Project Management,Beginner,179,165,3.53

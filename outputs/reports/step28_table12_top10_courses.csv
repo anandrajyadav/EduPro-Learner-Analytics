@@ -1,0 +1,11 @@
+CourseID,CourseName,CourseCategory,CourseLevel,Enrollments,UniqueLearners,AverageTransactionAmount,EnrollmentSharePercent,Rank
+CR00021,Data Analysis with Python,Data Science,Intermediate,196,196,0.0,1.96,1
+CR00058,Social Media Strategy,Digital Marketing,Beginner,194,194,0.0,1.94,2
+CR00025,Statistical Analysis,Data Science,Beginner,192,192,299.57,1.92,3
+CR00048,AI Ethics,Artificial Intelligence,Beginner,186,186,0.0,1.8599999999999999,4
+CR00023,Machine Learning Fundamentals,Data Science,Intermediate,185,185,0.0,1.8499999999999999,5
+CR00042,Investment Strategies,Finance,Intermediate,183,183,0.0,1.83,6
+CR00043,Corporate Finance,Finance,Beginner,182,182,0.0,1.82,7
+CR00010,3D Modeling,Design,Advanced,180,180,0.0,1.7999999999999998,8
+CR00035,Cyber Threat Intelligence,Cybersecurity,Beginner,179,179,0.0,1.79,9
+CR00007,UI/UX Design,Design,Advanced,178,178,0.0,1.78,10

@@ -1,0 +1,3001 @@
+UserID,TotalEnrollments,UniqueCourses,TotalSpend,AverageTransactionAmount,Age,AgeGroup,Gender,UniqueCategories,UniqueCourseLevels,ActivitySegment
+U00001,1,1,394.26,394.26,15,<18,Male,1,1,Low Activity
+U00002,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U00003,11,11,613.98,55.81636363636364,33,26-35,Female,7,3,Very High Activity
+U00004,13,13,982.05,75.54230769230769,23,18-25,Female,8,3,Very High Activity
+U00005,2,2,346.71,173.355,21,18-25,Male,2,2,Low Activity
+U00006,1,1,0.78,0.78,21,18-25,Male,1,1,Low Activity
+U00007,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U00008,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U00009,1,1,276.37,276.37,20,18-25,Female,1,1,Low Activity
+U00010,2,2,326.02,163.01,34,26-35,Female,2,2,Low Activity
+U00011,2,2,299.57,149.785,15,<18,Female,2,2,Low Activity
+U00012,2,2,327.99,163.995,15,<18,Female,2,2,Low Activity
+U00013,14,14,1432.33,102.3092857142857,33,26-35,Female,8,3,Very High Activity
+U00014,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U00015,14,14,2035.06,145.36142857142858,27,26-35,Female,10,3,Very High Activity
+U00016,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U00017,3,3,963.18,321.06,24,18-25,Male,3,2,Moderate Activity
+U00018,16,16,1468.03,91.751875,24,18-25,Female,9,3,Very High Activity
+U00019,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U00020,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U00021,2,2,177.34,88.67,15,<18,Male,2,1,Low Activity
+U00022,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U00023,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U00024,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U00025,4,4,119.04,29.76,34,26-35,Male,4,3,Moderate Activity
+U00026,1,1,327.99,327.99,19,18-25,Male,1,1,Low Activity
+U00027,2,2,0.0,0.0,31,26-35,Male,2,2,Low Activity
+U00028,12,12,1012.66,84.38833333333334,30,26-35,Female,9,3,Very High Activity
+U00029,1,1,326.02,326.02,30,26-35,Male,1,1,Low Activity
+U00030,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U00031,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U00032,1,1,285.05,285.05,18,18-25,Male,1,1,Low Activity
+U00033,1,1,276.37,276.37,25,18-25,Male,1,1,Low Activity
+U00034,2,2,248.1,124.05,32,26-35,Female,2,1,Low Activity
+U00035,1,1,0.78,0.78,32,26-35,Male,1,1,Low Activity
+U00036,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U00037,2,2,0.0,0.0,31,26-35,Female,2,1,Low Activity
+U00038,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U00039,1,1,346.71,346.71,16,<18,Female,1,1,Low Activity
+U00040,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U00041,2,2,326.02,163.01,19,18-25,Female,2,2,Low Activity
+U00042,1,1,89.59,89.59,32,26-35,Male,1,1,Low Activity
+U00043,1,1,327.99,327.99,31,26-35,Male,1,1,Low Activity
+U00044,1,1,299.57,299.57,19,18-25,Male,1,1,Low Activity
+U00045,14,14,1209.79,86.41357142857143,23,18-25,Female,9,3,Very High Activity
+U00046,2,2,0.0,0.0,29,26-35,Female,2,2,Low Activity
+U00047,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U00048,13,13,356.89,27.45307692307692,19,18-25,Male,9,3,Very High Activity
+U00049,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U00050,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U00051,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U00052,1,1,0.78,0.78,25,18-25,Female,1,1,Low Activity
+U00053,1,1,53.86,53.86,34,26-35,Female,1,1,Low Activity
+U00054,1,1,490.9,490.9,22,18-25,Female,1,1,Low Activity
+U00055,16,16,1448.25,90.515625,31,26-35,Female,9,3,Very High Activity
+U00056,2,2,0.0,0.0,22,18-25,Female,2,2,Low Activity
+U00057,1,1,487.92,487.92,18,18-25,Male,1,1,Low Activity
+U00058,1,1,117.68,117.68,30,26-35,Female,1,1,Low Activity
+U00059,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U00060,4,4,53.86,13.465,26,26-35,Male,3,2,Moderate Activity
+U00061,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U00062,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U00063,2,2,299.57,149.785,34,26-35,Female,2,1,Low Activity
+U00064,1,1,276.37,276.37,33,26-35,Female,1,1,Low Activity
+U00065,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U00066,1,1,327.99,327.99,26,26-35,Female,1,1,Low Activity
+U00067,1,1,119.04,119.04,28,26-35,Female,1,1,Low Activity
+U00068,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U00069,2,2,0.0,0.0,27,26-35,Female,2,2,Low Activity
+U00070,2,2,0.0,0.0,25,18-25,Female,2,1,Low Activity
+U00071,14,14,641.94,45.85285714285715,30,26-35,Female,8,3,Very High Activity
+U00072,1,1,326.02,326.02,17,<18,Female,1,1,Low Activity
+U00073,1,1,0.78,0.78,16,<18,Male,1,1,Low Activity
+U00074,3,3,963.18,321.06,19,18-25,Male,2,1,Moderate Activity
+U00075,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U00076,4,4,472.28,118.07,34,26-35,Male,4,2,Moderate Activity
+U00077,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U00078,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U00079,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U00080,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U00081,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U00082,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U00083,15,15,1661.3,110.75333333333333,16,<18,Male,9,3,Very High Activity
+U00084,1,1,327.99,327.99,20,18-25,Male,1,1,Low Activity
+U00085,13,13,1149.12,88.39384615384614,22,18-25,Female,7,3,Very High Activity
+U00086,4,4,53.86,13.465,27,26-35,Female,4,3,Moderate Activity
+U00087,3,3,0.0,0.0,19,18-25,Female,3,2,Moderate Activity
+U00088,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U00089,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U00090,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U00091,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U00092,4,4,594.81,148.7025,31,26-35,Male,4,2,Moderate Activity
+U00093,1,1,285.05,285.05,16,<18,Male,1,1,Low Activity
+U00094,1,1,299.57,299.57,27,26-35,Male,1,1,Low Activity
+U00095,1,1,248.1,248.1,20,18-25,Male,1,1,Low Activity
+U00096,4,4,0.0,0.0,34,26-35,Female,3,2,Moderate Activity
+U00097,2,2,0.0,0.0,25,18-25,Male,2,1,Low Activity
+U00098,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U00099,1,1,299.57,299.57,29,26-35,Female,1,1,Low Activity
+U00100,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U00101,1,1,89.59,89.59,15,<18,Female,1,1,Low Activity
+U00102,1,1,299.57,299.57,32,26-35,Male,1,1,Low Activity
+U00103,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U00104,1,1,53.86,53.86,19,18-25,Male,1,1,Low Activity
+U00105,1,1,299.57,299.57,27,26-35,Male,1,1,Low Activity
+U00106,2,2,57.32,28.66,19,18-25,Male,2,2,Low Activity
+U00107,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U00108,2,2,0.0,0.0,32,26-35,Male,2,2,Low Activity
+U00109,14,14,869.77,62.12642857142857,15,<18,Female,10,3,Very High Activity
+U00110,1,1,487.92,487.92,26,26-35,Female,1,1,Low Activity
+U00111,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U00112,14,14,565.8,40.41428571428571,34,26-35,Female,9,3,Very High Activity
+U00113,1,1,346.71,346.71,19,18-25,Male,1,1,Low Activity
+U00114,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U00115,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U00116,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U00117,13,13,1885.87,145.06692307692308,19,18-25,Female,9,3,Very High Activity
+U00118,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U00119,1,1,57.32,57.32,28,26-35,Male,1,1,Low Activity
+U00120,2,2,415.51,207.755,15,<18,Male,2,2,Low Activity
+U00121,2,2,328.77,164.385,27,26-35,Female,2,2,Low Activity
+U00122,2,2,0.0,0.0,21,18-25,Female,2,2,Low Activity
+U00123,2,2,356.89,178.445,18,18-25,Female,2,2,Low Activity
+U00124,2,2,460.49,230.245,19,18-25,Female,2,2,Low Activity
+U00125,2,2,326.02,163.01,35,26-35,Female,2,2,Low Activity
+U00126,14,14,1084.57,77.4692857142857,23,18-25,Female,7,3,Very High Activity
+U00127,3,3,903.4300000000001,301.1433333333334,34,26-35,Female,3,2,Moderate Activity
+U00128,13,13,1813.65,139.51153846153846,35,26-35,Female,8,3,Very High Activity
+U00129,2,2,415.51,207.755,19,18-25,Male,2,1,Low Activity
+U00130,1,1,248.1,248.1,17,<18,Male,1,1,Low Activity
+U00131,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U00132,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U00133,14,14,828.33,59.166428571428575,21,18-25,Male,9,3,Very High Activity
+U00134,14,14,1438.21,102.72928571428572,26,26-35,Female,8,3,Very High Activity
+U00135,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U00136,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U00137,2,2,460.29,230.145,15,<18,Female,2,2,Low Activity
+U00138,2,2,0.0,0.0,26,26-35,Male,2,2,Low Activity
+U00139,4,4,248.1,62.025,16,<18,Female,4,2,Moderate Activity
+U00140,2,2,53.86,26.93,24,18-25,Female,2,2,Low Activity
+U00141,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U00142,1,1,472.28,472.28,17,<18,Female,1,1,Low Activity
+U00143,2,2,177.34,88.67,26,26-35,Male,2,2,Low Activity
+U00144,13,13,953.67,73.35923076923076,24,18-25,Female,7,3,Very High Activity
+U00145,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U00146,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U00147,12,12,1195.68,99.64,30,26-35,Male,9,3,Very High Activity
+U00148,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U00149,10,10,906.41,90.64099999999999,17,<18,Female,8,3,High Activity
+U00150,2,2,0.0,0.0,25,18-25,Male,2,2,Low Activity
+U00151,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U00152,12,12,1368.9199999999998,114.07666666666665,19,18-25,Female,9,3,Very High Activity
+U00153,2,2,37.89,18.945,35,26-35,Male,2,2,Low Activity
+U00154,1,1,248.1,248.1,29,26-35,Male,1,1,Low Activity
+U00155,2,2,0.0,0.0,27,26-35,Male,2,2,Low Activity
+U00156,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U00157,2,2,212.39,106.195,32,26-35,Female,2,2,Low Activity
+U00158,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U00159,2,2,53.86,26.93,16,<18,Male,2,2,Low Activity
+U00160,1,1,327.99,327.99,28,26-35,Female,1,1,Low Activity
+U00161,11,11,605.6,55.054545454545455,25,18-25,Female,7,3,Very High Activity
+U00162,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U00163,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U00164,2,2,0.0,0.0,32,26-35,Male,1,2,Low Activity
+U00165,4,4,419.82,104.955,30,26-35,Male,4,3,Moderate Activity
+U00166,15,15,248.88,16.592,33,26-35,Male,9,3,Very High Activity
+U00167,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U00168,1,1,326.02,326.02,24,18-25,Female,1,1,Low Activity
+U00169,13,13,567.16,43.62769230769231,24,18-25,Male,11,3,Very High Activity
+U00170,3,3,0.0,0.0,34,26-35,Female,3,1,Moderate Activity
+U00171,2,2,0.0,0.0,24,18-25,Male,1,2,Low Activity
+U00172,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U00173,14,14,1094.82,78.20142857142856,31,26-35,Male,10,3,Very High Activity
+U00174,1,1,212.39,212.39,29,26-35,Male,1,1,Low Activity
+U00175,2,2,490.9,245.45,32,26-35,Female,2,1,Low Activity
+U00176,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U00177,14,14,1526.54,109.03857142857143,29,26-35,Female,9,3,Very High Activity
+U00178,14,14,236.72000000000003,16.90857142857143,20,18-25,Male,10,3,Very High Activity
+U00179,2,2,487.92,243.96,34,26-35,Male,2,2,Low Activity
+U00180,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U00181,1,1,299.57,299.57,32,26-35,Female,1,1,Low Activity
+U00182,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U00183,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U00184,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U00185,1,1,57.32,57.32,27,26-35,Male,1,1,Low Activity
+U00186,2,2,326.02,163.01,28,26-35,Female,2,1,Low Activity
+U00187,1,1,472.28,472.28,18,18-25,Male,1,1,Low Activity
+U00188,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U00189,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U00190,1,1,487.92,487.92,25,18-25,Female,1,1,Low Activity
+U00191,12,12,2258.7,188.225,34,26-35,Male,8,3,Very High Activity
+U00192,14,14,680.0699999999999,48.576428571428565,17,<18,Male,9,3,Very High Activity
+U00193,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U00194,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U00195,1,1,346.71,346.71,15,<18,Male,1,1,Low Activity
+U00196,1,1,394.26,394.26,23,18-25,Female,1,1,Low Activity
+U00197,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U00198,12,12,1242.3400000000001,103.52833333333335,30,26-35,Female,7,3,Very High Activity
+U00199,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U00200,4,4,269.71,67.4275,32,26-35,Male,3,1,Moderate Activity
+U00201,3,3,691.88,230.62666666666667,16,<18,Male,3,3,Moderate Activity
+U00202,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U00203,2,2,326.02,163.01,25,18-25,Female,2,2,Low Activity
+U00204,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U00205,1,1,342.61,342.61,32,26-35,Male,1,1,Low Activity
+U00206,1,1,89.59,89.59,19,18-25,Female,1,1,Low Activity
+U00207,2,2,177.34,88.67,33,26-35,Male,2,2,Low Activity
+U00208,15,15,507.62,33.84133333333333,18,18-25,Female,10,3,Very High Activity
+U00209,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U00210,2,2,37.89,18.945,30,26-35,Male,2,2,Low Activity
+U00211,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U00212,2,2,0.0,0.0,30,26-35,Female,2,1,Low Activity
+U00213,2,2,299.57,149.785,15,<18,Male,2,2,Low Activity
+U00214,1,1,89.59,89.59,24,18-25,Female,1,1,Low Activity
+U00215,1,1,326.02,326.02,28,26-35,Male,1,1,Low Activity
+U00216,16,16,1405.87,87.866875,23,18-25,Male,10,3,Very High Activity
+U00217,1,1,37.89,37.89,28,26-35,Male,1,1,Low Activity
+U00218,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U00219,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U00220,15,15,300.34999999999997,20.02333333333333,20,18-25,Male,11,3,Very High Activity
+U00221,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U00222,1,1,0.78,0.78,28,26-35,Male,1,1,Low Activity
+U00223,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U00224,1,1,490.9,490.9,15,<18,Female,1,1,Low Activity
+U00225,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U00226,1,1,346.71,346.71,34,26-35,Female,1,1,Low Activity
+U00227,2,2,0.0,0.0,23,18-25,Male,2,2,Low Activity
+U00228,1,1,117.68,117.68,18,18-25,Male,1,1,Low Activity
+U00229,2,2,0.0,0.0,22,18-25,Male,2,2,Low Activity
+U00230,2,2,119.04,59.52,17,<18,Female,2,2,Low Activity
+U00231,2,2,213.17,106.585,16,<18,Male,2,1,Low Activity
+U00232,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U00233,1,1,119.04,119.04,32,26-35,Male,1,1,Low Activity
+U00234,2,2,326.02,163.01,32,26-35,Male,2,2,Low Activity
+U00235,3,3,472.28,157.42666666666665,34,26-35,Male,2,2,Moderate Activity
+U00236,1,1,394.26,394.26,25,18-25,Female,1,1,Low Activity
+U00237,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U00238,15,15,1872.92,124.86133333333333,24,18-25,Female,10,3,Very High Activity
+U00239,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U00240,2,2,0.0,0.0,34,26-35,Female,2,2,Low Activity
+U00241,2,2,0.0,0.0,23,18-25,Female,2,2,Low Activity
+U00242,2,2,266.93,133.465,27,26-35,Male,2,2,Low Activity
+U00243,1,1,177.34,177.34,24,18-25,Female,1,1,Low Activity
+U00244,1,1,276.37,276.37,28,26-35,Male,1,1,Low Activity
+U00245,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U00246,1,1,472.28,472.28,31,26-35,Male,1,1,Low Activity
+U00247,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U00248,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U00249,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U00250,1,1,342.61,342.61,21,18-25,Male,1,1,Low Activity
+U00251,13,13,1310.57,100.81307692307692,28,26-35,Female,9,3,Very High Activity
+U00252,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U00253,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U00254,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U00255,1,1,394.26,394.26,26,26-35,Female,1,1,Low Activity
+U00256,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U00257,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U00258,1,1,117.68,117.68,19,18-25,Male,1,1,Low Activity
+U00259,1,1,342.61,342.61,35,26-35,Male,1,1,Low Activity
+U00260,15,15,2445.2,163.01333333333332,35,26-35,Male,9,3,Very High Activity
+U00261,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U00262,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U00263,4,4,0.0,0.0,15,<18,Male,4,3,Moderate Activity
+U00264,3,3,0.0,0.0,18,18-25,Female,3,1,Moderate Activity
+U00265,14,14,2087.85,149.13214285714284,15,<18,Male,9,3,Very High Activity
+U00266,1,1,212.39,212.39,25,18-25,Female,1,1,Low Activity
+U00267,4,4,906.53,226.6325,34,26-35,Male,3,3,Moderate Activity
+U00268,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U00269,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U00270,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U00271,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U00272,13,13,1229.1999999999998,94.55384615384614,25,18-25,Male,8,3,Very High Activity
+U00273,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U00274,2,2,177.34,88.67,32,26-35,Female,2,1,Low Activity
+U00275,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U00276,1,1,299.57,299.57,22,18-25,Female,1,1,Low Activity
+U00277,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U00278,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U00279,3,3,295.02,98.33999999999999,24,18-25,Male,3,1,Moderate Activity
+U00280,1,1,299.57,299.57,15,<18,Male,1,1,Low Activity
+U00281,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U00282,14,14,1034.17,73.86928571428572,19,18-25,Male,9,3,Very High Activity
+U00283,2,2,0.0,0.0,28,26-35,Male,2,1,Low Activity
+U00284,1,1,342.61,342.61,30,26-35,Male,1,1,Low Activity
+U00285,1,1,57.32,57.32,29,26-35,Female,1,1,Low Activity
+U00286,3,3,0.0,0.0,24,18-25,Female,2,2,Moderate Activity
+U00287,2,2,0.0,0.0,21,18-25,Female,2,2,Low Activity
+U00288,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U00289,1,1,0.78,0.78,17,<18,Female,1,1,Low Activity
+U00290,3,3,57.32,19.106666666666666,17,<18,Female,3,3,Moderate Activity
+U00291,3,3,276.37,92.12333333333333,16,<18,Female,3,3,Moderate Activity
+U00292,12,12,965.62,80.46833333333333,33,26-35,Male,8,3,Very High Activity
+U00293,13,13,1426.48,109.72923076923077,25,18-25,Female,9,3,Very High Activity
+U00294,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U00295,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U00296,2,2,177.34,88.67,31,26-35,Female,2,2,Low Activity
+U00297,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U00298,14,14,2020.42,144.31571428571428,32,26-35,Male,7,3,Very High Activity
+U00299,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U00300,2,2,487.92,243.96,26,26-35,Female,2,2,Low Activity
+U00301,14,14,1201.4299999999998,85.81642857142856,26,26-35,Male,9,3,Very High Activity
+U00302,1,1,37.89,37.89,34,26-35,Female,1,1,Low Activity
+U00303,14,14,1085.94,77.56714285714285,35,26-35,Male,7,3,Very High Activity
+U00304,1,1,327.99,327.99,35,26-35,Male,1,1,Low Activity
+U00305,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U00306,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U00307,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U00308,4,4,790.47,197.6175,26,26-35,Male,4,1,Moderate Activity
+U00309,1,1,342.61,342.61,27,26-35,Male,1,1,Low Activity
+U00310,11,11,465.17,42.28818181818182,26,26-35,Female,8,3,Very High Activity
+U00311,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U00312,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U00313,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U00314,3,3,0.0,0.0,19,18-25,Female,2,1,Moderate Activity
+U00315,12,12,972.29,81.02416666666666,31,26-35,Female,9,3,Very High Activity
+U00316,2,2,0.0,0.0,19,18-25,Female,2,2,Low Activity
+U00317,3,3,57.32,19.106666666666666,19,18-25,Male,3,2,Moderate Activity
+U00318,1,1,326.02,326.02,20,18-25,Male,1,1,Low Activity
+U00319,1,1,346.71,346.71,15,<18,Female,1,1,Low Activity
+U00320,1,1,285.05,285.05,29,26-35,Male,1,1,Low Activity
+U00321,14,14,1822.94,130.21,28,26-35,Male,8,3,Very High Activity
+U00322,14,14,626.3,44.73571428571428,23,18-25,Male,7,3,Very High Activity
+U00323,15,15,948.99,63.266,21,18-25,Female,8,3,Very High Activity
+U00324,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U00325,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U00326,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U00327,4,4,177.34,44.335,31,26-35,Female,3,3,Moderate Activity
+U00328,15,15,1319.8899999999999,87.99266666666666,29,26-35,Female,8,3,Very High Activity
+U00329,12,12,1632.4199999999998,136.035,20,18-25,Female,8,3,Very High Activity
+U00330,14,14,1268.62,90.61571428571428,15,<18,Female,8,3,Very High Activity
+U00331,1,1,276.37,276.37,17,<18,Male,1,1,Low Activity
+U00332,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U00333,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U00334,13,13,887.52,68.27076923076923,24,18-25,Female,9,3,Very High Activity
+U00335,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U00336,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U00337,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U00338,14,14,832.77,59.48357142857143,23,18-25,Female,8,3,Very High Activity
+U00339,16,16,2087.63,130.476875,29,26-35,Male,10,3,Very High Activity
+U00340,14,14,1220.42,87.17285714285715,30,26-35,Male,8,3,Very High Activity
+U00341,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U00342,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U00343,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U00344,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U00345,15,15,1367.21,91.14733333333334,16,<18,Male,9,3,Very High Activity
+U00346,3,3,326.02,108.67333333333333,33,26-35,Female,3,2,Moderate Activity
+U00347,2,2,346.71,173.355,32,26-35,Female,2,2,Low Activity
+U00348,1,1,299.57,299.57,30,26-35,Female,1,1,Low Activity
+U00349,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U00350,2,2,89.59,44.795,17,<18,Male,2,2,Low Activity
+U00351,13,13,777.1,59.776923076923076,18,18-25,Female,8,3,Very High Activity
+U00352,15,15,1009.69,67.31266666666667,28,26-35,Male,10,3,Very High Activity
+U00353,14,14,918.31,65.59357142857142,34,26-35,Female,10,3,Very High Activity
+U00354,2,2,0.0,0.0,35,26-35,Male,1,2,Low Activity
+U00355,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U00356,15,15,619.16,41.27733333333333,21,18-25,Female,10,3,Very High Activity
+U00357,15,15,2191.98,146.132,15,<18,Female,10,3,Very High Activity
+U00358,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U00359,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U00360,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U00361,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U00362,13,13,1113.03,85.61769230769231,16,<18,Male,8,3,Very High Activity
+U00363,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U00364,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U00365,13,13,500.28000000000003,38.48307692307692,30,26-35,Female,7,3,Very High Activity
+U00366,2,2,0.0,0.0,28,26-35,Male,2,2,Low Activity
+U00367,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U00368,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U00369,4,4,0.0,0.0,19,18-25,Male,4,2,Moderate Activity
+U00370,2,2,606.96,303.48,17,<18,Male,2,2,Low Activity
+U00371,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U00372,1,1,0.78,0.78,23,18-25,Male,1,1,Low Activity
+U00373,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U00374,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U00375,1,1,326.02,326.02,34,26-35,Female,1,1,Low Activity
+U00376,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U00377,1,1,177.34,177.34,21,18-25,Female,1,1,Low Activity
+U00378,2,2,0.0,0.0,21,18-25,Female,2,2,Low Activity
+U00379,14,14,3054.37,218.1692857142857,20,18-25,Male,8,3,Very High Activity
+U00380,1,1,0.78,0.78,23,18-25,Female,1,1,Low Activity
+U00381,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U00382,3,3,394.26,131.42,25,18-25,Male,3,3,Moderate Activity
+U00383,15,15,1668.4,111.22666666666667,29,26-35,Female,10,3,Very High Activity
+U00384,2,2,299.57,149.785,32,26-35,Female,2,2,Low Activity
+U00385,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U00386,2,2,299.57,149.785,29,26-35,Female,2,1,Low Activity
+U00387,1,1,0.78,0.78,29,26-35,Female,1,1,Low Activity
+U00388,1,1,342.61,342.61,18,18-25,Male,1,1,Low Activity
+U00389,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U00390,3,3,0.0,0.0,18,18-25,Female,2,2,Moderate Activity
+U00391,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U00392,1,1,327.99,327.99,19,18-25,Female,1,1,Low Activity
+U00393,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U00394,11,11,38.67,3.5154545454545456,30,26-35,Female,7,3,Very High Activity
+U00395,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U00396,2,2,0.0,0.0,30,26-35,Male,2,1,Low Activity
+U00397,1,1,37.89,37.89,16,<18,Male,1,1,Low Activity
+U00398,3,3,117.68,39.22666666666667,27,26-35,Female,3,3,Moderate Activity
+U00399,12,12,1648.36,137.36333333333332,31,26-35,Female,8,3,Very High Activity
+U00400,2,2,0.0,0.0,23,18-25,Male,2,2,Low Activity
+U00401,2,2,0.0,0.0,21,18-25,Female,2,2,Low Activity
+U00402,2,2,0.0,0.0,23,18-25,Male,2,1,Low Activity
+U00403,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U00404,14,14,1617.6399999999999,115.54571428571428,21,18-25,Female,10,3,Very High Activity
+U00405,2,2,689.3199999999999,344.65999999999997,24,18-25,Male,1,2,Low Activity
+U00406,15,15,1417.44,94.49600000000001,33,26-35,Male,11,3,Very High Activity
+U00407,15,15,1611.98,107.46533333333333,23,18-25,Male,10,3,Very High Activity
+U00408,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U00409,2,2,0.0,0.0,35,26-35,Male,2,2,Low Activity
+U00410,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U00411,12,12,789.6700000000001,65.80583333333334,17,<18,Female,8,3,Very High Activity
+U00412,4,4,236.72000000000003,59.18000000000001,24,18-25,Female,3,3,Moderate Activity
+U00413,2,2,472.28,236.14,23,18-25,Male,2,2,Low Activity
+U00414,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U00415,13,13,804.99,61.92230769230769,31,26-35,Female,7,3,Very High Activity
+U00416,2,2,0.0,0.0,17,<18,Female,2,1,Low Activity
+U00417,2,2,0.0,0.0,32,26-35,Female,2,1,Low Activity
+U00418,3,3,528.79,176.26333333333332,23,18-25,Female,3,2,Moderate Activity
+U00419,1,1,0.78,0.78,21,18-25,Female,1,1,Low Activity
+U00420,1,1,327.99,327.99,24,18-25,Female,1,1,Low Activity
+U00421,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U00422,3,3,285.05,95.01666666666667,15,<18,Female,3,2,Moderate Activity
+U00423,12,12,1601.22,133.435,27,26-35,Female,6,3,Very High Activity
+U00424,11,11,1213.72,110.33818181818182,35,26-35,Male,7,3,Very High Activity
+U00425,1,1,490.9,490.9,19,18-25,Male,1,1,Low Activity
+U00426,4,4,472.28,118.07,21,18-25,Male,3,1,Moderate Activity
+U00427,16,16,1374.23,85.889375,29,26-35,Female,9,3,Very High Activity
+U00428,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U00429,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U00430,1,1,487.92,487.92,27,26-35,Male,1,1,Low Activity
+U00431,1,1,487.92,487.92,15,<18,Female,1,1,Low Activity
+U00432,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U00433,1,1,276.37,276.37,32,26-35,Female,1,1,Low Activity
+U00434,1,1,177.34,177.34,22,18-25,Male,1,1,Low Activity
+U00435,1,1,119.04,119.04,34,26-35,Female,1,1,Low Activity
+U00436,1,1,490.9,490.9,20,18-25,Female,1,1,Low Activity
+U00437,3,3,0.0,0.0,28,26-35,Male,3,2,Moderate Activity
+U00438,14,14,633.26,45.23285714285714,21,18-25,Male,10,3,Very High Activity
+U00439,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U00440,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U00441,1,1,37.89,37.89,19,18-25,Male,1,1,Low Activity
+U00442,1,1,285.05,285.05,21,18-25,Female,1,1,Low Activity
+U00443,2,2,978.8199999999999,489.40999999999997,21,18-25,Female,2,2,Low Activity
+U00444,13,13,1568.18,120.62923076923077,15,<18,Female,10,3,Very High Activity
+U00445,1,1,285.05,285.05,31,26-35,Female,1,1,Low Activity
+U00446,2,2,53.86,26.93,19,18-25,Female,2,1,Low Activity
+U00447,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U00448,3,3,0.0,0.0,27,26-35,Male,2,2,Moderate Activity
+U00449,14,14,1328.04,94.86,33,26-35,Female,10,3,Very High Activity
+U00450,12,12,1262.44,105.20333333333333,20,18-25,Male,7,3,Very High Activity
+U00451,1,1,248.1,248.1,20,18-25,Male,1,1,Low Activity
+U00452,3,3,57.32,19.106666666666666,23,18-25,Male,3,1,Moderate Activity
+U00453,1,1,490.9,490.9,20,18-25,Male,1,1,Low Activity
+U00454,4,4,758.12,189.53,28,26-35,Female,3,2,Moderate Activity
+U00455,3,3,0.0,0.0,19,18-25,Male,3,2,Moderate Activity
+U00456,2,2,0.0,0.0,24,18-25,Female,2,2,Low Activity
+U00457,2,2,37.89,18.945,34,26-35,Female,2,1,Low Activity
+U00458,4,4,207.27,51.8175,31,26-35,Female,4,2,Moderate Activity
+U00459,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U00460,2,2,415.51,207.755,24,18-25,Female,2,2,Low Activity
+U00461,2,2,490.9,245.45,21,18-25,Female,2,2,Low Activity
+U00462,2,2,326.02,163.01,30,26-35,Male,2,2,Low Activity
+U00463,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U00464,12,12,1024.06,85.33833333333332,25,18-25,Male,7,3,Very High Activity
+U00465,1,1,0.78,0.78,26,26-35,Male,1,1,Low Activity
+U00466,2,2,212.39,106.195,32,26-35,Female,2,2,Low Activity
+U00467,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U00468,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U00469,2,2,0.0,0.0,20,18-25,Female,2,2,Low Activity
+U00470,1,1,89.59,89.59,18,18-25,Female,1,1,Low Activity
+U00471,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U00472,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U00473,3,3,342.61,114.20333333333333,32,26-35,Female,3,2,Moderate Activity
+U00474,1,1,57.32,57.32,31,26-35,Male,1,1,Low Activity
+U00475,3,3,604.36,201.45333333333335,24,18-25,Male,3,3,Moderate Activity
+U00476,2,2,276.37,138.185,29,26-35,Female,2,1,Low Activity
+U00477,1,1,37.89,37.89,19,18-25,Male,1,1,Low Activity
+U00478,2,2,57.32,28.66,30,26-35,Male,2,2,Low Activity
+U00479,2,2,0.0,0.0,33,26-35,Male,2,2,Low Activity
+U00480,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U00481,1,1,326.02,326.02,32,26-35,Female,1,1,Low Activity
+U00482,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U00483,1,1,487.92,487.92,22,18-25,Male,1,1,Low Activity
+U00484,2,2,0.0,0.0,16,<18,Male,2,1,Low Activity
+U00485,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U00486,2,2,0.0,0.0,21,18-25,Female,2,1,Low Activity
+U00487,2,2,0.0,0.0,15,<18,Female,1,2,Low Activity
+U00488,2,2,119.04,59.52,20,18-25,Male,2,2,Low Activity
+U00489,3,3,448.12,149.37333333333333,18,18-25,Male,3,2,Moderate Activity
+U00490,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U00491,1,1,394.26,394.26,20,18-25,Male,1,1,Low Activity
+U00492,1,1,177.34,177.34,20,18-25,Female,1,1,Low Activity
+U00493,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U00494,13,13,1007.0,77.46153846153847,26,26-35,Male,10,3,Very High Activity
+U00495,2,2,285.05,142.525,35,26-35,Female,2,1,Low Activity
+U00496,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U00497,3,3,0.0,0.0,21,18-25,Female,2,1,Moderate Activity
+U00498,3,3,0.0,0.0,20,18-25,Female,3,1,Moderate Activity
+U00499,1,1,415.51,415.51,21,18-25,Male,1,1,Low Activity
+U00500,2,2,590.71,295.355,16,<18,Female,2,2,Low Activity
+U00501,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U00502,2,2,0.78,0.39,22,18-25,Female,2,2,Low Activity
+U00503,2,2,0.0,0.0,15,<18,Male,2,1,Low Activity
+U00504,2,2,0.0,0.0,16,<18,Male,2,2,Low Activity
+U00505,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U00506,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U00507,2,2,177.34,88.67,15,<18,Male,2,2,Low Activity
+U00508,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U00509,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U00510,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U00511,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U00512,2,2,326.02,163.01,22,18-25,Male,2,2,Low Activity
+U00513,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U00514,3,3,589.96,196.65333333333334,30,26-35,Female,2,2,Moderate Activity
+U00515,2,2,0.0,0.0,19,18-25,Female,2,2,Low Activity
+U00516,1,1,177.34,177.34,33,26-35,Female,1,1,Low Activity
+U00517,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U00518,1,1,415.51,415.51,20,18-25,Female,1,1,Low Activity
+U00519,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U00520,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U00521,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U00522,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U00523,1,1,342.61,342.61,31,26-35,Male,1,1,Low Activity
+U00524,2,2,119.04,59.52,24,18-25,Male,1,2,Low Activity
+U00525,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U00526,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U00527,2,2,0.0,0.0,18,18-25,Male,2,2,Low Activity
+U00528,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U00529,2,2,0.0,0.0,25,18-25,Male,2,2,Low Activity
+U00530,1,1,53.86,53.86,35,26-35,Female,1,1,Low Activity
+U00531,2,2,394.26,197.13,24,18-25,Male,2,2,Low Activity
+U00532,1,1,472.28,472.28,15,<18,Female,1,1,Low Activity
+U00533,2,2,0.0,0.0,29,26-35,Male,2,2,Low Activity
+U00534,4,4,177.34,44.335,27,26-35,Female,4,2,Moderate Activity
+U00535,2,2,415.51,207.755,23,18-25,Male,2,1,Low Activity
+U00536,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U00537,2,2,346.71,173.355,25,18-25,Female,2,1,Low Activity
+U00538,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U00539,1,1,299.57,299.57,25,18-25,Male,1,1,Low Activity
+U00540,1,1,53.86,53.86,15,<18,Male,1,1,Low Activity
+U00541,3,3,330.07,110.02333333333333,19,18-25,Male,3,1,Moderate Activity
+U00542,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U00543,13,13,1371.22,105.47846153846154,18,18-25,Female,10,3,Very High Activity
+U00544,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U00545,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U00546,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U00547,1,1,177.34,177.34,19,18-25,Female,1,1,Low Activity
+U00548,14,14,1922.05,137.2892857142857,32,26-35,Female,9,3,Very High Activity
+U00549,1,1,53.86,53.86,17,<18,Female,1,1,Low Activity
+U00550,2,2,0.0,0.0,17,<18,Male,2,1,Low Activity
+U00551,4,4,234.66,58.665,35,26-35,Male,4,2,Moderate Activity
+U00552,2,2,0.0,0.0,30,26-35,Female,2,1,Low Activity
+U00553,2,2,0.0,0.0,15,<18,Male,2,1,Low Activity
+U00554,1,1,285.05,285.05,18,18-25,Male,1,1,Low Activity
+U00555,1,1,415.51,415.51,17,<18,Female,1,1,Low Activity
+U00556,14,14,1315.72,93.98,25,18-25,Female,9,2,Very High Activity
+U00557,2,2,0.78,0.39,31,26-35,Male,2,1,Low Activity
+U00558,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U00559,11,11,719.21,65.38272727272728,20,18-25,Male,9,3,Very High Activity
+U00560,2,2,790.47,395.235,32,26-35,Male,2,1,Low Activity
+U00561,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U00562,15,15,1598.45,106.56333333333333,23,18-25,Female,10,3,Very High Activity
+U00563,2,2,0.0,0.0,31,26-35,Female,2,2,Low Activity
+U00564,1,1,53.86,53.86,15,<18,Male,1,1,Low Activity
+U00565,2,2,248.1,124.05,28,26-35,Male,2,1,Low Activity
+U00566,2,2,0.78,0.39,31,26-35,Male,2,2,Low Activity
+U00567,1,1,285.05,285.05,20,18-25,Male,1,1,Low Activity
+U00568,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U00569,14,14,1063.45,75.96071428571429,15,<18,Female,7,3,Very High Activity
+U00570,14,14,777.67,55.54785714285714,27,26-35,Male,9,3,Very High Activity
+U00571,2,2,0.0,0.0,22,18-25,Female,2,1,Low Activity
+U00572,13,13,567.28,43.636923076923075,32,26-35,Male,9,3,Very High Activity
+U00573,11,11,1047.29,95.20818181818181,30,26-35,Male,8,3,Very High Activity
+U00574,14,14,779.6099999999999,55.686428571428564,33,26-35,Female,9,3,Very High Activity
+U00575,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U00576,13,13,1001.74,77.05692307692308,16,<18,Male,9,3,Very High Activity
+U00577,1,1,342.61,342.61,17,<18,Female,1,1,Low Activity
+U00578,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U00579,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U00580,3,3,0.0,0.0,24,18-25,Female,3,2,Moderate Activity
+U00581,2,2,89.59,44.795,32,26-35,Female,2,2,Low Activity
+U00582,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U00583,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U00584,14,14,2559.85,182.84642857142856,31,26-35,Female,8,3,Very High Activity
+U00585,2,2,0.0,0.0,19,18-25,Female,2,1,Low Activity
+U00586,1,1,299.57,299.57,21,18-25,Male,1,1,Low Activity
+U00587,2,2,346.71,173.355,22,18-25,Female,2,2,Low Activity
+U00588,1,1,57.32,57.32,24,18-25,Male,1,1,Low Activity
+U00589,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U00590,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U00591,2,2,0.0,0.0,35,26-35,Male,2,2,Low Activity
+U00592,14,14,963.18,68.79857142857142,18,18-25,Female,8,3,Very High Activity
+U00593,2,2,89.59,44.795,23,18-25,Male,2,2,Low Activity
+U00594,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U00595,14,14,1075.46,76.81857142857143,29,26-35,Male,9,3,Very High Activity
+U00596,2,2,177.34,88.67,26,26-35,Male,2,2,Low Activity
+U00597,1,1,248.1,248.1,28,26-35,Female,1,1,Low Activity
+U00598,1,1,415.51,415.51,28,26-35,Male,1,1,Low Activity
+U00599,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U00600,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U00601,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U00602,3,3,0.0,0.0,25,18-25,Female,3,2,Moderate Activity
+U00603,2,2,0.78,0.39,35,26-35,Male,2,2,Low Activity
+U00604,14,14,662.4399999999999,47.317142857142855,30,26-35,Female,9,3,Very High Activity
+U00605,3,3,117.68,39.22666666666667,30,26-35,Female,3,3,Moderate Activity
+U00606,2,2,0.0,0.0,33,26-35,Female,2,2,Low Activity
+U00607,2,2,285.99,142.995,30,26-35,Male,2,2,Low Activity
+U00608,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U00609,4,4,327.99,81.9975,33,26-35,Female,4,2,Moderate Activity
+U00610,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U00611,2,2,415.51,207.755,30,26-35,Male,2,1,Low Activity
+U00612,1,1,57.32,57.32,23,18-25,Male,1,1,Low Activity
+U00613,2,2,490.9,245.45,24,18-25,Male,2,1,Low Activity
+U00614,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U00615,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U00616,2,2,0.0,0.0,19,18-25,Female,2,2,Low Activity
+U00617,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U00618,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U00619,12,12,636.6500000000001,53.054166666666674,32,26-35,Female,9,3,Very High Activity
+U00620,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U00621,2,2,0.0,0.0,20,18-25,Male,2,2,Low Activity
+U00622,13,13,524.05,40.31153846153846,28,26-35,Female,8,3,Very High Activity
+U00623,2,2,119.04,59.52,23,18-25,Female,2,1,Low Activity
+U00624,2,2,0.0,0.0,34,26-35,Female,2,1,Low Activity
+U00625,4,4,394.26,98.565,28,26-35,Male,3,2,Moderate Activity
+U00626,1,1,177.34,177.34,19,18-25,Male,1,1,Low Activity
+U00627,4,4,487.92,121.98,34,26-35,Female,3,3,Moderate Activity
+U00628,2,2,472.28,236.14,32,26-35,Female,2,1,Low Activity
+U00629,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U00630,3,3,296.38,98.79333333333334,17,<18,Male,2,3,Moderate Activity
+U00631,2,2,0.0,0.0,20,18-25,Male,2,2,Low Activity
+U00632,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U00633,14,14,1177.45,84.10357142857143,35,26-35,Female,9,3,Very High Activity
+U00634,3,3,276.37,92.12333333333333,15,<18,Female,2,1,Moderate Activity
+U00635,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U00636,13,13,1701.73,130.9023076923077,21,18-25,Female,10,3,Very High Activity
+U00637,2,2,529.6,264.8,22,18-25,Female,2,2,Low Activity
+U00638,2,2,57.32,28.66,19,18-25,Female,1,1,Low Activity
+U00639,14,14,1010.86,72.20428571428572,33,26-35,Female,8,3,Very High Activity
+U00640,1,1,490.9,490.9,31,26-35,Male,1,1,Low Activity
+U00641,1,1,342.61,342.61,32,26-35,Male,1,1,Low Activity
+U00642,2,2,0.0,0.0,17,<18,Male,2,2,Low Activity
+U00643,1,1,327.99,327.99,20,18-25,Female,1,1,Low Activity
+U00644,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U00645,1,1,299.57,299.57,23,18-25,Female,1,1,Low Activity
+U00646,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U00647,1,1,487.92,487.92,26,26-35,Female,1,1,Low Activity
+U00648,2,2,472.28,236.14,19,18-25,Male,2,2,Low Activity
+U00649,1,1,415.51,415.51,32,26-35,Male,1,1,Low Activity
+U00650,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U00651,4,4,296.38,74.095,29,26-35,Male,3,3,Moderate Activity
+U00652,2,2,394.26,197.13,16,<18,Female,2,2,Low Activity
+U00653,1,1,346.71,346.71,15,<18,Male,1,1,Low Activity
+U00654,2,2,53.86,26.93,24,18-25,Male,2,1,Low Activity
+U00655,1,1,53.86,53.86,33,26-35,Female,1,1,Low Activity
+U00656,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U00657,1,1,89.59,89.59,23,18-25,Male,1,1,Low Activity
+U00658,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U00659,2,2,0.0,0.0,33,26-35,Male,2,1,Low Activity
+U00660,2,2,577.51,288.755,22,18-25,Male,2,2,Low Activity
+U00661,4,4,212.39,53.0975,23,18-25,Female,3,3,Moderate Activity
+U00662,1,1,285.05,285.05,30,26-35,Female,1,1,Low Activity
+U00663,1,1,285.05,285.05,35,26-35,Male,1,1,Low Activity
+U00664,1,1,117.68,117.68,17,<18,Male,1,1,Low Activity
+U00665,1,1,37.89,37.89,35,26-35,Male,1,1,Low Activity
+U00666,12,12,969.72,80.81,30,26-35,Female,9,3,Very High Activity
+U00667,2,2,212.39,106.195,18,18-25,Female,2,1,Low Activity
+U00668,2,2,0.0,0.0,34,26-35,Female,2,2,Low Activity
+U00669,1,1,248.1,248.1,20,18-25,Female,1,1,Low Activity
+U00670,2,2,0.0,0.0,17,<18,Male,2,2,Low Activity
+U00671,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U00672,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U00673,2,2,380.5,190.25,24,18-25,Female,2,2,Low Activity
+U00674,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U00675,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U00676,2,2,0.0,0.0,32,26-35,Male,2,1,Low Activity
+U00677,1,1,415.51,415.51,35,26-35,Female,1,1,Low Activity
+U00678,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U00679,1,1,276.37,276.37,28,26-35,Male,1,1,Low Activity
+U00680,1,1,487.92,487.92,35,26-35,Female,1,1,Low Activity
+U00681,2,2,0.0,0.0,32,26-35,Male,2,2,Low Activity
+U00682,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U00683,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U00684,3,3,0.0,0.0,28,26-35,Female,2,2,Moderate Activity
+U00685,1,1,487.92,487.92,29,26-35,Female,1,1,Low Activity
+U00686,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U00687,15,15,1775.49,118.366,29,26-35,Female,11,3,Very High Activity
+U00688,2,2,0.78,0.39,30,26-35,Female,1,1,Low Activity
+U00689,2,2,0.0,0.0,19,18-25,Female,2,2,Low Activity
+U00690,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U00691,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U00692,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U00693,1,1,57.32,57.32,35,26-35,Female,1,1,Low Activity
+U00694,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U00695,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U00696,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U00697,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U00698,2,2,37.89,18.945,32,26-35,Female,2,1,Low Activity
+U00699,2,2,0.0,0.0,20,18-25,Male,2,2,Low Activity
+U00700,1,1,117.68,117.68,25,18-25,Male,1,1,Low Activity
+U00701,14,14,1435.67,102.54785714285715,32,26-35,Male,10,3,Very High Activity
+U00702,3,3,0.0,0.0,22,18-25,Female,3,2,Moderate Activity
+U00703,3,3,469.37,156.45666666666668,32,26-35,Female,3,3,Moderate Activity
+U00704,13,13,1528.24,117.55692307692308,30,26-35,Male,8,3,Very High Activity
+U00705,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U00706,2,2,787.49,393.745,21,18-25,Male,2,2,Low Activity
+U00707,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U00708,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U00709,14,14,1042.92,74.49428571428572,23,18-25,Female,10,3,Very High Activity
+U00710,1,1,248.1,248.1,19,18-25,Male,1,1,Low Activity
+U00711,2,2,327.99,163.995,27,26-35,Male,2,1,Low Activity
+U00712,2,2,0.0,0.0,27,26-35,Female,2,2,Low Activity
+U00713,1,1,472.28,472.28,17,<18,Female,1,1,Low Activity
+U00714,3,3,0.0,0.0,25,18-25,Male,3,2,Moderate Activity
+U00715,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U00716,4,4,295.02,73.755,29,26-35,Male,3,3,Moderate Activity
+U00717,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U00718,2,2,285.05,142.525,27,26-35,Female,2,1,Low Activity
+U00719,1,1,117.68,117.68,25,18-25,Female,1,1,Low Activity
+U00720,1,1,415.51,415.51,17,<18,Female,1,1,Low Activity
+U00721,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U00722,3,3,276.37,92.12333333333333,16,<18,Female,3,2,Moderate Activity
+U00723,14,14,1213.66,86.69000000000001,35,26-35,Male,10,3,Very High Activity
+U00724,15,15,1375.81,91.72066666666666,16,<18,Female,9,3,Very High Activity
+U00725,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U00726,1,1,472.28,472.28,26,26-35,Female,1,1,Low Activity
+U00727,4,4,389.73,97.4325,33,26-35,Female,3,1,Moderate Activity
+U00728,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U00729,2,2,0.0,0.0,30,26-35,Male,2,2,Low Activity
+U00730,2,2,487.92,243.96,30,26-35,Male,2,1,Low Activity
+U00731,2,2,285.05,142.525,16,<18,Male,2,1,Low Activity
+U00732,1,1,394.26,394.26,22,18-25,Male,1,1,Low Activity
+U00733,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U00734,4,4,299.57,74.8925,20,18-25,Male,3,3,Moderate Activity
+U00735,2,2,212.39,106.195,17,<18,Male,2,1,Low Activity
+U00736,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U00737,2,2,207.27,103.635,18,18-25,Male,2,2,Low Activity
+U00738,3,3,250.27999999999997,83.42666666666666,29,26-35,Female,3,2,Moderate Activity
+U00739,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U00740,1,1,327.99,327.99,34,26-35,Female,1,1,Low Activity
+U00741,4,4,461.65000000000003,115.41250000000001,33,26-35,Female,3,2,Moderate Activity
+U00742,1,1,327.99,327.99,29,26-35,Male,1,1,Low Activity
+U00743,4,4,37.89,9.4725,19,18-25,Male,3,2,Moderate Activity
+U00744,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U00745,2,2,0.0,0.0,29,26-35,Female,2,1,Low Activity
+U00746,2,2,276.37,138.185,28,26-35,Male,2,1,Low Activity
+U00747,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U00748,2,2,0.0,0.0,30,26-35,Female,2,1,Low Activity
+U00749,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U00750,1,1,487.92,487.92,23,18-25,Female,1,1,Low Activity
+U00751,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U00752,13,13,1666.6499999999999,128.20384615384614,30,26-35,Male,9,3,Very High Activity
+U00753,2,2,0.0,0.0,28,26-35,Male,2,2,Low Activity
+U00754,1,1,490.9,490.9,33,26-35,Male,1,1,Low Activity
+U00755,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U00756,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U00757,1,1,53.86,53.86,22,18-25,Female,1,1,Low Activity
+U00758,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U00759,1,1,0.78,0.78,22,18-25,Male,1,1,Low Activity
+U00760,13,13,1583.69,121.8223076923077,21,18-25,Female,9,3,Very High Activity
+U00761,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U00762,1,1,346.71,346.71,22,18-25,Female,1,1,Low Activity
+U00763,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U00764,2,2,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U00765,11,11,1188.0,108.0,31,26-35,Female,7,3,Very High Activity
+U00766,3,3,0.0,0.0,31,26-35,Female,2,2,Moderate Activity
+U00767,14,14,1529.52,109.25142857142858,16,<18,Female,10,3,Very High Activity
+U00768,2,2,0.0,0.0,19,18-25,Male,2,2,Low Activity
+U00769,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U00770,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U00771,1,1,285.05,285.05,18,18-25,Male,1,1,Low Activity
+U00772,13,13,342.61,26.354615384615386,24,18-25,Female,9,3,Very High Activity
+U00773,1,1,119.04,119.04,25,18-25,Female,1,1,Low Activity
+U00774,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U00775,14,14,1391.4,99.38571428571429,29,26-35,Female,8,3,Very High Activity
+U00776,1,1,490.9,490.9,26,26-35,Female,1,1,Low Activity
+U00777,4,4,999.88,249.97,29,26-35,Male,4,2,Moderate Activity
+U00778,2,2,0.0,0.0,33,26-35,Male,2,2,Low Activity
+U00779,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U00780,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U00781,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U00782,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U00783,2,2,57.32,28.66,35,26-35,Female,2,2,Low Activity
+U00784,2,2,299.57,149.785,22,18-25,Female,2,1,Low Activity
+U00785,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U00786,13,13,1193.7,91.82307692307693,32,26-35,Female,8,3,Very High Activity
+U00787,9,9,510.16999999999996,56.68555555555555,29,26-35,Female,6,3,High Activity
+U00788,2,2,0.0,0.0,24,18-25,Male,2,2,Low Activity
+U00789,2,2,37.89,18.945,17,<18,Female,2,2,Low Activity
+U00790,2,2,347.48999999999995,173.74499999999998,16,<18,Female,2,1,Low Activity
+U00791,2,2,89.59,44.795,34,26-35,Female,2,1,Low Activity
+U00792,1,1,346.71,346.71,20,18-25,Male,1,1,Low Activity
+U00793,4,4,212.39,53.0975,19,18-25,Male,3,3,Moderate Activity
+U00794,2,2,0.0,0.0,23,18-25,Female,2,2,Low Activity
+U00795,3,3,285.05,95.01666666666667,34,26-35,Female,3,1,Moderate Activity
+U00796,2,2,212.39,106.195,22,18-25,Female,2,2,Low Activity
+U00797,3,3,0.0,0.0,20,18-25,Male,3,2,Moderate Activity
+U00798,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U00799,2,2,0.0,0.0,26,26-35,Female,2,1,Low Activity
+U00800,2,2,415.51,207.755,29,26-35,Female,2,1,Low Activity
+U00801,2,2,415.51,207.755,32,26-35,Female,2,1,Low Activity
+U00802,2,2,119.04,59.52,31,26-35,Male,2,2,Low Activity
+U00803,3,3,276.37,92.12333333333333,26,26-35,Male,3,2,Moderate Activity
+U00804,2,2,89.59,44.795,24,18-25,Female,2,2,Low Activity
+U00805,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U00806,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U00807,1,1,342.61,342.61,35,26-35,Female,1,1,Low Activity
+U00808,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U00809,1,1,490.9,490.9,24,18-25,Male,1,1,Low Activity
+U00810,1,1,276.37,276.37,28,26-35,Male,1,1,Low Activity
+U00811,3,3,487.92,162.64000000000001,25,18-25,Female,2,2,Moderate Activity
+U00812,3,3,285.05,95.01666666666667,24,18-25,Female,2,2,Moderate Activity
+U00813,4,4,0.0,0.0,33,26-35,Male,4,3,Moderate Activity
+U00814,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U00815,2,2,415.51,207.755,17,<18,Male,2,1,Low Activity
+U00816,3,3,89.59,29.863333333333333,34,26-35,Male,3,1,Moderate Activity
+U00817,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U00818,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U00819,14,14,1143.41,81.67214285714286,28,26-35,Female,9,3,Very High Activity
+U00820,3,3,487.92,162.64000000000001,31,26-35,Female,3,3,Moderate Activity
+U00821,13,13,1597.3,122.86923076923077,23,18-25,Male,11,3,Very High Activity
+U00822,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U00823,1,1,212.39,212.39,22,18-25,Male,1,1,Low Activity
+U00824,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U00825,3,3,487.92,162.64000000000001,26,26-35,Male,3,2,Moderate Activity
+U00826,1,1,53.86,53.86,16,<18,Male,1,1,Low Activity
+U00827,2,2,0.0,0.0,26,26-35,Female,2,1,Low Activity
+U00828,3,3,592.85,197.61666666666667,25,18-25,Male,3,2,Moderate Activity
+U00829,16,16,1338.31,83.644375,22,18-25,Male,8,3,Very High Activity
+U00830,1,1,326.02,326.02,26,26-35,Female,1,1,Low Activity
+U00831,2,2,0.0,0.0,18,18-25,Male,2,2,Low Activity
+U00832,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U00833,3,3,0.0,0.0,32,26-35,Female,3,2,Moderate Activity
+U00834,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U00835,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U00836,15,15,931.7,62.11333333333334,29,26-35,Female,9,3,Very High Activity
+U00837,4,4,285.05,71.2625,28,26-35,Male,3,2,Moderate Activity
+U00838,12,12,1027.19,85.59916666666668,25,18-25,Female,8,3,Very High Activity
+U00839,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U00840,3,3,394.26,131.42,18,18-25,Male,3,2,Moderate Activity
+U00841,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U00842,2,2,89.59,44.795,21,18-25,Female,2,2,Low Activity
+U00843,1,1,276.37,276.37,21,18-25,Male,1,1,Low Activity
+U00844,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U00845,1,1,53.86,53.86,25,18-25,Female,1,1,Low Activity
+U00846,1,1,57.32,57.32,16,<18,Male,1,1,Low Activity
+U00847,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U00848,4,4,415.51,103.8775,28,26-35,Male,3,3,Moderate Activity
+U00849,2,2,248.1,124.05,20,18-25,Male,1,1,Low Activity
+U00850,15,15,897.95,59.86333333333334,26,26-35,Male,9,3,Very High Activity
+U00851,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U00852,13,13,1579.1399999999999,121.47230769230768,23,18-25,Male,8,3,Very High Activity
+U00853,2,2,0.0,0.0,24,18-25,Male,2,1,Low Activity
+U00854,2,2,299.57,149.785,28,26-35,Male,2,2,Low Activity
+U00855,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U00856,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U00857,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U00858,15,15,396.47,26.431333333333335,20,18-25,Male,8,3,Very High Activity
+U00859,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U00860,1,1,490.9,490.9,23,18-25,Female,1,1,Low Activity
+U00861,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U00862,1,1,487.92,487.92,18,18-25,Female,1,1,Low Activity
+U00863,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U00864,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U00865,1,1,285.05,285.05,27,26-35,Male,1,1,Low Activity
+U00866,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U00867,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U00868,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U00869,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U00870,15,15,966.14,64.40933333333334,22,18-25,Male,10,3,Very High Activity
+U00871,2,2,0.0,0.0,26,26-35,Male,2,2,Low Activity
+U00872,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U00873,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U00874,12,12,2175.74,181.31166666666664,25,18-25,Male,10,3,Very High Activity
+U00875,1,1,57.32,57.32,23,18-25,Male,1,1,Low Activity
+U00876,14,14,2352.5,168.03571428571428,27,26-35,Male,11,3,Very High Activity
+U00877,1,1,490.9,490.9,35,26-35,Male,1,1,Low Activity
+U00878,1,1,177.34,177.34,31,26-35,Male,1,1,Low Activity
+U00879,3,3,389.15999999999997,129.72,18,18-25,Female,3,2,Moderate Activity
+U00880,1,1,177.34,177.34,15,<18,Male,1,1,Low Activity
+U00881,16,16,2703.36,168.96,34,26-35,Female,10,3,Very High Activity
+U00882,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U00883,3,3,472.28,157.42666666666665,27,26-35,Female,3,2,Moderate Activity
+U00884,1,1,487.92,487.92,19,18-25,Male,1,1,Low Activity
+U00885,1,1,117.68,117.68,28,26-35,Female,1,1,Low Activity
+U00886,2,2,0.0,0.0,22,18-25,Female,2,2,Low Activity
+U00887,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U00888,4,4,491.67999999999995,122.91999999999999,15,<18,Male,3,2,Moderate Activity
+U00889,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U00890,2,2,299.57,149.785,31,26-35,Female,2,1,Low Activity
+U00891,2,2,0.0,0.0,28,26-35,Female,2,2,Low Activity
+U00892,4,4,0.0,0.0,35,26-35,Male,4,1,Moderate Activity
+U00893,12,12,1271.25,105.9375,15,<18,Male,9,3,Very High Activity
+U00894,3,3,511.94,170.64666666666668,28,26-35,Female,3,2,Moderate Activity
+U00895,4,4,548.22,137.055,15,<18,Male,3,2,Moderate Activity
+U00896,4,4,118.46000000000001,29.615000000000002,29,26-35,Female,4,2,Moderate Activity
+U00897,1,1,177.34,177.34,20,18-25,Male,1,1,Low Activity
+U00898,12,12,663.22,55.26833333333334,24,18-25,Female,8,3,Very High Activity
+U00899,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U00900,2,2,119.04,59.52,26,26-35,Female,2,1,Low Activity
+U00901,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U00902,2,2,248.1,124.05,29,26-35,Male,2,1,Low Activity
+U00903,13,13,1238.72,95.28615384615385,29,26-35,Female,9,3,Very High Activity
+U00904,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U00905,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U00906,1,1,299.57,299.57,34,26-35,Female,1,1,Low Activity
+U00907,12,12,2048.18,170.68166666666664,23,18-25,Female,8,3,Very High Activity
+U00908,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U00909,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U00910,3,3,367.14,122.38,20,18-25,Female,3,2,Moderate Activity
+U00911,10,10,996.65,99.66499999999999,15,<18,Female,7,3,High Activity
+U00912,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U00913,1,1,57.32,57.32,35,26-35,Female,1,1,Low Activity
+U00914,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U00915,13,13,1343.61,103.35461538461537,24,18-25,Female,8,3,Very High Activity
+U00916,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U00917,15,15,1319.9099999999999,87.99399999999999,28,26-35,Female,11,3,Very High Activity
+U00918,1,1,299.57,299.57,35,26-35,Male,1,1,Low Activity
+U00919,14,14,1415.33,101.095,28,26-35,Male,8,3,Very High Activity
+U00920,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U00921,1,1,487.92,487.92,26,26-35,Male,1,1,Low Activity
+U00922,2,2,0.0,0.0,31,26-35,Female,2,2,Low Activity
+U00923,3,3,511.94,170.64666666666668,29,26-35,Female,3,3,Moderate Activity
+U00924,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U00925,2,2,490.9,245.45,31,26-35,Male,2,2,Low Activity
+U00926,2,2,342.61,171.305,32,26-35,Male,2,2,Low Activity
+U00927,2,2,0.0,0.0,26,26-35,Male,2,1,Low Activity
+U00928,12,12,1050.48,87.54,33,26-35,Female,9,3,Very High Activity
+U00929,4,4,444.48,111.12,25,18-25,Female,3,2,Moderate Activity
+U00930,3,3,534.55,178.1833333333333,34,26-35,Male,3,1,Moderate Activity
+U00931,1,1,117.68,117.68,31,26-35,Male,1,1,Low Activity
+U00932,1,1,57.32,57.32,21,18-25,Male,1,1,Low Activity
+U00933,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U00934,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U00935,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U00936,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U00937,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U00938,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U00939,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U00940,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U00941,2,2,285.05,142.525,20,18-25,Female,2,2,Low Activity
+U00942,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U00943,2,2,0.0,0.0,21,18-25,Female,2,1,Low Activity
+U00944,1,1,117.68,117.68,28,26-35,Female,1,1,Low Activity
+U00945,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U00946,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U00947,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U00948,3,3,0.0,0.0,34,26-35,Male,3,2,Moderate Activity
+U00949,4,4,0.0,0.0,16,<18,Male,3,3,Moderate Activity
+U00950,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U00951,2,2,342.61,171.305,15,<18,Male,2,1,Low Activity
+U00952,2,2,0.0,0.0,22,18-25,Female,2,2,Low Activity
+U00953,3,3,89.59,29.863333333333333,31,26-35,Male,3,2,Moderate Activity
+U00954,2,2,0.0,0.0,21,18-25,Female,2,2,Low Activity
+U00955,3,3,0.0,0.0,35,26-35,Female,2,2,Moderate Activity
+U00956,1,1,327.99,327.99,21,18-25,Female,1,1,Low Activity
+U00957,3,3,212.39,70.79666666666667,22,18-25,Male,2,2,Moderate Activity
+U00958,2,2,0.0,0.0,28,26-35,Female,1,2,Low Activity
+U00959,13,13,1444.05,111.08076923076922,22,18-25,Male,9,3,Very High Activity
+U00960,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U00961,14,14,1242.93,88.7807142857143,31,26-35,Male,9,3,Very High Activity
+U00962,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U00963,2,2,0.0,0.0,20,18-25,Female,2,2,Low Activity
+U00964,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U00965,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U00966,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U00967,14,14,816.75,58.339285714285715,15,<18,Male,8,3,Very High Activity
+U00968,2,2,0.0,0.0,21,18-25,Male,2,2,Low Activity
+U00969,1,1,248.1,248.1,29,26-35,Male,1,1,Low Activity
+U00970,1,1,285.05,285.05,18,18-25,Male,1,1,Low Activity
+U00971,3,3,490.9,163.63333333333333,19,18-25,Female,3,3,Moderate Activity
+U00972,4,4,591.3199999999999,147.82999999999998,27,26-35,Female,4,2,Moderate Activity
+U00973,1,1,57.32,57.32,22,18-25,Male,1,1,Low Activity
+U00974,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U00975,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U00976,12,12,1462.63,121.88583333333334,30,26-35,Male,9,3,Very High Activity
+U00977,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U00978,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U00979,3,3,0.0,0.0,16,<18,Female,3,2,Moderate Activity
+U00980,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U00981,13,13,1437.21,110.55461538461539,34,26-35,Male,9,3,Very High Activity
+U00982,1,1,346.71,346.71,27,26-35,Female,1,1,Low Activity
+U00983,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U00984,1,1,415.51,415.51,27,26-35,Male,1,1,Low Activity
+U00985,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U00986,2,2,0.0,0.0,25,18-25,Male,1,2,Low Activity
+U00987,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U00988,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U00989,12,12,993.62,82.80166666666666,26,26-35,Male,9,3,Very High Activity
+U00990,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U00991,1,1,89.59,89.59,30,26-35,Male,1,1,Low Activity
+U00992,4,4,952.31,238.0775,22,18-25,Female,4,2,Moderate Activity
+U00993,1,1,326.02,326.02,17,<18,Male,1,1,Low Activity
+U00994,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U00995,2,2,0.0,0.0,27,26-35,Female,2,2,Low Activity
+U00996,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U00997,15,15,460.49,30.699333333333335,34,26-35,Female,8,3,Very High Activity
+U00998,2,2,327.99,163.995,18,18-25,Male,2,2,Low Activity
+U00999,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U01000,12,12,1151.4199999999998,95.95166666666665,16,<18,Female,7,3,Very High Activity
+U01001,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U01002,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U01003,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U01004,1,1,415.51,415.51,16,<18,Female,1,1,Low Activity
+U01005,1,1,119.04,119.04,19,18-25,Male,1,1,Low Activity
+U01006,2,2,37.89,18.945,19,18-25,Male,2,2,Low Activity
+U01007,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01008,2,2,0.0,0.0,18,18-25,Male,2,2,Low Activity
+U01009,1,1,0.78,0.78,15,<18,Female,1,1,Low Activity
+U01010,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U01011,1,1,248.1,248.1,18,18-25,Male,1,1,Low Activity
+U01012,1,1,327.99,327.99,35,26-35,Female,1,1,Low Activity
+U01013,3,3,299.57,99.85666666666667,22,18-25,Male,3,2,Moderate Activity
+U01014,3,3,0.0,0.0,17,<18,Male,3,2,Moderate Activity
+U01015,15,15,1192.84,79.52266666666667,29,26-35,Male,9,3,Very High Activity
+U01016,2,2,57.32,28.66,27,26-35,Female,2,1,Low Activity
+U01017,2,2,611.0699999999999,305.53499999999997,21,18-25,Female,1,2,Low Activity
+U01018,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U01019,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U01020,12,12,1169.1499999999999,97.42916666666666,28,26-35,Male,9,3,Very High Activity
+U01021,2,2,0.0,0.0,29,26-35,Female,2,1,Low Activity
+U01022,13,13,869.3,66.86923076923077,17,<18,Male,10,3,Very High Activity
+U01023,2,2,0.0,0.0,18,18-25,Male,2,2,Low Activity
+U01024,3,3,487.92,162.64000000000001,17,<18,Female,2,3,Moderate Activity
+U01025,1,1,490.9,490.9,34,26-35,Male,1,1,Low Activity
+U01026,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U01027,2,2,0.0,0.0,32,26-35,Male,2,1,Low Activity
+U01028,2,2,327.99,163.995,23,18-25,Female,2,1,Low Activity
+U01029,1,1,119.04,119.04,15,<18,Male,1,1,Low Activity
+U01030,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U01031,13,13,1539.38,118.41384615384617,15,<18,Male,8,3,Very High Activity
+U01032,14,14,1389.57,99.255,16,<18,Male,10,3,Very High Activity
+U01033,13,13,1830.5,140.80769230769232,30,26-35,Male,7,3,Very High Activity
+U01034,12,12,149.07,12.4225,18,18-25,Female,7,3,Very High Activity
+U01035,3,3,772.97,257.6566666666667,33,26-35,Male,2,2,Moderate Activity
+U01036,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U01037,1,1,415.51,415.51,32,26-35,Female,1,1,Low Activity
+U01038,1,1,342.61,342.61,33,26-35,Male,1,1,Low Activity
+U01039,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U01040,1,1,285.05,285.05,21,18-25,Female,1,1,Low Activity
+U01041,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U01042,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U01043,4,4,57.32,14.33,19,18-25,Female,3,2,Moderate Activity
+U01044,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U01045,2,2,0.0,0.0,32,26-35,Female,2,2,Low Activity
+U01046,1,1,53.86,53.86,28,26-35,Female,1,1,Low Activity
+U01047,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U01048,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U01049,2,2,0.0,0.0,34,26-35,Male,1,2,Low Activity
+U01050,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U01051,2,2,0.0,0.0,18,18-25,Female,2,1,Low Activity
+U01052,2,2,0.0,0.0,22,18-25,Female,2,2,Low Activity
+U01053,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U01054,2,2,0.0,0.0,20,18-25,Female,2,1,Low Activity
+U01055,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U01056,2,2,0.78,0.39,15,<18,Male,2,2,Low Activity
+U01057,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U01058,2,2,606.65,303.325,34,26-35,Female,2,2,Low Activity
+U01059,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01060,1,1,119.04,119.04,34,26-35,Female,1,1,Low Activity
+U01061,2,2,342.61,171.305,22,18-25,Female,1,2,Low Activity
+U01062,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U01063,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U01064,2,2,487.92,243.96,26,26-35,Female,2,2,Low Activity
+U01065,4,4,327.99,81.9975,15,<18,Male,4,2,Moderate Activity
+U01066,12,12,970.1700000000001,80.84750000000001,19,18-25,Female,7,3,Very High Activity
+U01067,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U01068,2,2,0.0,0.0,32,26-35,Female,2,2,Low Activity
+U01069,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U01070,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U01071,2,2,497.44,248.72,19,18-25,Female,2,2,Low Activity
+U01072,1,1,327.99,327.99,32,26-35,Male,1,1,Low Activity
+U01073,2,2,748.65,374.325,23,18-25,Male,2,2,Low Activity
+U01074,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U01075,2,2,490.9,245.45,17,<18,Male,2,1,Low Activity
+U01076,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U01077,2,2,490.9,245.45,24,18-25,Female,2,1,Low Activity
+U01078,2,2,0.0,0.0,27,26-35,Male,2,1,Low Activity
+U01079,13,13,37.89,2.914615384615385,21,18-25,Male,7,3,Very High Activity
+U01080,1,1,117.68,117.68,30,26-35,Female,1,1,Low Activity
+U01081,1,1,326.02,326.02,26,26-35,Female,1,1,Low Activity
+U01082,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U01083,15,15,1779.54,118.636,29,26-35,Male,11,3,Very High Activity
+U01084,13,13,2165.7799999999997,166.59846153846152,24,18-25,Male,8,3,Very High Activity
+U01085,2,2,119.04,59.52,26,26-35,Female,2,1,Low Activity
+U01086,1,1,117.68,117.68,29,26-35,Female,1,1,Low Activity
+U01087,1,1,299.57,299.57,19,18-25,Male,1,1,Low Activity
+U01088,2,2,451.58,225.79,21,18-25,Male,2,2,Low Activity
+U01089,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U01090,2,2,0.0,0.0,25,18-25,Female,2,1,Low Activity
+U01091,2,2,0.0,0.0,29,26-35,Female,2,1,Low Activity
+U01092,15,15,2119.66,141.31066666666666,34,26-35,Female,9,3,Very High Activity
+U01093,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U01094,2,2,285.05,142.525,30,26-35,Male,2,2,Low Activity
+U01095,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U01096,16,16,769.7199999999999,48.107499999999995,18,18-25,Male,7,3,Very High Activity
+U01097,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U01098,4,4,1181.75,295.4375,17,<18,Female,3,3,Moderate Activity
+U01099,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U01100,3,3,0.0,0.0,24,18-25,Female,3,2,Moderate Activity
+U01101,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U01102,2,2,276.37,138.185,23,18-25,Female,2,2,Low Activity
+U01103,4,4,394.26,98.565,22,18-25,Male,4,2,Moderate Activity
+U01104,1,1,0.78,0.78,29,26-35,Male,1,1,Low Activity
+U01105,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U01106,1,1,327.99,327.99,31,26-35,Male,1,1,Low Activity
+U01107,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U01108,4,4,276.37,69.0925,16,<18,Male,4,3,Moderate Activity
+U01109,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U01110,2,2,37.89,18.945,23,18-25,Female,1,1,Low Activity
+U01111,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U01112,1,1,212.39,212.39,24,18-25,Female,1,1,Low Activity
+U01113,1,1,487.92,487.92,22,18-25,Female,1,1,Low Activity
+U01114,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U01115,1,1,327.99,327.99,18,18-25,Male,1,1,Low Activity
+U01116,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U01117,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U01118,1,1,119.04,119.04,31,26-35,Male,1,1,Low Activity
+U01119,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U01120,1,1,117.68,117.68,35,26-35,Female,1,1,Low Activity
+U01121,1,1,117.68,117.68,20,18-25,Male,1,1,Low Activity
+U01122,2,2,212.39,106.195,29,26-35,Female,1,2,Low Activity
+U01123,15,15,1720.26,114.684,29,26-35,Female,10,3,Very High Activity
+U01124,3,3,342.61,114.20333333333333,30,26-35,Female,3,2,Moderate Activity
+U01125,2,2,0.0,0.0,32,26-35,Female,2,2,Low Activity
+U01126,2,2,0.0,0.0,15,<18,Male,2,2,Low Activity
+U01127,3,3,119.04,39.68,28,26-35,Female,3,2,Moderate Activity
+U01128,2,2,0.0,0.0,31,26-35,Female,2,2,Low Activity
+U01129,1,1,326.02,326.02,28,26-35,Female,1,1,Low Activity
+U01130,1,1,53.86,53.86,28,26-35,Male,1,1,Low Activity
+U01131,3,3,0.78,0.26,25,18-25,Male,3,2,Moderate Activity
+U01132,4,4,425.44,106.36,27,26-35,Female,3,3,Moderate Activity
+U01133,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U01134,3,3,0.0,0.0,19,18-25,Female,3,3,Moderate Activity
+U01135,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U01136,1,1,212.39,212.39,35,26-35,Male,1,1,Low Activity
+U01137,2,2,487.92,243.96,28,26-35,Female,2,2,Low Activity
+U01138,1,1,89.59,89.59,22,18-25,Female,1,1,Low Activity
+U01139,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U01140,1,1,119.04,119.04,29,26-35,Female,1,1,Low Activity
+U01141,1,1,276.37,276.37,17,<18,Female,1,1,Low Activity
+U01142,2,2,0.0,0.0,27,26-35,Male,2,2,Low Activity
+U01143,14,14,1018.19,72.72785714285715,31,26-35,Male,10,3,Very High Activity
+U01144,2,2,346.71,173.355,29,26-35,Female,2,2,Low Activity
+U01145,1,1,472.28,472.28,15,<18,Female,1,1,Low Activity
+U01146,13,13,178.12,13.701538461538462,15,<18,Male,9,3,Very High Activity
+U01147,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U01148,2,2,0.0,0.0,28,26-35,Male,2,2,Low Activity
+U01149,4,4,1263.87,315.9675,26,26-35,Female,3,3,Moderate Activity
+U01150,1,1,53.86,53.86,20,18-25,Male,1,1,Low Activity
+U01151,14,14,1085.1599999999999,77.51142857142857,28,26-35,Female,8,3,Very High Activity
+U01152,1,1,346.71,346.71,34,26-35,Male,1,1,Low Activity
+U01153,1,1,342.61,342.61,15,<18,Female,1,1,Low Activity
+U01154,2,2,0.0,0.0,24,18-25,Male,2,2,Low Activity
+U01155,4,4,212.39,53.0975,32,26-35,Female,4,2,Moderate Activity
+U01156,2,2,0.0,0.0,30,26-35,Male,2,2,Low Activity
+U01157,4,4,487.92,121.98,31,26-35,Female,4,2,Moderate Activity
+U01158,12,12,1213.9299999999998,101.16083333333331,35,26-35,Male,10,3,Very High Activity
+U01159,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U01160,4,4,266.25,66.5625,15,<18,Female,4,2,Moderate Activity
+U01161,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U01162,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U01163,13,13,1719.94,132.30307692307693,24,18-25,Male,4,3,Very High Activity
+U01164,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U01165,2,2,346.71,173.355,24,18-25,Male,2,2,Low Activity
+U01166,2,2,285.05,142.525,21,18-25,Male,2,2,Low Activity
+U01167,11,11,645.69,58.69909090909091,16,<18,Female,9,3,Very High Activity
+U01168,1,1,37.89,37.89,27,26-35,Female,1,1,Low Activity
+U01169,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U01170,14,14,2739.04,195.6457142857143,27,26-35,Female,8,3,Very High Activity
+U01171,1,1,327.99,327.99,19,18-25,Male,1,1,Low Activity
+U01172,3,3,301.98,100.66000000000001,30,26-35,Male,3,2,Moderate Activity
+U01173,3,3,346.71,115.57,26,26-35,Female,3,1,Moderate Activity
+U01174,1,1,89.59,89.59,15,<18,Female,1,1,Low Activity
+U01175,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U01176,3,3,0.0,0.0,20,18-25,Male,3,2,Moderate Activity
+U01177,13,13,538.86,41.45076923076923,16,<18,Male,9,3,Very High Activity
+U01178,2,2,0.0,0.0,21,18-25,Female,2,2,Low Activity
+U01179,2,2,594.81,297.405,31,26-35,Female,2,2,Low Activity
+U01180,13,13,1707.59,131.3530769230769,18,18-25,Male,10,3,Very High Activity
+U01181,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U01182,3,3,383.34,127.77999999999999,25,18-25,Female,3,3,Moderate Activity
+U01183,2,2,0.0,0.0,21,18-25,Female,2,2,Low Activity
+U01184,1,1,53.86,53.86,31,26-35,Male,1,1,Low Activity
+U01185,2,2,670.63,335.315,28,26-35,Male,2,2,Low Activity
+U01186,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U01187,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U01188,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U01189,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U01190,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U01191,1,1,472.28,472.28,28,26-35,Female,1,1,Low Activity
+U01192,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U01193,2,2,487.92,243.96,20,18-25,Female,2,1,Low Activity
+U01194,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U01195,1,1,487.92,487.92,23,18-25,Male,1,1,Low Activity
+U01196,2,2,277.15,138.575,21,18-25,Female,2,1,Low Activity
+U01197,14,14,632.95,45.21071428571429,28,26-35,Male,9,3,Very High Activity
+U01198,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U01199,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U01200,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U01201,1,1,177.34,177.34,28,26-35,Male,1,1,Low Activity
+U01202,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U01203,16,16,1827.61,114.225625,15,<18,Male,11,3,Very High Activity
+U01204,3,3,0.0,0.0,17,<18,Female,2,2,Moderate Activity
+U01205,2,2,330.07,165.035,27,26-35,Male,2,1,Low Activity
+U01206,1,1,37.89,37.89,15,<18,Female,1,1,Low Activity
+U01207,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U01208,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U01209,2,2,0.0,0.0,20,18-25,Male,2,1,Low Activity
+U01210,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U01211,1,1,490.9,490.9,32,26-35,Female,1,1,Low Activity
+U01212,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U01213,1,1,177.34,177.34,20,18-25,Female,1,1,Low Activity
+U01214,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U01215,1,1,490.9,490.9,15,<18,Female,1,1,Low Activity
+U01216,1,1,37.89,37.89,15,<18,Male,1,1,Low Activity
+U01217,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U01218,1,1,487.92,487.92,34,26-35,Male,1,1,Low Activity
+U01219,1,1,117.68,117.68,16,<18,Male,1,1,Low Activity
+U01220,1,1,285.05,285.05,29,26-35,Female,1,1,Low Activity
+U01221,13,13,1246.52,95.88615384615385,32,26-35,Male,8,3,Very High Activity
+U01222,3,3,415.51,138.50333333333333,19,18-25,Female,2,3,Moderate Activity
+U01223,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U01224,11,11,1662.67,151.1518181818182,23,18-25,Female,8,3,Very High Activity
+U01225,2,2,0.0,0.0,30,26-35,Female,2,1,Low Activity
+U01226,2,2,276.37,138.185,31,26-35,Female,2,2,Low Activity
+U01227,1,1,327.99,327.99,15,<18,Male,1,1,Low Activity
+U01228,4,4,432.15,108.0375,28,26-35,Male,3,3,Moderate Activity
+U01229,2,2,0.0,0.0,27,26-35,Female,2,2,Low Activity
+U01230,3,3,37.89,12.63,23,18-25,Female,3,3,Moderate Activity
+U01231,14,14,1794.67,128.19071428571428,21,18-25,Female,9,3,Very High Activity
+U01232,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U01233,11,11,1564.55,142.23181818181817,28,26-35,Male,8,3,Very High Activity
+U01234,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U01235,14,14,1659.11,118.50785714285713,27,26-35,Female,9,3,Very High Activity
+U01236,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U01237,13,13,1279.42,98.41692307692308,24,18-25,Male,8,3,Very High Activity
+U01238,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U01239,12,12,2182.67,181.88916666666668,20,18-25,Male,9,3,Very High Activity
+U01240,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U01241,2,2,0.0,0.0,25,18-25,Male,2,1,Low Activity
+U01242,2,2,37.89,18.945,22,18-25,Male,2,1,Low Activity
+U01243,2,2,326.02,163.01,31,26-35,Female,2,2,Low Activity
+U01244,14,14,1829.42,130.67285714285714,30,26-35,Female,11,3,Very High Activity
+U01245,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U01246,2,2,0.0,0.0,27,26-35,Male,2,2,Low Activity
+U01247,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U01248,2,2,0.78,0.39,16,<18,Male,2,1,Low Activity
+U01249,14,14,2031.51,145.10785714285714,25,18-25,Male,9,3,Very High Activity
+U01250,15,15,578.35,38.556666666666665,27,26-35,Female,10,3,Very High Activity
+U01251,2,2,0.0,0.0,29,26-35,Male,2,1,Low Activity
+U01252,1,1,415.51,415.51,19,18-25,Female,1,1,Low Activity
+U01253,1,1,212.39,212.39,17,<18,Male,1,1,Low Activity
+U01254,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U01255,4,4,178.12,44.53,29,26-35,Female,4,1,Moderate Activity
+U01256,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U01257,2,2,0.0,0.0,29,26-35,Female,2,2,Low Activity
+U01258,4,4,837.6099999999999,209.40249999999997,25,18-25,Male,4,3,Moderate Activity
+U01259,1,1,394.26,394.26,18,18-25,Female,1,1,Low Activity
+U01260,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U01261,13,13,1543.8000000000002,118.75384615384617,25,18-25,Male,10,3,Very High Activity
+U01262,4,4,577.51,144.3775,29,26-35,Female,4,3,Moderate Activity
+U01263,1,1,490.9,490.9,17,<18,Female,1,1,Low Activity
+U01264,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U01265,2,2,0.0,0.0,23,18-25,Male,2,1,Low Activity
+U01266,14,14,1950.9,139.35,18,18-25,Female,8,3,Very High Activity
+U01267,14,14,1581.46,112.96142857142857,30,26-35,Female,11,3,Very High Activity
+U01268,13,13,1192.24,91.71076923076923,33,26-35,Male,9,3,Very High Activity
+U01269,1,1,326.02,326.02,25,18-25,Female,1,1,Low Activity
+U01270,2,2,0.0,0.0,19,18-25,Male,2,2,Low Activity
+U01271,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U01272,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U01273,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U01274,1,1,346.71,346.71,32,26-35,Female,1,1,Low Activity
+U01275,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U01276,2,2,0.0,0.0,27,26-35,Female,2,1,Low Activity
+U01277,12,12,177.34,14.778333333333334,26,26-35,Female,8,3,Very High Activity
+U01278,2,2,89.59,44.795,16,<18,Female,2,2,Low Activity
+U01279,3,3,299.57,99.85666666666667,29,26-35,Female,3,2,Moderate Activity
+U01280,12,12,913.6500000000001,76.1375,26,26-35,Female,7,3,Very High Activity
+U01281,13,13,875.9000000000001,67.37692307692308,23,18-25,Female,10,3,Very High Activity
+U01282,3,3,0.0,0.0,26,26-35,Male,3,2,Moderate Activity
+U01283,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U01284,15,15,2437.75,162.51666666666668,34,26-35,Female,11,3,Very High Activity
+U01285,4,4,0.78,0.195,35,26-35,Female,2,3,Moderate Activity
+U01286,13,13,1821.19,140.09153846153848,27,26-35,Male,7,3,Very High Activity
+U01287,12,12,1971.19,164.26583333333335,33,26-35,Female,9,3,Very High Activity
+U01288,2,2,177.34,88.67,18,18-25,Male,2,2,Low Activity
+U01289,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U01290,14,14,506.84000000000003,36.20285714285715,16,<18,Male,10,3,Very High Activity
+U01291,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U01292,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U01293,1,1,394.26,394.26,33,26-35,Male,1,1,Low Activity
+U01294,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01295,4,4,395.41,98.8525,34,26-35,Female,4,2,Moderate Activity
+U01296,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U01297,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U01298,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U01299,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U01300,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U01301,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U01302,2,2,0.0,0.0,19,18-25,Female,2,2,Low Activity
+U01303,2,2,117.68,58.84,23,18-25,Female,2,2,Low Activity
+U01304,2,2,0.0,0.0,33,26-35,Female,2,1,Low Activity
+U01305,3,3,0.0,0.0,22,18-25,Female,3,2,Moderate Activity
+U01306,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U01307,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U01308,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U01309,2,2,0.0,0.0,35,26-35,Male,2,2,Low Activity
+U01310,3,3,0.0,0.0,21,18-25,Female,3,2,Moderate Activity
+U01311,1,1,327.99,327.99,27,26-35,Male,1,1,Low Activity
+U01312,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U01313,3,3,248.1,82.7,31,26-35,Male,3,2,Moderate Activity
+U01314,2,2,299.57,149.785,26,26-35,Female,2,2,Low Activity
+U01315,13,13,1870.02,143.8476923076923,33,26-35,Male,9,3,Very High Activity
+U01316,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U01317,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U01318,14,14,1337.15,95.51071428571429,18,18-25,Female,11,3,Very High Activity
+U01319,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U01320,4,4,285.05,71.2625,20,18-25,Male,4,3,Moderate Activity
+U01321,14,14,852.9399999999999,60.92428571428571,35,26-35,Male,8,3,Very High Activity
+U01322,12,12,760.6400000000001,63.38666666666668,26,26-35,Female,8,3,Very High Activity
+U01323,2,2,0.0,0.0,15,<18,Male,2,2,Low Activity
+U01324,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U01325,2,2,177.34,88.67,18,18-25,Female,2,1,Low Activity
+U01326,2,2,0.78,0.39,15,<18,Female,2,2,Low Activity
+U01327,1,1,487.92,487.92,23,18-25,Male,1,1,Low Activity
+U01328,1,1,248.1,248.1,27,26-35,Male,1,1,Low Activity
+U01329,1,1,276.37,276.37,15,<18,Female,1,1,Low Activity
+U01330,2,2,0.0,0.0,20,18-25,Female,2,2,Low Activity
+U01331,13,13,1288.06,99.08153846153846,16,<18,Male,8,3,Very High Activity
+U01332,12,12,1377.3400000000001,114.77833333333335,20,18-25,Male,8,3,Very High Activity
+U01333,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U01334,13,13,661.19,50.860769230769236,35,26-35,Female,9,3,Very High Activity
+U01335,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U01336,14,14,870.65,62.18928571428571,33,26-35,Male,9,3,Very High Activity
+U01337,16,16,1242.9,77.68125,32,26-35,Female,10,3,Very High Activity
+U01338,3,3,0.0,0.0,15,<18,Male,3,1,Moderate Activity
+U01339,2,2,415.51,207.755,35,26-35,Male,2,1,Low Activity
+U01340,2,2,415.51,207.755,32,26-35,Female,2,2,Low Activity
+U01341,3,3,117.68,39.22666666666667,29,26-35,Male,2,2,Moderate Activity
+U01342,2,2,0.0,0.0,25,18-25,Male,2,2,Low Activity
+U01343,14,14,1956.72,139.7657142857143,32,26-35,Male,9,3,Very High Activity
+U01344,14,14,680.3,48.59285714285714,25,18-25,Female,7,3,Very High Activity
+U01345,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U01346,15,15,1390.85,92.72333333333333,16,<18,Male,11,3,Very High Activity
+U01347,13,13,820.38,63.106153846153845,20,18-25,Male,9,3,Very High Activity
+U01348,2,2,0.0,0.0,29,26-35,Female,2,2,Low Activity
+U01349,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U01350,13,13,1088.15,83.70384615384616,16,<18,Female,8,3,Very High Activity
+U01351,2,2,0.78,0.39,16,<18,Male,2,2,Low Activity
+U01352,13,13,1319.58,101.50615384615384,25,18-25,Male,9,3,Very High Activity
+U01353,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U01354,2,2,0.0,0.0,15,<18,Male,2,2,Low Activity
+U01355,13,13,1449.74,111.51846153846154,28,26-35,Female,8,3,Very High Activity
+U01356,3,3,89.59,29.863333333333333,26,26-35,Female,3,2,Moderate Activity
+U01357,1,1,0.78,0.78,28,26-35,Female,1,1,Low Activity
+U01358,1,1,37.89,37.89,31,26-35,Male,1,1,Low Activity
+U01359,2,2,0.0,0.0,18,18-25,Female,2,2,Low Activity
+U01360,1,1,119.04,119.04,22,18-25,Female,1,1,Low Activity
+U01361,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U01362,3,3,0.0,0.0,26,26-35,Male,3,2,Moderate Activity
+U01363,2,2,0.0,0.0,25,18-25,Male,2,2,Low Activity
+U01364,13,13,1734.8,133.44615384615383,16,<18,Female,9,3,Very High Activity
+U01365,14,14,1709.25,122.08928571428571,25,18-25,Male,11,3,Very High Activity
+U01366,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U01367,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U01368,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U01369,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U01370,3,3,276.37,92.12333333333333,21,18-25,Female,3,2,Moderate Activity
+U01371,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U01372,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U01373,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U01374,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U01375,13,13,1934.77,148.82846153846154,22,18-25,Male,9,3,Very High Activity
+U01376,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U01377,4,4,833.09,208.2725,16,<18,Male,3,3,Moderate Activity
+U01378,2,2,472.28,236.14,35,26-35,Male,2,1,Low Activity
+U01379,2,2,299.57,149.785,22,18-25,Male,2,1,Low Activity
+U01380,1,1,37.89,37.89,26,26-35,Male,1,1,Low Activity
+U01381,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U01382,1,1,326.02,326.02,22,18-25,Female,1,1,Low Activity
+U01383,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U01384,3,3,472.28,157.42666666666665,23,18-25,Female,3,2,Moderate Activity
+U01385,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U01386,1,1,487.92,487.92,16,<18,Male,1,1,Low Activity
+U01387,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U01388,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U01389,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01390,2,2,0.0,0.0,33,26-35,Female,2,2,Low Activity
+U01391,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01392,3,3,248.1,82.7,29,26-35,Female,3,2,Moderate Activity
+U01393,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01394,14,14,680.0699999999999,48.576428571428565,26,26-35,Female,9,3,Very High Activity
+U01395,14,14,1137.83,81.27357142857143,31,26-35,Male,9,3,Very High Activity
+U01396,3,3,394.26,131.42,17,<18,Female,3,1,Moderate Activity
+U01397,13,13,887.1,68.23846153846154,28,26-35,Male,8,3,Very High Activity
+U01398,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U01399,16,16,1648.93,103.058125,20,18-25,Male,8,3,Very High Activity
+U01400,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U01401,1,1,327.99,327.99,19,18-25,Female,1,1,Low Activity
+U01402,4,4,383.34,95.835,19,18-25,Female,4,3,Moderate Activity
+U01403,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U01404,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U01405,12,12,1034.4099999999999,86.20083333333332,35,26-35,Male,9,3,Very High Activity
+U01406,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U01407,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U01408,2,2,0.0,0.0,18,18-25,Male,2,1,Low Activity
+U01409,4,4,591.3199999999999,147.82999999999998,31,26-35,Male,3,3,Moderate Activity
+U01410,1,1,37.89,37.89,17,<18,Male,1,1,Low Activity
+U01411,15,15,1440.09,96.006,21,18-25,Male,9,3,Very High Activity
+U01412,3,3,58.1,19.366666666666667,16,<18,Male,3,2,Moderate Activity
+U01413,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U01414,16,16,1200.1,75.00625,35,26-35,Female,11,3,Very High Activity
+U01415,3,3,1086.1399999999999,362.0466666666666,18,18-25,Male,3,2,Moderate Activity
+U01416,2,2,326.02,163.01,22,18-25,Female,2,2,Low Activity
+U01417,2,2,346.71,173.355,26,26-35,Female,1,2,Low Activity
+U01418,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U01419,2,2,327.99,163.995,34,26-35,Female,2,1,Low Activity
+U01420,3,3,339.69,113.23,34,26-35,Female,3,2,Moderate Activity
+U01421,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U01422,2,2,490.9,245.45,16,<18,Male,2,2,Low Activity
+U01423,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U01424,1,1,415.51,415.51,28,26-35,Female,1,1,Low Activity
+U01425,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U01426,1,1,89.59,89.59,24,18-25,Male,1,1,Low Activity
+U01427,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U01428,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U01429,15,15,829.17,55.278,31,26-35,Female,10,3,Very High Activity
+U01430,13,13,1296.6799999999998,99.74461538461537,19,18-25,Female,10,3,Very High Activity
+U01431,2,2,0.0,0.0,34,26-35,Female,2,1,Low Activity
+U01432,12,12,2266.34,188.86166666666668,17,<18,Female,8,3,Very High Activity
+U01433,2,2,89.59,44.795,16,<18,Female,1,2,Low Activity
+U01434,2,2,90.37,45.185,24,18-25,Male,2,2,Low Activity
+U01435,13,13,1478.6599999999999,113.74307692307691,16,<18,Male,10,3,Very High Activity
+U01436,2,2,0.0,0.0,34,26-35,Female,2,2,Low Activity
+U01437,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U01438,4,4,37.89,9.4725,30,26-35,Female,3,2,Moderate Activity
+U01439,1,1,327.99,327.99,22,18-25,Male,1,1,Low Activity
+U01440,2,2,394.26,197.13,20,18-25,Female,1,1,Low Activity
+U01441,1,1,327.99,327.99,24,18-25,Female,1,1,Low Activity
+U01442,3,3,559.0999999999999,186.36666666666665,34,26-35,Female,3,1,Moderate Activity
+U01443,2,2,0.0,0.0,17,<18,Female,2,2,Low Activity
+U01444,2,2,436.29999999999995,218.14999999999998,29,26-35,Male,2,2,Low Activity
+U01445,12,12,1584.32,132.02666666666667,29,26-35,Male,9,3,Very High Activity
+U01446,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U01447,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U01448,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U01449,2,2,0.0,0.0,34,26-35,Male,2,2,Low Activity
+U01450,11,11,1039.6299999999999,94.51181818181817,16,<18,Female,8,3,Very High Activity
+U01451,11,11,906.41,82.40090909090908,17,<18,Male,7,3,Very High Activity
+U01452,2,2,155.57,77.785,23,18-25,Male,2,1,Low Activity
+U01453,2,2,0.0,0.0,17,<18,Male,2,2,Low Activity
+U01454,2,2,0.0,0.0,18,18-25,Female,2,2,Low Activity
+U01455,14,14,994.88,71.06285714285714,22,18-25,Female,11,3,Very High Activity
+U01456,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01457,1,1,394.26,394.26,27,26-35,Male,1,1,Low Activity
+U01458,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U01459,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U01460,13,13,1634.62,125.74,32,26-35,Female,10,3,Very High Activity
+U01461,1,1,327.99,327.99,16,<18,Male,1,1,Low Activity
+U01462,1,1,212.39,212.39,27,26-35,Male,1,1,Low Activity
+U01463,13,13,1219.22,93.78615384615385,30,26-35,Female,7,3,Very High Activity
+U01464,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U01465,2,2,394.26,197.13,33,26-35,Male,2,1,Low Activity
+U01466,2,2,0.0,0.0,22,18-25,Male,2,1,Low Activity
+U01467,1,1,487.92,487.92,19,18-25,Female,1,1,Low Activity
+U01468,2,2,299.57,149.785,28,26-35,Female,2,2,Low Activity
+U01469,2,2,0.0,0.0,29,26-35,Female,2,1,Low Activity
+U01470,2,2,415.51,207.755,28,26-35,Male,2,1,Low Activity
+U01471,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U01472,12,12,1086.16,90.51333333333334,27,26-35,Female,8,3,Very High Activity
+U01473,15,15,2381.73,158.782,17,<18,Female,9,3,Very High Activity
+U01474,2,2,0.0,0.0,20,18-25,Male,1,2,Low Activity
+U01475,15,15,1295.42,86.36133333333333,20,18-25,Male,9,3,Very High Activity
+U01476,1,1,326.02,326.02,35,26-35,Female,1,1,Low Activity
+U01477,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U01478,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U01479,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U01480,1,1,0.78,0.78,20,18-25,Female,1,1,Low Activity
+U01481,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U01482,2,2,490.9,245.45,17,<18,Male,2,1,Low Activity
+U01483,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U01484,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U01485,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U01486,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U01487,2,2,0.0,0.0,17,<18,Female,2,2,Low Activity
+U01488,12,12,599.76,49.98,27,26-35,Male,7,3,Very High Activity
+U01489,1,1,487.92,487.92,27,26-35,Male,1,1,Low Activity
+U01490,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U01491,3,3,0.0,0.0,17,<18,Female,2,2,Moderate Activity
+U01492,4,4,837.6099999999999,209.40249999999997,23,18-25,Female,4,3,Moderate Activity
+U01493,1,1,415.51,415.51,18,18-25,Female,1,1,Low Activity
+U01494,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U01495,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U01496,13,13,1683.07,129.46692307692308,22,18-25,Female,9,3,Very High Activity
+U01497,13,13,837.6099999999999,64.43153846153845,35,26-35,Female,9,3,Very High Activity
+U01498,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U01499,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U01500,13,13,1002.27,77.09769230769231,15,<18,Male,9,3,Very High Activity
+U01501,1,1,119.04,119.04,23,18-25,Male,1,1,Low Activity
+U01502,1,1,57.32,57.32,28,26-35,Female,1,1,Low Activity
+U01503,1,1,276.37,276.37,30,26-35,Female,1,1,Low Activity
+U01504,1,1,472.28,472.28,31,26-35,Male,1,1,Low Activity
+U01505,3,3,0.0,0.0,35,26-35,Male,3,2,Moderate Activity
+U01506,15,15,1160.56,77.37066666666666,34,26-35,Male,9,3,Very High Activity
+U01507,3,3,353.43,117.81,18,18-25,Female,3,2,Moderate Activity
+U01508,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U01509,1,1,57.32,57.32,15,<18,Female,1,1,Low Activity
+U01510,2,2,0.0,0.0,16,<18,Female,2,2,Low Activity
+U01511,13,13,957.8900000000001,73.68384615384616,15,<18,Male,6,3,Very High Activity
+U01512,12,12,1597.8600000000001,133.155,19,18-25,Male,8,3,Very High Activity
+U01513,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U01514,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U01515,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U01516,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U01517,14,14,1184.67,84.61928571428572,26,26-35,Male,10,3,Very High Activity
+U01518,1,1,490.9,490.9,21,18-25,Male,1,1,Low Activity
+U01519,2,2,0.0,0.0,16,<18,Male,2,2,Low Activity
+U01520,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U01521,1,1,327.99,327.99,34,26-35,Female,1,1,Low Activity
+U01522,14,14,461.27,32.94785714285714,31,26-35,Female,8,3,Very High Activity
+U01523,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U01524,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U01525,2,2,347.48999999999995,173.74499999999998,32,26-35,Female,2,1,Low Activity
+U01526,12,12,1765.17,147.0975,20,18-25,Male,9,3,Very High Activity
+U01527,1,1,37.89,37.89,29,26-35,Female,1,1,Low Activity
+U01528,14,14,2194.62,156.75857142857143,16,<18,Male,10,3,Very High Activity
+U01529,3,3,0.0,0.0,19,18-25,Female,3,3,Moderate Activity
+U01530,15,15,544.11,36.274,16,<18,Male,8,3,Very High Activity
+U01531,14,14,623.0799999999999,44.505714285714284,30,26-35,Female,8,3,Very High Activity
+U01532,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U01533,3,3,111.18,37.06,16,<18,Female,3,2,Moderate Activity
+U01534,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U01535,4,4,944.3,236.075,20,18-25,Male,3,3,Moderate Activity
+U01536,12,12,1758.18,146.51500000000001,33,26-35,Female,8,3,Very High Activity
+U01537,3,3,887.79,295.93,27,26-35,Female,3,2,Moderate Activity
+U01538,1,1,415.51,415.51,27,26-35,Female,1,1,Low Activity
+U01539,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U01540,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U01541,4,4,684.17,171.0425,29,26-35,Female,4,2,Moderate Activity
+U01542,1,1,177.34,177.34,18,18-25,Female,1,1,Low Activity
+U01543,16,16,1848.28,115.5175,25,18-25,Female,10,3,Very High Activity
+U01544,1,1,119.04,119.04,31,26-35,Female,1,1,Low Activity
+U01545,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U01546,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U01547,2,2,0.0,0.0,17,<18,Male,2,1,Low Activity
+U01548,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U01549,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U01550,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U01551,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U01552,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U01553,15,15,631.0,42.06666666666667,27,26-35,Male,10,3,Very High Activity
+U01554,4,4,0.0,0.0,20,18-25,Male,4,2,Moderate Activity
+U01555,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U01556,2,2,0.0,0.0,23,18-25,Female,2,2,Low Activity
+U01557,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U01558,1,1,57.32,57.32,32,26-35,Male,1,1,Low Activity
+U01559,1,1,89.59,89.59,19,18-25,Male,1,1,Low Activity
+U01560,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U01561,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U01562,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U01563,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U01564,1,1,346.71,346.71,28,26-35,Female,1,1,Low Activity
+U01565,1,1,212.39,212.39,32,26-35,Male,1,1,Low Activity
+U01566,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U01567,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U01568,3,3,415.51,138.50333333333333,26,26-35,Female,3,2,Moderate Activity
+U01569,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U01570,2,2,326.02,163.01,31,26-35,Male,2,2,Low Activity
+U01571,2,2,0.0,0.0,19,18-25,Male,2,1,Low Activity
+U01572,1,1,53.86,53.86,29,26-35,Female,1,1,Low Activity
+U01573,2,2,487.92,243.96,18,18-25,Female,2,2,Low Activity
+U01574,1,1,346.71,346.71,17,<18,Male,1,1,Low Activity
+U01575,13,13,1289.19,99.16846153846154,15,<18,Female,7,3,Very High Activity
+U01576,2,2,0.0,0.0,35,26-35,Male,2,2,Low Activity
+U01577,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01578,15,15,1408.0,93.86666666666666,26,26-35,Male,10,3,Very High Activity
+U01579,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U01580,2,2,394.26,197.13,15,<18,Female,2,1,Low Activity
+U01581,2,2,215.23000000000002,107.61500000000001,30,26-35,Male,2,1,Low Activity
+U01582,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U01583,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U01584,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U01585,11,11,891.67,81.06090909090909,27,26-35,Male,6,3,Very High Activity
+U01586,14,14,1193.63,85.25928571428572,27,26-35,Male,9,3,Very High Activity
+U01587,2,2,37.89,18.945,27,26-35,Male,2,2,Low Activity
+U01588,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U01589,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U01590,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U01591,2,2,0.0,0.0,32,26-35,Female,2,2,Low Activity
+U01592,4,4,0.0,0.0,33,26-35,Male,4,3,Moderate Activity
+U01593,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U01594,1,1,37.89,37.89,35,26-35,Male,1,1,Low Activity
+U01595,2,2,592.85,296.425,15,<18,Male,2,2,Low Activity
+U01596,2,2,0.0,0.0,22,18-25,Male,2,1,Low Activity
+U01597,1,1,299.57,299.57,21,18-25,Female,1,1,Low Activity
+U01598,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U01599,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U01600,1,1,326.02,326.02,29,26-35,Female,1,1,Low Activity
+U01601,2,2,346.71,173.355,23,18-25,Female,2,2,Low Activity
+U01602,13,13,871.4,67.03076923076922,31,26-35,Female,10,3,Very High Activity
+U01603,2,2,89.59,44.795,32,26-35,Male,2,2,Low Activity
+U01604,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U01605,1,1,57.32,57.32,18,18-25,Male,1,1,Low Activity
+U01606,1,1,346.71,346.71,17,<18,Female,1,1,Low Activity
+U01607,1,1,89.59,89.59,25,18-25,Male,1,1,Low Activity
+U01608,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U01609,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U01610,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U01611,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U01612,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U01613,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U01614,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U01615,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U01616,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U01617,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U01618,13,13,898.9499999999999,69.14999999999999,15,<18,Female,8,3,Very High Activity
+U01619,1,1,490.9,490.9,20,18-25,Female,1,1,Low Activity
+U01620,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U01621,2,2,0.0,0.0,16,<18,Female,2,1,Low Activity
+U01622,1,1,0.78,0.78,15,<18,Female,1,1,Low Activity
+U01623,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U01624,4,4,809.56,202.39,34,26-35,Female,4,2,Moderate Activity
+U01625,3,3,394.26,131.42,33,26-35,Female,3,2,Moderate Activity
+U01626,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U01627,13,13,732.86,56.37384615384615,23,18-25,Female,9,3,Very High Activity
+U01628,14,14,1576.41,112.60071428571429,26,26-35,Male,7,3,Very High Activity
+U01629,1,1,53.86,53.86,28,26-35,Female,1,1,Low Activity
+U01630,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U01631,2,2,394.26,197.13,18,18-25,Female,2,2,Low Activity
+U01632,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U01633,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U01634,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U01635,14,14,743.14,53.08142857142857,18,18-25,Female,9,3,Very High Activity
+U01636,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U01637,13,13,1567.34,120.56461538461538,30,26-35,Male,9,3,Very High Activity
+U01638,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U01639,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U01640,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U01641,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U01642,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U01643,1,1,89.59,89.59,25,18-25,Male,1,1,Low Activity
+U01644,3,3,487.92,162.64000000000001,23,18-25,Male,2,2,Moderate Activity
+U01645,3,3,0.78,0.26,19,18-25,Male,3,2,Moderate Activity
+U01646,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U01647,13,13,1297.69,99.8223076923077,17,<18,Female,9,3,Very High Activity
+U01648,4,4,118.46000000000001,29.615000000000002,22,18-25,Female,3,2,Moderate Activity
+U01649,13,13,2151.13,165.47153846153847,35,26-35,Male,8,3,Very High Activity
+U01650,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U01651,1,1,212.39,212.39,25,18-25,Female,1,1,Low Activity
+U01652,2,2,327.99,163.995,35,26-35,Male,2,2,Low Activity
+U01653,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U01654,15,15,2711.54,180.76933333333332,22,18-25,Female,9,3,Very High Activity
+U01655,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U01656,12,12,918.87,76.5725,27,26-35,Male,8,3,Very High Activity
+U01657,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U01658,1,1,177.34,177.34,31,26-35,Female,1,1,Low Activity
+U01659,3,3,540.38,180.12666666666667,27,26-35,Female,2,2,Moderate Activity
+U01660,2,2,95.21000000000001,47.605000000000004,25,18-25,Female,1,1,Low Activity
+U01661,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U01662,15,15,2154.37,143.62466666666666,28,26-35,Male,10,3,Very High Activity
+U01663,2,2,0.0,0.0,28,26-35,Female,2,2,Low Activity
+U01664,2,2,415.51,207.755,23,18-25,Female,2,1,Low Activity
+U01665,4,4,0.0,0.0,34,26-35,Female,3,2,Moderate Activity
+U01666,14,14,589.19,42.085,28,26-35,Female,9,3,Very High Activity
+U01667,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U01668,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U01669,2,2,53.86,26.93,30,26-35,Female,2,1,Low Activity
+U01670,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U01671,15,15,839.93,55.99533333333333,25,18-25,Male,10,3,Very High Activity
+U01672,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U01673,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U01674,14,14,1224.07,87.43357142857143,27,26-35,Female,9,3,Very High Activity
+U01675,1,1,394.26,394.26,17,<18,Male,1,1,Low Activity
+U01676,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U01677,2,2,0.0,0.0,22,18-25,Male,2,1,Low Activity
+U01678,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U01679,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U01680,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01681,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U01682,2,2,0.0,0.0,21,18-25,Male,2,2,Low Activity
+U01683,1,1,326.02,326.02,19,18-25,Female,1,1,Low Activity
+U01684,2,2,0.0,0.0,26,26-35,Female,2,1,Low Activity
+U01685,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U01686,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U01687,2,2,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U01688,2,2,0.0,0.0,28,26-35,Female,2,2,Low Activity
+U01689,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U01690,4,4,0.0,0.0,27,26-35,Male,4,1,Moderate Activity
+U01691,1,1,37.89,37.89,22,18-25,Male,1,1,Low Activity
+U01692,12,12,1372.26,114.355,26,26-35,Male,10,3,Very High Activity
+U01693,2,2,276.37,138.185,21,18-25,Male,2,1,Low Activity
+U01694,1,1,342.61,342.61,35,26-35,Male,1,1,Low Activity
+U01695,13,13,1458.16,112.16615384615385,32,26-35,Male,9,3,Very High Activity
+U01696,2,2,327.99,163.995,31,26-35,Female,2,2,Low Activity
+U01697,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U01698,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U01699,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U01700,1,1,326.02,326.02,25,18-25,Female,1,1,Low Activity
+U01701,1,1,117.68,117.68,22,18-25,Male,1,1,Low Activity
+U01702,14,14,957.02,68.35857142857142,21,18-25,Female,8,3,Very High Activity
+U01703,3,3,487.92,162.64000000000001,21,18-25,Male,3,2,Moderate Activity
+U01704,2,2,89.59,44.795,30,26-35,Female,2,2,Low Activity
+U01705,1,1,472.28,472.28,28,26-35,Male,1,1,Low Activity
+U01706,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U01707,3,3,119.04,39.68,32,26-35,Male,3,3,Moderate Activity
+U01708,14,14,1615.22,115.37285714285714,22,18-25,Male,9,3,Very High Activity
+U01709,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U01710,1,1,394.26,394.26,32,26-35,Male,1,1,Low Activity
+U01711,1,1,53.86,53.86,15,<18,Female,1,1,Low Activity
+U01712,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01713,4,4,451.58,112.895,15,<18,Male,4,2,Moderate Activity
+U01714,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U01715,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U01716,1,1,57.32,57.32,22,18-25,Female,1,1,Low Activity
+U01717,1,1,299.57,299.57,20,18-25,Male,1,1,Low Activity
+U01718,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U01719,1,1,119.04,119.04,32,26-35,Female,1,1,Low Activity
+U01720,15,15,1655.97,110.398,21,18-25,Female,8,3,Very High Activity
+U01721,10,10,810.29,81.029,15,<18,Female,7,3,High Activity
+U01722,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U01723,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U01724,16,16,1227.77,76.735625,17,<18,Male,10,3,Very High Activity
+U01725,2,2,0.0,0.0,33,26-35,Male,2,2,Low Activity
+U01726,13,13,1008.6800000000001,77.59076923076924,32,26-35,Female,9,3,Very High Activity
+U01727,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U01728,2,2,0.0,0.0,33,26-35,Female,2,2,Low Activity
+U01729,15,15,2400.05,160.00333333333336,29,26-35,Female,10,3,Very High Activity
+U01730,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U01731,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U01732,2,2,0.0,0.0,17,<18,Female,2,2,Low Activity
+U01733,4,4,575.94,143.985,20,18-25,Female,4,3,Moderate Activity
+U01734,3,3,445.06,148.35333333333332,29,26-35,Male,3,2,Moderate Activity
+U01735,1,1,57.32,57.32,29,26-35,Male,1,1,Low Activity
+U01736,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U01737,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U01738,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U01739,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U01740,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U01741,2,2,0.0,0.0,30,26-35,Male,2,2,Low Activity
+U01742,2,2,0.0,0.0,30,26-35,Female,1,2,Low Activity
+U01743,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U01744,4,4,665.26,166.315,22,18-25,Male,4,2,Moderate Activity
+U01745,13,13,1622.6399999999999,124.81846153846153,21,18-25,Female,7,3,Very High Activity
+U01746,14,14,1607.25,114.80357142857143,24,18-25,Male,8,3,Very High Activity
+U01747,4,4,177.34,44.335,19,18-25,Female,4,3,Moderate Activity
+U01748,1,1,394.26,394.26,22,18-25,Male,1,1,Low Activity
+U01749,1,1,276.37,276.37,31,26-35,Female,1,1,Low Activity
+U01750,4,4,627.6600000000001,156.91500000000002,24,18-25,Male,4,2,Moderate Activity
+U01751,1,1,0.78,0.78,25,18-25,Female,1,1,Low Activity
+U01752,4,4,301.98,75.495,34,26-35,Female,4,3,Moderate Activity
+U01753,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U01754,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U01755,1,1,285.05,285.05,26,26-35,Female,1,1,Low Activity
+U01756,2,2,0.0,0.0,21,18-25,Male,2,2,Low Activity
+U01757,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U01758,1,1,326.02,326.02,16,<18,Female,1,1,Low Activity
+U01759,1,1,276.37,276.37,21,18-25,Male,1,1,Low Activity
+U01760,1,1,490.9,490.9,19,18-25,Male,1,1,Low Activity
+U01761,2,2,0.0,0.0,31,26-35,Male,2,2,Low Activity
+U01762,15,15,1427.04,95.136,33,26-35,Male,11,3,Very High Activity
+U01763,1,1,248.1,248.1,24,18-25,Male,1,1,Low Activity
+U01764,2,2,285.05,142.525,30,26-35,Male,2,1,Low Activity
+U01765,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U01766,3,3,623.0799999999999,207.6933333333333,33,26-35,Female,3,2,Moderate Activity
+U01767,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U01768,2,2,0.0,0.0,26,26-35,Female,2,2,Low Activity
+U01769,4,4,53.86,13.465,15,<18,Male,4,2,Moderate Activity
+U01770,2,2,0.0,0.0,22,18-25,Female,2,2,Low Activity
+U01771,3,3,347.48999999999995,115.82999999999998,21,18-25,Male,3,1,Moderate Activity
+U01772,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U01773,16,16,2596.54,162.28375,17,<18,Male,8,3,Very High Activity
+U01774,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U01775,2,2,0.0,0.0,31,26-35,Female,2,2,Low Activity
+U01776,2,2,0.0,0.0,30,26-35,Female,2,2,Low Activity
+U01777,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U01778,2,2,0.0,0.0,24,18-25,Female,2,2,Low Activity
+U01779,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U01780,1,1,346.71,346.71,27,26-35,Male,1,1,Low Activity
+U01781,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01782,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U01783,3,3,57.32,19.106666666666666,28,26-35,Male,3,2,Moderate Activity
+U01784,1,1,119.04,119.04,32,26-35,Female,1,1,Low Activity
+U01785,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U01786,13,13,1539.78,118.44461538461539,25,18-25,Female,8,3,Very High Activity
+U01787,2,2,266.93,133.465,30,26-35,Female,2,2,Low Activity
+U01788,2,2,89.59,44.795,15,<18,Male,2,2,Low Activity
+U01789,15,15,1442.1299999999999,96.142,33,26-35,Female,8,3,Very High Activity
+U01790,1,1,299.57,299.57,25,18-25,Male,1,1,Low Activity
+U01791,2,2,53.86,26.93,31,26-35,Female,2,2,Low Activity
+U01792,1,1,53.86,53.86,15,<18,Male,1,1,Low Activity
+U01793,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01794,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U01795,13,13,1145.56,88.11999999999999,15,<18,Female,9,3,Very High Activity
+U01796,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U01797,1,1,490.9,490.9,33,26-35,Male,1,1,Low Activity
+U01798,1,1,487.92,487.92,18,18-25,Male,1,1,Low Activity
+U01799,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U01800,2,2,248.1,124.05,25,18-25,Female,2,2,Low Activity
+U01801,1,1,394.26,394.26,20,18-25,Male,1,1,Low Activity
+U01802,1,1,276.37,276.37,15,<18,Female,1,1,Low Activity
+U01803,3,3,342.61,114.20333333333333,27,26-35,Female,3,2,Moderate Activity
+U01804,2,2,0.0,0.0,20,18-25,Female,2,2,Low Activity
+U01805,15,15,431.96000000000004,28.797333333333334,21,18-25,Male,9,3,Very High Activity
+U01806,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U01807,2,2,490.9,245.45,31,26-35,Male,2,2,Low Activity
+U01808,3,3,684.67,228.22333333333333,15,<18,Male,2,3,Moderate Activity
+U01809,13,13,1427.78,109.82923076923076,24,18-25,Female,8,3,Very High Activity
+U01810,15,15,2242.06,149.47066666666666,15,<18,Female,8,3,Very High Activity
+U01811,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U01812,15,15,798.53,53.23533333333333,17,<18,Male,10,3,Very High Activity
+U01813,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U01814,3,3,472.28,157.42666666666665,17,<18,Female,3,3,Moderate Activity
+U01815,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01816,2,2,0.0,0.0,21,18-25,Male,2,1,Low Activity
+U01817,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U01818,2,2,53.86,26.93,15,<18,Male,2,2,Low Activity
+U01819,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U01820,15,15,2407.56,160.504,24,18-25,Male,11,3,Very High Activity
+U01821,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U01822,15,15,447.03000000000003,29.802000000000003,22,18-25,Male,9,3,Very High Activity
+U01823,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U01824,1,1,327.99,327.99,20,18-25,Male,1,1,Low Activity
+U01825,14,14,758.12,54.151428571428575,25,18-25,Male,9,3,Very High Activity
+U01826,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U01827,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U01828,1,1,177.34,177.34,21,18-25,Male,1,1,Low Activity
+U01829,2,2,0.0,0.0,27,26-35,Male,2,1,Low Activity
+U01830,1,1,37.89,37.89,15,<18,Male,1,1,Low Activity
+U01831,1,1,472.28,472.28,34,26-35,Female,1,1,Low Activity
+U01832,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U01833,2,2,487.92,243.96,16,<18,Male,2,1,Low Activity
+U01834,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U01835,2,2,0.0,0.0,27,26-35,Male,1,2,Low Activity
+U01836,1,1,299.57,299.57,32,26-35,Female,1,1,Low Activity
+U01837,1,1,326.02,326.02,24,18-25,Female,1,1,Low Activity
+U01838,2,2,0.0,0.0,24,18-25,Male,2,1,Low Activity
+U01839,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U01840,14,14,460.83000000000004,32.916428571428575,35,26-35,Female,10,3,Very High Activity
+U01841,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U01842,13,13,1169.28,89.94461538461539,33,26-35,Female,9,3,Very High Activity
+U01843,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U01844,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U01845,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U01846,2,2,117.68,58.84,21,18-25,Female,2,2,Low Activity
+U01847,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U01848,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U01849,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U01850,3,3,418.61,139.53666666666666,29,26-35,Female,2,2,Moderate Activity
+U01851,4,4,668.63,167.1575,20,18-25,Male,3,2,Moderate Activity
+U01852,4,4,513.3,128.325,19,18-25,Female,4,3,Moderate Activity
+U01853,1,1,89.59,89.59,31,26-35,Male,1,1,Low Activity
+U01854,13,13,1160.54,89.27230769230769,16,<18,Male,9,3,Very High Activity
+U01855,1,1,53.86,53.86,15,<18,Female,1,1,Low Activity
+U01856,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U01857,2,2,53.86,26.93,27,26-35,Female,2,2,Low Activity
+U01858,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U01859,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U01860,3,3,487.92,162.64000000000001,19,18-25,Male,3,2,Moderate Activity
+U01861,2,2,95.21000000000001,47.605000000000004,28,26-35,Female,1,1,Low Activity
+U01862,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U01863,1,1,342.61,342.61,26,26-35,Male,1,1,Low Activity
+U01864,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U01865,4,4,0.0,0.0,18,18-25,Male,3,3,Moderate Activity
+U01866,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U01867,13,13,892.1,68.62307692307692,24,18-25,Female,8,3,Very High Activity
+U01868,2,2,0.0,0.0,27,26-35,Female,2,2,Low Activity
+U01869,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U01870,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U01871,14,14,916.53,65.46642857142857,21,18-25,Male,8,3,Very High Activity
+U01872,14,14,2084.41,148.88642857142855,28,26-35,Female,10,3,Very High Activity
+U01873,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U01874,1,1,415.51,415.51,15,<18,Female,1,1,Low Activity
+U01875,1,1,285.05,285.05,30,26-35,Male,1,1,Low Activity
+U01876,14,14,971.8199999999999,69.41571428571429,17,<18,Male,7,3,Very High Activity
+U01877,12,12,1219.46,101.62166666666667,19,18-25,Male,9,3,Very High Activity
+U01878,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U01879,15,15,2367.91,157.86066666666665,32,26-35,Female,8,3,Very High Activity
+U01880,2,2,0.0,0.0,26,26-35,Female,2,2,Low Activity
+U01881,1,1,346.71,346.71,30,26-35,Male,1,1,Low Activity
+U01882,3,3,95.21000000000001,31.736666666666668,30,26-35,Female,2,1,Moderate Activity
+U01883,1,1,490.9,490.9,30,26-35,Female,1,1,Low Activity
+U01884,1,1,346.71,346.71,20,18-25,Male,1,1,Low Activity
+U01885,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U01886,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U01887,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U01888,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U01889,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U01890,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U01891,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U01892,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U01893,12,12,1298.19,108.1825,23,18-25,Female,8,3,Very High Activity
+U01894,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U01895,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U01896,12,12,1720.4099999999999,143.36749999999998,32,26-35,Female,9,2,Very High Activity
+U01897,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U01898,1,1,117.68,117.68,26,26-35,Male,1,1,Low Activity
+U01899,2,2,0.0,0.0,25,18-25,Female,2,1,Low Activity
+U01900,11,11,1307.56,118.8690909090909,19,18-25,Male,7,3,Very High Activity
+U01901,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U01902,1,1,57.32,57.32,30,26-35,Female,1,1,Low Activity
+U01903,13,13,1334.7,102.66923076923078,17,<18,Female,9,3,Very High Activity
+U01904,1,1,487.92,487.92,17,<18,Male,1,1,Low Activity
+U01905,2,2,490.9,245.45,24,18-25,Female,2,1,Low Activity
+U01906,15,15,1395.69,93.046,19,18-25,Male,10,3,Very High Activity
+U01907,2,2,89.59,44.795,15,<18,Male,2,2,Low Activity
+U01908,12,12,888.6700000000001,74.05583333333334,19,18-25,Male,9,3,Very High Activity
+U01909,3,3,37.89,12.63,25,18-25,Male,3,2,Moderate Activity
+U01910,1,1,177.34,177.34,28,26-35,Male,1,1,Low Activity
+U01911,1,1,299.57,299.57,22,18-25,Male,1,1,Low Activity
+U01912,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U01913,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U01914,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U01915,2,2,453.4,226.7,34,26-35,Female,2,2,Low Activity
+U01916,1,1,117.68,117.68,29,26-35,Male,1,1,Low Activity
+U01917,15,15,1159.54,77.30266666666667,18,18-25,Female,8,3,Very High Activity
+U01918,14,14,979.12,69.93714285714286,23,18-25,Male,8,3,Very High Activity
+U01919,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U01920,13,13,1627.8600000000001,125.22000000000001,33,26-35,Male,8,3,Very High Activity
+U01921,2,2,0.0,0.0,24,18-25,Male,2,1,Low Activity
+U01922,2,2,0.0,0.0,21,18-25,Male,2,2,Low Activity
+U01923,1,1,57.32,57.32,19,18-25,Male,1,1,Low Activity
+U01924,2,2,89.59,44.795,20,18-25,Male,2,2,Low Activity
+U01925,1,1,299.57,299.57,33,26-35,Male,1,1,Low Activity
+U01926,13,13,1189.53,91.5023076923077,26,26-35,Female,9,3,Very High Activity
+U01927,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U01928,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U01929,14,14,1057.52,75.53714285714285,19,18-25,Male,7,3,Very High Activity
+U01930,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U01931,11,11,1270.8,115.52727272727272,23,18-25,Female,7,3,Very High Activity
+U01932,1,1,415.51,415.51,25,18-25,Male,1,1,Low Activity
+U01933,2,2,0.0,0.0,27,26-35,Female,2,1,Low Activity
+U01934,14,14,1737.54,124.11,22,18-25,Male,8,3,Very High Activity
+U01935,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U01936,2,2,0.0,0.0,23,18-25,Male,2,2,Low Activity
+U01937,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U01938,2,2,490.9,245.45,33,26-35,Female,2,1,Low Activity
+U01939,4,4,418.61,104.6525,35,26-35,Male,4,3,Moderate Activity
+U01940,2,2,276.37,138.185,16,<18,Female,2,2,Low Activity
+U01941,1,1,89.59,89.59,26,26-35,Female,1,1,Low Activity
+U01942,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U01943,14,14,1499.75,107.125,17,<18,Male,7,3,Very High Activity
+U01944,2,2,0.0,0.0,19,18-25,Female,2,2,Low Activity
+U01945,1,1,342.61,342.61,29,26-35,Female,1,1,Low Activity
+U01946,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U01947,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U01948,1,1,276.37,276.37,33,26-35,Female,1,1,Low Activity
+U01949,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U01950,2,2,0.0,0.0,29,26-35,Male,2,2,Low Activity
+U01951,3,3,0.0,0.0,19,18-25,Female,2,2,Moderate Activity
+U01952,2,2,0.0,0.0,15,<18,Female,2,2,Low Activity
+U01953,15,15,1263.45,84.23,19,18-25,Male,11,3,Very High Activity
+U01954,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U01955,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U01956,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U01957,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01958,12,12,1580.86,131.73833333333332,16,<18,Male,8,3,Very High Activity
+U01959,12,12,1347.93,112.3275,26,26-35,Female,8,3,Very High Activity
+U01960,1,1,326.02,326.02,19,18-25,Female,1,1,Low Activity
+U01961,14,14,914.14,65.29571428571428,30,26-35,Male,7,3,Very High Activity
+U01962,11,11,1558.3899999999999,141.67181818181817,19,18-25,Male,9,3,Very High Activity
+U01963,1,1,327.99,327.99,30,26-35,Male,1,1,Low Activity
+U01964,4,4,276.37,69.0925,32,26-35,Male,4,3,Moderate Activity
+U01965,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U01966,4,4,576.09,144.0225,25,18-25,Female,4,3,Moderate Activity
+U01967,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U01968,2,2,415.51,207.755,30,26-35,Female,2,2,Low Activity
+U01969,1,1,248.1,248.1,26,26-35,Male,1,1,Low Activity
+U01970,2,2,0.0,0.0,16,<18,Female,2,2,Low Activity
+U01971,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U01972,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U01973,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U01974,2,2,490.9,245.45,31,26-35,Female,2,2,Low Activity
+U01975,1,1,394.26,394.26,29,26-35,Male,1,1,Low Activity
+U01976,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U01977,2,2,89.59,44.795,32,26-35,Male,2,2,Low Activity
+U01978,1,1,89.59,89.59,26,26-35,Male,1,1,Low Activity
+U01979,12,12,1259.32,104.94333333333333,25,18-25,Female,8,3,Very High Activity
+U01980,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U01981,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U01982,1,1,276.37,276.37,35,26-35,Female,1,1,Low Activity
+U01983,1,1,53.86,53.86,29,26-35,Female,1,1,Low Activity
+U01984,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U01985,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U01986,1,1,346.71,346.71,29,26-35,Female,1,1,Low Activity
+U01987,13,13,1332.16,102.47384615384615,15,<18,Male,10,3,Very High Activity
+U01988,1,1,490.9,490.9,17,<18,Female,1,1,Low Activity
+U01989,13,13,822.52,63.27076923076923,26,26-35,Female,8,3,Very High Activity
+U01990,2,2,0.0,0.0,16,<18,Male,2,2,Low Activity
+U01991,3,3,363.90999999999997,121.30333333333333,16,<18,Female,3,2,Moderate Activity
+U01992,2,2,346.71,173.355,18,18-25,Male,1,2,Low Activity
+U01993,14,14,1263.01,90.215,23,18-25,Female,8,3,Very High Activity
+U01994,11,11,1198.07,108.91545454545454,20,18-25,Female,8,3,Very High Activity
+U01995,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U01996,1,1,394.26,394.26,29,26-35,Female,1,1,Low Activity
+U01997,1,1,346.71,346.71,16,<18,Male,1,1,Low Activity
+U01998,15,15,1587.13,105.80866666666667,23,18-25,Male,10,3,Very High Activity
+U01999,2,2,906.41,453.205,17,<18,Female,1,2,Low Activity
+U02000,2,2,57.32,28.66,32,26-35,Male,2,1,Low Activity
+U02001,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U02002,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U02003,4,4,490.9,122.725,31,26-35,Male,4,2,Moderate Activity
+U02004,1,1,342.61,342.61,27,26-35,Male,1,1,Low Activity
+U02005,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02006,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U02007,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U02008,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02009,1,1,299.57,299.57,34,26-35,Male,1,1,Low Activity
+U02010,14,14,1880.52,134.32285714285715,31,26-35,Male,9,3,Very High Activity
+U02011,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02012,1,1,37.89,37.89,17,<18,Female,1,1,Low Activity
+U02013,2,2,0.0,0.0,29,26-35,Female,2,2,Low Activity
+U02014,3,3,54.64,18.213333333333335,23,18-25,Female,3,2,Moderate Activity
+U02015,14,14,1209.15,86.36785714285715,30,26-35,Male,9,3,Very High Activity
+U02016,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02017,2,2,53.86,26.93,22,18-25,Female,2,1,Low Activity
+U02018,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U02019,3,3,269.71,89.90333333333332,25,18-25,Female,2,2,Moderate Activity
+U02020,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U02021,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U02022,11,11,958.29,87.11727272727272,27,26-35,Female,8,3,Very High Activity
+U02023,2,2,0.0,0.0,31,26-35,Female,2,2,Low Activity
+U02024,2,2,0.0,0.0,24,18-25,Female,2,2,Low Activity
+U02025,1,1,276.37,276.37,21,18-25,Male,1,1,Low Activity
+U02026,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02027,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U02028,2,2,0.0,0.0,35,26-35,Female,2,1,Low Activity
+U02029,1,1,342.61,342.61,28,26-35,Male,1,1,Low Activity
+U02030,1,1,117.68,117.68,28,26-35,Female,1,1,Low Activity
+U02031,2,2,119.04,59.52,20,18-25,Male,2,2,Low Activity
+U02032,2,2,0.0,0.0,17,<18,Male,2,2,Low Activity
+U02033,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02034,1,1,117.68,117.68,31,26-35,Female,1,1,Low Activity
+U02035,15,15,1531.93,102.12866666666667,32,26-35,Male,9,3,Very High Activity
+U02036,2,2,89.59,44.795,26,26-35,Male,2,2,Low Activity
+U02037,2,2,327.99,163.995,18,18-25,Female,2,2,Low Activity
+U02038,11,11,519.95,47.26818181818182,32,26-35,Female,9,3,Very High Activity
+U02039,13,13,1893.39,145.64538461538461,29,26-35,Male,10,3,Very High Activity
+U02040,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U02041,3,3,37.89,12.63,34,26-35,Male,3,2,Moderate Activity
+U02042,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U02043,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U02044,2,2,0.0,0.0,24,18-25,Female,2,2,Low Activity
+U02045,1,1,0.78,0.78,28,26-35,Female,1,1,Low Activity
+U02046,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U02047,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U02048,1,1,89.59,89.59,19,18-25,Female,1,1,Low Activity
+U02049,1,1,248.1,248.1,22,18-25,Male,1,1,Low Activity
+U02050,3,3,0.0,0.0,28,26-35,Male,3,1,Moderate Activity
+U02051,1,1,342.61,342.61,31,26-35,Female,1,1,Low Activity
+U02052,2,2,772.97,386.485,21,18-25,Male,1,2,Low Activity
+U02053,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02054,2,2,0.0,0.0,23,18-25,Male,2,2,Low Activity
+U02055,14,14,1958.82,139.91571428571427,33,26-35,Female,9,3,Very High Activity
+U02056,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U02057,2,2,0.0,0.0,16,<18,Male,2,2,Low Activity
+U02058,13,13,1253.57,96.42846153846153,16,<18,Male,8,3,Very High Activity
+U02059,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U02060,3,3,0.0,0.0,31,26-35,Female,2,3,Moderate Activity
+U02061,1,1,117.68,117.68,25,18-25,Female,1,1,Low Activity
+U02062,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U02063,2,2,37.89,18.945,26,26-35,Male,2,1,Low Activity
+U02064,15,15,2068.0,137.86666666666667,35,26-35,Male,10,3,Very High Activity
+U02065,2,2,0.0,0.0,20,18-25,Male,2,1,Low Activity
+U02066,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U02067,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U02068,13,13,1233.26,94.86615384615385,15,<18,Male,7,3,Very High Activity
+U02069,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U02070,1,1,342.61,342.61,31,26-35,Female,1,1,Low Activity
+U02071,13,13,906.51,69.73153846153846,24,18-25,Male,8,3,Very High Activity
+U02072,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U02073,2,2,37.89,18.945,19,18-25,Female,2,2,Low Activity
+U02074,14,14,1691.76,120.84,27,26-35,Female,9,3,Very High Activity
+U02075,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U02076,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U02077,14,14,856.78,61.19857142857143,24,18-25,Male,10,3,Very High Activity
+U02078,2,2,342.37,171.185,34,26-35,Female,2,2,Low Activity
+U02079,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U02080,2,2,833.51,416.755,33,26-35,Male,2,2,Low Activity
+U02081,2,2,119.04,59.52,19,18-25,Female,2,2,Low Activity
+U02082,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U02083,2,2,487.92,243.96,27,26-35,Female,2,2,Low Activity
+U02084,3,3,0.78,0.26,21,18-25,Female,3,2,Moderate Activity
+U02085,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U02086,2,2,342.61,171.305,30,26-35,Male,2,1,Low Activity
+U02087,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U02088,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U02089,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U02090,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U02091,3,3,37.89,12.63,27,26-35,Male,3,3,Moderate Activity
+U02092,1,1,89.59,89.59,25,18-25,Female,1,1,Low Activity
+U02093,2,2,248.1,124.05,18,18-25,Male,2,1,Low Activity
+U02094,11,11,394.26,35.841818181818184,24,18-25,Female,9,3,Very High Activity
+U02095,1,1,119.04,119.04,32,26-35,Female,1,1,Low Activity
+U02096,13,13,815.44,62.72615384615385,31,26-35,Male,9,3,Very High Activity
+U02097,2,2,327.99,163.995,15,<18,Female,2,1,Low Activity
+U02098,13,13,1137.72,87.51692307692308,25,18-25,Male,8,3,Very High Activity
+U02099,1,1,394.26,394.26,21,18-25,Female,1,1,Low Activity
+U02100,1,1,248.1,248.1,15,<18,Female,1,1,Low Activity
+U02101,1,1,37.89,37.89,27,26-35,Male,1,1,Low Activity
+U02102,3,3,0.0,0.0,20,18-25,Female,3,2,Moderate Activity
+U02103,3,3,472.28,157.42666666666665,33,26-35,Male,2,1,Moderate Activity
+U02104,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U02105,1,1,394.26,394.26,32,26-35,Female,1,1,Low Activity
+U02106,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U02107,2,2,0.0,0.0,31,26-35,Male,2,2,Low Activity
+U02108,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U02109,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U02110,1,1,276.37,276.37,25,18-25,Male,1,1,Low Activity
+U02111,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U02112,2,2,0.0,0.0,22,18-25,Female,2,1,Low Activity
+U02113,2,2,327.99,163.995,28,26-35,Female,1,2,Low Activity
+U02114,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U02115,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U02116,1,1,342.61,342.61,32,26-35,Female,1,1,Low Activity
+U02117,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U02118,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02119,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U02120,2,2,89.59,44.795,19,18-25,Male,2,1,Low Activity
+U02121,1,1,415.51,415.51,16,<18,Female,1,1,Low Activity
+U02122,2,2,0.0,0.0,32,26-35,Female,2,2,Low Activity
+U02123,2,2,415.51,207.755,32,26-35,Male,2,1,Low Activity
+U02124,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U02125,13,13,1813.93,139.53307692307692,31,26-35,Female,10,3,Very High Activity
+U02126,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U02127,2,2,0.0,0.0,21,18-25,Female,2,2,Low Activity
+U02128,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U02129,2,2,0.0,0.0,20,18-25,Female,2,1,Low Activity
+U02130,1,1,212.39,212.39,19,18-25,Male,1,1,Low Activity
+U02131,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U02132,2,2,0.0,0.0,20,18-25,Female,2,1,Low Activity
+U02133,2,2,0.78,0.39,21,18-25,Male,2,1,Low Activity
+U02134,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U02135,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U02136,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U02137,1,1,285.05,285.05,30,26-35,Male,1,1,Low Activity
+U02138,2,2,490.9,245.45,19,18-25,Female,2,2,Low Activity
+U02139,1,1,0.78,0.78,23,18-25,Male,1,1,Low Activity
+U02140,1,1,326.02,326.02,21,18-25,Female,1,1,Low Activity
+U02141,2,2,276.37,138.185,17,<18,Male,2,2,Low Activity
+U02142,4,4,212.39,53.0975,26,26-35,Female,4,2,Moderate Activity
+U02143,3,3,155.57,51.85666666666666,24,18-25,Male,3,2,Moderate Activity
+U02144,14,14,1768.1100000000001,126.29357142857144,15,<18,Male,9,3,Very High Activity
+U02145,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U02146,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U02147,15,15,1788.0,119.2,33,26-35,Male,11,3,Very High Activity
+U02148,1,1,346.71,346.71,31,26-35,Female,1,1,Low Activity
+U02149,15,15,1208.6599999999999,80.57733333333333,21,18-25,Female,8,3,Very High Activity
+U02150,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U02151,13,13,2232.52,171.7323076923077,18,18-25,Female,8,3,Very High Activity
+U02152,13,13,2323.13,178.7023076923077,35,26-35,Female,9,3,Very High Activity
+U02153,13,13,1672.28,128.63692307692307,18,18-25,Female,9,3,Very High Activity
+U02154,3,3,837.6099999999999,279.2033333333333,16,<18,Male,3,3,Moderate Activity
+U02155,14,14,623.14,44.51,16,<18,Female,10,3,Very High Activity
+U02156,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U02157,3,3,0.0,0.0,29,26-35,Male,3,3,Moderate Activity
+U02158,4,4,748.65,187.1625,17,<18,Female,4,3,Moderate Activity
+U02159,2,2,327.99,163.995,29,26-35,Female,2,2,Low Activity
+U02160,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U02161,14,14,822.39,58.74214285714286,23,18-25,Female,7,3,Very High Activity
+U02162,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02163,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U02164,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U02165,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U02166,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02167,3,3,342.61,114.20333333333333,25,18-25,Female,3,1,Moderate Activity
+U02168,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U02169,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U02170,1,1,472.28,472.28,24,18-25,Male,1,1,Low Activity
+U02171,2,2,57.32,28.66,31,26-35,Male,2,2,Low Activity
+U02172,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U02173,1,1,326.02,326.02,22,18-25,Female,1,1,Low Activity
+U02174,14,14,1787.88,127.7057142857143,17,<18,Female,8,3,Very High Activity
+U02175,2,2,0.0,0.0,15,<18,Female,2,2,Low Activity
+U02176,1,1,117.68,117.68,23,18-25,Male,1,1,Low Activity
+U02177,1,1,472.28,472.28,35,26-35,Male,1,1,Low Activity
+U02178,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U02179,2,2,0.0,0.0,27,26-35,Female,2,2,Low Activity
+U02180,4,4,0.0,0.0,31,26-35,Female,4,2,Moderate Activity
+U02181,2,2,342.61,171.305,27,26-35,Female,2,2,Low Activity
+U02182,2,2,0.0,0.0,29,26-35,Male,2,2,Low Activity
+U02183,1,1,117.68,117.68,19,18-25,Male,1,1,Low Activity
+U02184,2,2,177.34,88.67,20,18-25,Female,2,2,Low Activity
+U02185,2,2,0.0,0.0,16,<18,Male,2,2,Low Activity
+U02186,4,4,363.90999999999997,90.97749999999999,29,26-35,Male,4,3,Moderate Activity
+U02187,2,2,57.32,28.66,21,18-25,Male,2,2,Low Activity
+U02188,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U02189,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U02190,4,4,453.4,113.35,19,18-25,Male,3,3,Moderate Activity
+U02191,4,4,37.89,9.4725,24,18-25,Male,2,2,Moderate Activity
+U02192,2,2,0.0,0.0,22,18-25,Female,2,2,Low Activity
+U02193,2,2,0.0,0.0,20,18-25,Male,2,1,Low Activity
+U02194,2,2,790.47,395.235,18,18-25,Male,2,1,Low Activity
+U02195,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U02196,1,1,248.1,248.1,31,26-35,Female,1,1,Low Activity
+U02197,2,2,0.0,0.0,24,18-25,Female,2,2,Low Activity
+U02198,2,2,0.0,0.0,17,<18,Female,1,2,Low Activity
+U02199,12,12,841.2900000000001,70.1075,27,26-35,Male,6,3,Very High Activity
+U02200,2,2,618.98,309.49,23,18-25,Male,2,2,Low Activity
+U02201,1,1,326.02,326.02,20,18-25,Male,1,1,Low Activity
+U02202,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U02203,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U02204,1,1,327.99,327.99,16,<18,Female,1,1,Low Activity
+U02205,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U02206,3,3,0.0,0.0,31,26-35,Male,2,2,Moderate Activity
+U02207,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U02208,2,2,327.99,163.995,30,26-35,Male,2,2,Low Activity
+U02209,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U02210,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U02211,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U02212,15,15,1164.95,77.66333333333334,33,26-35,Male,10,3,Very High Activity
+U02213,1,1,342.61,342.61,17,<18,Male,1,1,Low Activity
+U02214,4,4,322.94,80.735,20,18-25,Female,4,3,Moderate Activity
+U02215,11,11,595.5899999999999,54.144545454545444,32,26-35,Male,10,3,Very High Activity
+U02216,2,2,89.59,44.795,26,26-35,Female,2,2,Low Activity
+U02217,14,14,722.87,51.63357142857143,21,18-25,Male,9,3,Very High Activity
+U02218,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U02219,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U02220,1,1,472.28,472.28,30,26-35,Male,1,1,Low Activity
+U02221,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02222,1,1,394.26,394.26,23,18-25,Male,1,1,Low Activity
+U02223,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U02224,13,13,772.15,59.396153846153844,18,18-25,Female,9,3,Very High Activity
+U02225,2,2,119.04,59.52,33,26-35,Female,2,1,Low Activity
+U02226,2,2,490.9,245.45,20,18-25,Female,2,2,Low Activity
+U02227,1,1,394.26,394.26,21,18-25,Female,1,1,Low Activity
+U02228,2,2,0.0,0.0,19,18-25,Male,2,2,Low Activity
+U02229,2,2,0.0,0.0,34,26-35,Female,2,2,Low Activity
+U02230,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U02231,13,13,817.99,62.92230769230769,20,18-25,Male,10,3,Very High Activity
+U02232,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U02233,2,2,299.57,149.785,28,26-35,Male,2,1,Low Activity
+U02234,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U02235,2,2,337.46,168.73,15,<18,Female,2,2,Low Activity
+U02236,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U02237,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U02238,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02239,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U02240,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U02241,2,2,301.96,150.98,29,26-35,Male,2,1,Low Activity
+U02242,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U02243,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U02244,1,1,57.32,57.32,34,26-35,Male,1,1,Low Activity
+U02245,1,1,472.28,472.28,22,18-25,Male,1,1,Low Activity
+U02246,1,1,89.59,89.59,15,<18,Female,1,1,Low Activity
+U02247,1,1,212.39,212.39,15,<18,Female,1,1,Low Activity
+U02248,14,14,1251.85,89.41785714285713,29,26-35,Male,10,3,Very High Activity
+U02249,2,2,117.68,58.84,25,18-25,Female,2,1,Low Activity
+U02250,13,13,1422.4,109.41538461538462,19,18-25,Female,8,3,Very High Activity
+U02251,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U02252,2,2,0.0,0.0,29,26-35,Female,2,1,Low Activity
+U02253,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U02254,15,15,860.5699999999999,57.37133333333333,17,<18,Female,11,3,Very High Activity
+U02255,2,2,89.59,44.795,18,18-25,Female,1,2,Low Activity
+U02256,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U02257,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02258,16,16,1617.15,101.071875,21,18-25,Male,10,3,Very High Activity
+U02259,2,2,119.04,59.52,32,26-35,Female,2,2,Low Activity
+U02260,1,1,346.71,346.71,16,<18,Female,1,1,Low Activity
+U02261,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U02262,3,3,0.0,0.0,31,26-35,Female,3,2,Moderate Activity
+U02263,1,1,346.71,346.71,29,26-35,Female,1,1,Low Activity
+U02264,2,2,415.51,207.755,28,26-35,Female,2,2,Low Activity
+U02265,2,2,394.26,197.13,33,26-35,Male,2,2,Low Activity
+U02266,1,1,490.9,490.9,21,18-25,Male,1,1,Low Activity
+U02267,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U02268,2,2,0.0,0.0,29,26-35,Female,2,2,Low Activity
+U02269,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U02270,3,3,487.92,162.64000000000001,21,18-25,Male,3,2,Moderate Activity
+U02271,2,2,57.32,28.66,20,18-25,Male,2,1,Low Activity
+U02272,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U02273,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U02274,2,2,177.34,88.67,16,<18,Male,2,1,Low Activity
+U02275,2,2,0.0,0.0,23,18-25,Female,2,2,Low Activity
+U02276,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U02277,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U02278,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U02279,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U02280,2,2,415.51,207.755,26,26-35,Female,2,2,Low Activity
+U02281,1,1,276.37,276.37,34,26-35,Male,1,1,Low Activity
+U02282,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U02283,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U02284,13,13,1127.8899999999999,86.76076923076923,28,26-35,Male,8,3,Very High Activity
+U02285,2,2,177.34,88.67,28,26-35,Female,2,2,Low Activity
+U02286,1,1,326.02,326.02,32,26-35,Female,1,1,Low Activity
+U02287,1,1,212.39,212.39,22,18-25,Male,1,1,Low Activity
+U02288,15,15,1437.73,95.84866666666667,32,26-35,Female,10,3,Very High Activity
+U02289,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U02290,15,15,1052.32,70.15466666666666,25,18-25,Male,10,3,Very High Activity
+U02291,2,2,57.32,28.66,31,26-35,Female,2,1,Low Activity
+U02292,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U02293,1,1,487.92,487.92,30,26-35,Female,1,1,Low Activity
+U02294,1,1,53.86,53.86,26,26-35,Male,1,1,Low Activity
+U02295,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U02296,1,1,342.61,342.61,27,26-35,Female,1,1,Low Activity
+U02297,1,1,472.28,472.28,28,26-35,Male,1,1,Low Activity
+U02298,1,1,119.04,119.04,22,18-25,Female,1,1,Low Activity
+U02299,2,2,0.0,0.0,35,26-35,Female,2,1,Low Activity
+U02300,15,15,1511.0,100.73333333333333,35,26-35,Male,9,3,Very High Activity
+U02301,13,13,547.67,42.128461538461536,18,18-25,Female,8,3,Very High Activity
+U02302,2,2,285.05,142.525,30,26-35,Male,2,2,Low Activity
+U02303,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U02304,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U02305,1,1,342.61,342.61,19,18-25,Female,1,1,Low Activity
+U02306,13,13,1824.4,140.33846153846156,18,18-25,Female,9,3,Very High Activity
+U02307,1,1,248.1,248.1,22,18-25,Male,1,1,Low Activity
+U02308,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U02309,3,3,95.21000000000001,31.736666666666668,23,18-25,Female,2,1,Moderate Activity
+U02310,1,1,0.78,0.78,15,<18,Male,1,1,Low Activity
+U02311,3,3,117.68,39.22666666666667,23,18-25,Female,2,2,Moderate Activity
+U02312,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U02313,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U02314,1,1,177.34,177.34,29,26-35,Male,1,1,Low Activity
+U02315,14,14,888.7900000000001,63.48500000000001,34,26-35,Male,8,3,Very High Activity
+U02316,2,2,415.61,207.805,31,26-35,Female,2,1,Low Activity
+U02317,2,2,57.32,28.66,18,18-25,Male,2,1,Low Activity
+U02318,1,1,285.05,285.05,24,18-25,Female,1,1,Low Activity
+U02319,1,1,248.1,248.1,24,18-25,Female,1,1,Low Activity
+U02320,3,3,212.39,70.79666666666667,17,<18,Male,3,2,Moderate Activity
+U02321,2,2,589.96,294.98,26,26-35,Female,2,2,Low Activity
+U02322,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U02323,1,1,37.89,37.89,29,26-35,Female,1,1,Low Activity
+U02324,3,3,326.02,108.67333333333333,34,26-35,Female,3,2,Moderate Activity
+U02325,1,1,177.34,177.34,15,<18,Male,1,1,Low Activity
+U02326,2,2,580.49,290.245,32,26-35,Male,1,2,Low Activity
+U02327,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U02328,3,3,415.51,138.50333333333333,22,18-25,Female,3,2,Moderate Activity
+U02329,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U02330,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U02331,2,2,0.0,0.0,25,18-25,Female,2,2,Low Activity
+U02332,2,2,277.15,138.575,23,18-25,Male,2,1,Low Activity
+U02333,3,3,415.51,138.50333333333333,32,26-35,Female,3,3,Moderate Activity
+U02334,2,2,0.78,0.39,23,18-25,Female,2,1,Low Activity
+U02335,1,1,0.78,0.78,25,18-25,Female,1,1,Low Activity
+U02336,14,14,1228.1100000000001,87.72214285714287,17,<18,Female,9,3,Very High Activity
+U02337,13,13,1676.03,128.92538461538462,18,18-25,Female,6,3,Very High Activity
+U02338,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U02339,1,1,285.05,285.05,33,26-35,Female,1,1,Low Activity
+U02340,2,2,37.89,18.945,20,18-25,Male,2,2,Low Activity
+U02341,13,13,957.45,73.65,17,<18,Male,9,3,Very High Activity
+U02342,2,2,89.59,44.795,21,18-25,Male,2,2,Low Activity
+U02343,4,4,559.88,139.97,29,26-35,Male,3,2,Moderate Activity
+U02344,14,14,1335.99,95.42785714285715,26,26-35,Male,9,3,Very High Activity
+U02345,13,13,1047.8,80.6,31,26-35,Male,8,3,Very High Activity
+U02346,1,1,394.26,394.26,34,26-35,Male,1,1,Low Activity
+U02347,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02348,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U02349,14,14,1028.3,73.45,27,26-35,Male,9,3,Very High Activity
+U02350,2,2,295.02,147.51,31,26-35,Female,2,1,Low Activity
+U02351,2,2,0.0,0.0,22,18-25,Female,2,1,Low Activity
+U02352,3,3,299.57,99.85666666666667,30,26-35,Female,2,2,Moderate Activity
+U02353,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U02354,1,1,487.92,487.92,29,26-35,Female,1,1,Low Activity
+U02355,1,1,119.04,119.04,32,26-35,Female,1,1,Low Activity
+U02356,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U02357,2,2,0.0,0.0,28,26-35,Female,2,2,Low Activity
+U02358,4,4,1066.84,266.71,22,18-25,Male,4,2,Moderate Activity
+U02359,2,2,0.0,0.0,32,26-35,Female,2,2,Low Activity
+U02360,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U02361,2,2,327.99,163.995,26,26-35,Female,2,2,Low Activity
+U02362,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U02363,1,1,487.92,487.92,15,<18,Male,1,1,Low Activity
+U02364,1,1,299.57,299.57,29,26-35,Female,1,1,Low Activity
+U02365,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U02366,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02367,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02368,4,4,451.37,112.8425,31,26-35,Male,4,1,Moderate Activity
+U02369,2,2,0.0,0.0,16,<18,Male,2,2,Low Activity
+U02370,14,14,1092.76,78.05428571428571,24,18-25,Male,11,3,Very High Activity
+U02371,12,12,1569.7,130.80833333333334,34,26-35,Female,8,3,Very High Activity
+U02372,3,3,0.0,0.0,35,26-35,Male,3,2,Moderate Activity
+U02373,2,2,487.92,243.96,22,18-25,Male,2,2,Low Activity
+U02374,3,3,0.78,0.26,22,18-25,Male,2,2,Moderate Activity
+U02375,1,1,276.37,276.37,33,26-35,Female,1,1,Low Activity
+U02376,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02377,2,2,0.0,0.0,35,26-35,Male,2,2,Low Activity
+U02378,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U02379,2,2,0.0,0.0,20,18-25,Male,2,1,Low Activity
+U02380,3,3,720.28,240.09333333333333,24,18-25,Female,3,2,Moderate Activity
+U02381,1,1,415.51,415.51,31,26-35,Female,1,1,Low Activity
+U02382,1,1,490.9,490.9,32,26-35,Male,1,1,Low Activity
+U02383,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U02384,3,3,119.04,39.68,22,18-25,Male,3,2,Moderate Activity
+U02385,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U02386,4,4,299.57,74.8925,35,26-35,Male,4,2,Moderate Activity
+U02387,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U02388,1,1,346.71,346.71,23,18-25,Male,1,1,Low Activity
+U02389,2,2,177.34,88.67,33,26-35,Male,2,1,Low Activity
+U02390,2,2,472.28,236.14,28,26-35,Female,1,2,Low Activity
+U02391,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U02392,2,2,212.39,106.195,21,18-25,Male,2,2,Low Activity
+U02393,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U02394,1,1,299.57,299.57,35,26-35,Male,1,1,Low Activity
+U02395,3,3,0.0,0.0,32,26-35,Female,3,2,Moderate Activity
+U02396,1,1,212.39,212.39,16,<18,Female,1,1,Low Activity
+U02397,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U02398,2,2,248.88,124.44,26,26-35,Female,2,2,Low Activity
+U02399,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U02400,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U02401,1,1,490.9,490.9,28,26-35,Male,1,1,Low Activity
+U02402,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02403,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U02404,2,2,53.86,26.93,28,26-35,Male,2,1,Low Activity
+U02405,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U02406,2,2,314.26,157.13,23,18-25,Female,2,1,Low Activity
+U02407,2,2,0.0,0.0,27,26-35,Male,2,1,Low Activity
+U02408,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U02409,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U02410,12,12,1444.1200000000001,120.34333333333335,18,18-25,Male,10,3,Very High Activity
+U02411,1,1,37.89,37.89,31,26-35,Female,1,1,Low Activity
+U02412,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U02413,2,2,0.0,0.0,25,18-25,Male,2,2,Low Activity
+U02414,3,3,472.28,157.42666666666665,21,18-25,Male,2,2,Moderate Activity
+U02415,11,11,1568.1699999999998,142.56090909090906,33,26-35,Male,7,3,Very High Activity
+U02416,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U02417,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U02418,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U02419,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U02420,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U02421,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U02422,1,1,57.32,57.32,21,18-25,Female,1,1,Low Activity
+U02423,2,2,445.67,222.835,32,26-35,Female,2,2,Low Activity
+U02424,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U02425,2,2,0.0,0.0,24,18-25,Female,2,1,Low Activity
+U02426,1,1,299.57,299.57,19,18-25,Female,1,1,Low Activity
+U02427,15,15,893.0,59.53333333333333,31,26-35,Female,9,3,Very High Activity
+U02428,2,2,548.22,274.11,30,26-35,Male,2,2,Low Activity
+U02429,3,3,0.0,0.0,30,26-35,Female,2,2,Moderate Activity
+U02430,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U02431,1,1,327.99,327.99,16,<18,Male,1,1,Low Activity
+U02432,15,15,1593.46,106.23066666666666,30,26-35,Female,10,3,Very High Activity
+U02433,1,1,117.68,117.68,15,<18,Female,1,1,Low Activity
+U02434,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U02435,1,1,487.92,487.92,17,<18,Male,1,1,Low Activity
+U02436,3,3,445.67,148.55666666666667,16,<18,Male,3,2,Moderate Activity
+U02437,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U02438,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U02439,1,1,276.37,276.37,22,18-25,Female,1,1,Low Activity
+U02440,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U02441,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U02442,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U02443,2,2,95.21000000000001,47.605000000000004,22,18-25,Female,1,1,Low Activity
+U02444,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U02445,14,14,1507.12,107.65142857142857,26,26-35,Female,10,3,Very High Activity
+U02446,2,2,490.9,245.45,29,26-35,Male,2,1,Low Activity
+U02447,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U02448,2,2,0.0,0.0,17,<18,Male,2,2,Low Activity
+U02449,1,1,285.05,285.05,32,26-35,Male,1,1,Low Activity
+U02450,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U02451,2,2,0.0,0.0,31,26-35,Male,2,2,Low Activity
+U02452,2,2,0.0,0.0,23,18-25,Female,2,2,Low Activity
+U02453,1,1,212.39,212.39,29,26-35,Female,1,1,Low Activity
+U02454,2,2,0.0,0.0,28,26-35,Male,2,1,Low Activity
+U02455,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U02456,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U02457,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U02458,2,2,443.7,221.85,26,26-35,Female,2,2,Low Activity
+U02459,12,12,625.46,52.12166666666667,33,26-35,Male,9,3,Very High Activity
+U02460,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U02461,2,2,0.0,0.0,15,<18,Female,2,1,Low Activity
+U02462,1,1,327.99,327.99,26,26-35,Male,1,1,Low Activity
+U02463,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U02464,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U02465,2,2,0.0,0.0,27,26-35,Male,2,1,Low Activity
+U02466,4,4,365.96000000000004,91.49000000000001,23,18-25,Male,4,2,Moderate Activity
+U02467,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U02468,3,3,0.0,0.0,29,26-35,Female,3,2,Moderate Activity
+U02469,2,2,0.0,0.0,21,18-25,Male,2,1,Low Activity
+U02470,13,13,734.32,56.48615384615385,34,26-35,Male,7,3,Very High Activity
+U02471,1,1,326.02,326.02,16,<18,Female,1,1,Low Activity
+U02472,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U02473,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U02474,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02475,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U02476,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U02477,1,1,342.61,342.61,17,<18,Male,1,1,Low Activity
+U02478,2,2,490.9,245.45,30,26-35,Male,2,2,Low Activity
+U02479,4,4,285.05,71.2625,19,18-25,Female,4,2,Moderate Activity
+U02480,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U02481,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U02482,2,2,0.0,0.0,35,26-35,Male,2,2,Low Activity
+U02483,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02484,4,4,285.05,71.2625,25,18-25,Female,4,3,Moderate Activity
+U02485,14,14,621.35,44.38214285714286,22,18-25,Male,8,3,Very High Activity
+U02486,2,2,177.34,88.67,29,26-35,Male,1,2,Low Activity
+U02487,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U02488,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U02489,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U02490,13,13,0.78,0.060000000000000005,24,18-25,Female,8,3,Very High Activity
+U02491,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U02492,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U02493,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U02494,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U02495,2,2,89.59,44.795,28,26-35,Male,2,2,Low Activity
+U02496,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U02497,2,2,0.0,0.0,26,26-35,Female,2,2,Low Activity
+U02498,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U02499,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U02500,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U02501,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U02502,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U02503,2,2,0.0,0.0,16,<18,Female,2,2,Low Activity
+U02504,4,4,326.02,81.505,34,26-35,Female,3,2,Moderate Activity
+U02505,1,1,248.1,248.1,35,26-35,Female,1,1,Low Activity
+U02506,1,1,285.05,285.05,16,<18,Female,1,1,Low Activity
+U02507,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U02508,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U02509,3,3,0.78,0.26,24,18-25,Male,3,2,Moderate Activity
+U02510,2,2,0.0,0.0,23,18-25,Male,2,1,Low Activity
+U02511,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U02512,14,14,934.95,66.78214285714286,15,<18,Female,8,3,Very High Activity
+U02513,1,1,472.28,472.28,23,18-25,Male,1,1,Low Activity
+U02514,2,2,0.0,0.0,17,<18,Male,2,2,Low Activity
+U02515,11,11,996.46,90.58727272727273,15,<18,Male,8,3,Very High Activity
+U02516,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U02517,2,2,464.39,232.195,30,26-35,Female,2,1,Low Activity
+U02518,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02519,2,2,89.59,44.795,29,26-35,Male,2,2,Low Activity
+U02520,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U02521,4,4,89.59,22.3975,25,18-25,Male,4,3,Moderate Activity
+U02522,1,1,117.68,117.68,21,18-25,Female,1,1,Low Activity
+U02523,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U02524,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U02525,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02526,2,2,461.65000000000003,230.82500000000002,30,26-35,Female,2,1,Low Activity
+U02527,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U02528,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U02529,3,3,299.57,99.85666666666667,17,<18,Female,3,2,Moderate Activity
+U02530,1,1,472.28,472.28,21,18-25,Male,1,1,Low Activity
+U02531,4,4,0.0,0.0,22,18-25,Female,3,2,Moderate Activity
+U02532,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U02533,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U02534,2,2,0.0,0.0,25,18-25,Female,2,2,Low Activity
+U02535,2,2,327.99,163.995,26,26-35,Female,2,2,Low Activity
+U02536,2,2,0.0,0.0,16,<18,Male,1,2,Low Activity
+U02537,12,12,1763.05,146.92083333333332,31,26-35,Female,8,3,Very High Activity
+U02538,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U02539,2,2,394.26,197.13,20,18-25,Female,1,2,Low Activity
+U02540,15,15,1028.3,68.55333333333333,33,26-35,Female,11,3,Very High Activity
+U02541,13,13,1775.24,136.55692307692308,18,18-25,Female,8,3,Very High Activity
+U02542,13,13,815.93,62.76384615384615,35,26-35,Female,7,3,Very High Activity
+U02543,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U02544,1,1,490.9,490.9,29,26-35,Male,1,1,Low Activity
+U02545,2,2,0.0,0.0,16,<18,Female,1,1,Low Activity
+U02546,1,1,285.05,285.05,27,26-35,Female,1,1,Low Activity
+U02547,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U02548,2,2,487.92,243.96,25,18-25,Male,2,2,Low Activity
+U02549,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02550,1,1,327.99,327.99,18,18-25,Male,1,1,Low Activity
+U02551,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02552,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02553,2,2,487.92,243.96,35,26-35,Female,2,2,Low Activity
+U02554,1,1,299.57,299.57,32,26-35,Male,1,1,Low Activity
+U02555,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U02556,1,1,276.37,276.37,18,18-25,Female,1,1,Low Activity
+U02557,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U02558,4,4,0.78,0.195,23,18-25,Female,4,3,Moderate Activity
+U02559,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U02560,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U02561,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U02562,4,4,326.02,81.505,18,18-25,Male,4,2,Moderate Activity
+U02563,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02564,13,13,1558.96,119.92,19,18-25,Female,8,3,Very High Activity
+U02565,1,1,327.99,327.99,32,26-35,Male,1,1,Low Activity
+U02566,14,14,1608.62,114.90142857142857,30,26-35,Female,10,3,Very High Activity
+U02567,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U02568,2,2,0.0,0.0,33,26-35,Female,2,2,Low Activity
+U02569,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U02570,1,1,472.28,472.28,25,18-25,Female,1,1,Low Activity
+U02571,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U02572,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U02573,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U02574,1,1,346.71,346.71,24,18-25,Male,1,1,Low Activity
+U02575,2,2,285.05,142.525,30,26-35,Female,2,1,Low Activity
+U02576,1,1,117.68,117.68,17,<18,Female,1,1,Low Activity
+U02577,2,2,285.05,142.525,21,18-25,Female,2,2,Low Activity
+U02578,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U02579,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U02580,1,1,285.05,285.05,17,<18,Female,1,1,Low Activity
+U02581,2,2,346.71,173.355,22,18-25,Female,2,2,Low Activity
+U02582,15,15,648.64,43.242666666666665,23,18-25,Male,10,3,Very High Activity
+U02583,14,14,759.86,54.27571428571429,33,26-35,Male,10,3,Very High Activity
+U02584,2,2,0.78,0.39,20,18-25,Male,2,1,Low Activity
+U02585,2,2,465.75,232.875,32,26-35,Male,2,2,Low Activity
+U02586,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U02587,2,2,285.05,142.525,30,26-35,Male,2,1,Low Activity
+U02588,1,1,415.51,415.51,18,18-25,Male,1,1,Low Activity
+U02589,1,1,0.78,0.78,26,26-35,Female,1,1,Low Activity
+U02590,2,2,248.1,124.05,20,18-25,Male,2,2,Low Activity
+U02591,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U02592,2,2,472.28,236.14,15,<18,Male,2,1,Low Activity
+U02593,12,12,1432.53,119.3775,16,<18,Male,10,2,Very High Activity
+U02594,1,1,327.99,327.99,18,18-25,Female,1,1,Low Activity
+U02595,1,1,0.78,0.78,17,<18,Male,1,1,Low Activity
+U02596,1,1,212.39,212.39,19,18-25,Female,1,1,Low Activity
+U02597,2,2,269.71,134.855,17,<18,Female,2,1,Low Activity
+U02598,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U02599,2,2,436.29999999999995,218.14999999999998,33,26-35,Female,2,2,Low Activity
+U02600,3,3,623.0799999999999,207.6933333333333,17,<18,Male,3,1,Moderate Activity
+U02601,4,4,0.0,0.0,19,18-25,Female,4,2,Moderate Activity
+U02602,13,13,974.75,74.98076923076923,33,26-35,Male,9,3,Very High Activity
+U02603,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U02604,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U02605,12,12,1083.68,90.30666666666667,22,18-25,Male,7,3,Very High Activity
+U02606,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U02607,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U02608,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U02609,2,2,0.0,0.0,15,<18,Male,2,2,Low Activity
+U02610,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U02611,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U02612,14,14,966.49,69.035,22,18-25,Male,10,3,Very High Activity
+U02613,2,2,177.34,88.67,23,18-25,Female,2,1,Low Activity
+U02614,13,13,919.88,70.76,30,26-35,Female,10,3,Very High Activity
+U02615,2,2,0.0,0.0,33,26-35,Male,2,2,Low Activity
+U02616,13,13,1265.18,97.32153846153847,19,18-25,Female,8,3,Very High Activity
+U02617,4,4,490.9,122.725,23,18-25,Female,4,3,Moderate Activity
+U02618,3,3,0.0,0.0,23,18-25,Male,2,2,Moderate Activity
+U02619,1,1,212.39,212.39,24,18-25,Female,1,1,Low Activity
+U02620,2,2,37.89,18.945,30,26-35,Female,2,2,Low Activity
+U02621,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U02622,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U02623,11,11,679.7199999999999,61.79272727272726,32,26-35,Female,7,3,Very High Activity
+U02624,3,3,490.9,163.63333333333333,16,<18,Female,3,2,Moderate Activity
+U02625,2,2,0.0,0.0,22,18-25,Female,2,2,Low Activity
+U02626,3,3,212.39,70.79666666666667,21,18-25,Female,3,2,Moderate Activity
+U02627,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U02628,1,1,285.05,285.05,33,26-35,Female,1,1,Low Activity
+U02629,1,1,57.32,57.32,35,26-35,Female,1,1,Low Activity
+U02630,12,12,670.63,55.88583333333333,20,18-25,Male,9,3,Very High Activity
+U02631,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U02632,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U02633,14,14,1004.95,71.78214285714286,19,18-25,Female,8,3,Very High Activity
+U02634,1,1,57.32,57.32,29,26-35,Female,1,1,Low Activity
+U02635,1,1,0.0,0.0,16,<18,Male,1,1,Low Activity
+U02636,1,1,0.0,0.0,20,18-25,Male,1,1,Low Activity
+U02637,2,2,0.78,0.39,28,26-35,Male,2,2,Low Activity
+U02638,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U02639,1,1,212.39,212.39,22,18-25,Female,1,1,Low Activity
+U02640,3,3,654.01,218.00333333333333,34,26-35,Female,3,3,Moderate Activity
+U02641,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U02642,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U02643,15,15,1460.84,97.38933333333333,17,<18,Female,10,3,Very High Activity
+U02644,4,4,234.66,58.665,23,18-25,Male,3,2,Moderate Activity
+U02645,10,10,889.27,88.92699999999999,26,26-35,Female,8,3,High Activity
+U02646,2,2,736.02,368.01,26,26-35,Male,2,2,Low Activity
+U02647,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U02648,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U02649,1,1,472.28,472.28,34,26-35,Female,1,1,Low Activity
+U02650,2,2,248.1,124.05,29,26-35,Female,2,1,Low Activity
+U02651,16,16,1113.95,69.621875,16,<18,Female,9,3,Very High Activity
+U02652,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U02653,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U02654,1,1,415.51,415.51,27,26-35,Male,1,1,Low Activity
+U02655,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U02656,1,1,53.86,53.86,34,26-35,Female,1,1,Low Activity
+U02657,1,1,177.34,177.34,31,26-35,Male,1,1,Low Activity
+U02658,3,3,285.05,95.01666666666667,30,26-35,Male,3,2,Moderate Activity
+U02659,2,2,248.1,124.05,17,<18,Male,2,2,Low Activity
+U02660,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U02661,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02662,2,2,117.68,58.84,32,26-35,Male,2,2,Low Activity
+U02663,14,14,1017.04,72.64571428571428,27,26-35,Female,8,3,Very High Activity
+U02664,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U02665,1,1,37.89,37.89,21,18-25,Female,1,1,Low Activity
+U02666,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U02667,1,1,248.1,248.1,22,18-25,Female,1,1,Low Activity
+U02668,3,3,57.32,19.106666666666666,26,26-35,Male,3,2,Moderate Activity
+U02669,2,2,0.0,0.0,25,18-25,Male,2,1,Low Activity
+U02670,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U02671,1,1,299.57,299.57,15,<18,Female,1,1,Low Activity
+U02672,14,14,1012.26,72.30428571428571,32,26-35,Male,9,3,Very High Activity
+U02673,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02674,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U02675,4,4,346.71,86.6775,34,26-35,Female,3,3,Moderate Activity
+U02676,1,1,394.26,394.26,15,<18,Male,1,1,Low Activity
+U02677,3,3,490.9,163.63333333333333,33,26-35,Male,3,2,Moderate Activity
+U02678,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02679,11,11,1043.46,94.86,18,18-25,Male,8,3,Very High Activity
+U02680,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02681,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U02682,1,1,53.86,53.86,35,26-35,Female,1,1,Low Activity
+U02683,15,15,2578.46,171.89733333333334,28,26-35,Male,10,3,Very High Activity
+U02684,14,14,2747.3,196.2357142857143,28,26-35,Male,9,3,Very High Activity
+U02685,1,1,487.92,487.92,27,26-35,Female,1,1,Low Activity
+U02686,4,4,814.89,203.7225,19,18-25,Female,3,2,Moderate Activity
+U02687,1,1,212.39,212.39,34,26-35,Male,1,1,Low Activity
+U02688,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U02689,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02690,4,4,394.26,98.565,24,18-25,Male,2,2,Moderate Activity
+U02691,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02692,3,3,117.68,39.22666666666667,23,18-25,Male,2,2,Moderate Activity
+U02693,1,1,342.61,342.61,19,18-25,Male,1,1,Low Activity
+U02694,2,2,627.56,313.78,30,26-35,Female,2,1,Low Activity
+U02695,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U02696,2,2,490.9,245.45,25,18-25,Female,2,2,Low Activity
+U02697,4,4,437.08,109.27,22,18-25,Female,4,2,Moderate Activity
+U02698,12,12,1798.36,149.86333333333332,18,18-25,Female,8,3,Very High Activity
+U02699,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U02700,1,1,57.32,57.32,18,18-25,Female,1,1,Low Activity
+U02701,4,4,425.44,106.36,23,18-25,Female,4,3,Moderate Activity
+U02702,2,2,0.0,0.0,15,<18,Male,2,1,Low Activity
+U02703,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U02704,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U02705,2,2,394.26,197.13,31,26-35,Male,2,2,Low Activity
+U02706,1,1,37.89,37.89,21,18-25,Female,1,1,Low Activity
+U02707,1,1,117.68,117.68,19,18-25,Female,1,1,Low Activity
+U02708,1,1,472.28,472.28,25,18-25,Male,1,1,Low Activity
+U02709,12,12,1256.18,104.68166666666667,19,18-25,Female,9,3,Very High Activity
+U02710,1,1,326.02,326.02,23,18-25,Female,1,1,Low Activity
+U02711,2,2,0.0,0.0,20,18-25,Male,2,2,Low Activity
+U02712,2,2,472.28,236.14,34,26-35,Female,1,1,Low Activity
+U02713,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U02714,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U02715,2,2,0.0,0.0,22,18-25,Male,2,2,Low Activity
+U02716,2,2,0.0,0.0,27,26-35,Female,2,1,Low Activity
+U02717,1,1,285.05,285.05,31,26-35,Male,1,1,Low Activity
+U02718,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02719,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U02720,1,1,212.39,212.39,22,18-25,Male,1,1,Low Activity
+U02721,1,1,299.57,299.57,26,26-35,Male,1,1,Low Activity
+U02722,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U02723,1,1,327.99,327.99,25,18-25,Female,1,1,Low Activity
+U02724,1,1,0.0,0.0,35,26-35,Male,1,1,Low Activity
+U02725,1,1,415.51,415.51,23,18-25,Male,1,1,Low Activity
+U02726,4,4,0.0,0.0,25,18-25,Female,3,3,Moderate Activity
+U02727,2,2,394.26,197.13,34,26-35,Male,2,1,Low Activity
+U02728,1,1,276.37,276.37,33,26-35,Female,1,1,Low Activity
+U02729,1,1,394.26,394.26,20,18-25,Male,1,1,Low Activity
+U02730,1,1,299.57,299.57,27,26-35,Female,1,1,Low Activity
+U02731,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U02732,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U02733,14,14,1498.86,107.06142857142856,31,26-35,Male,9,3,Very High Activity
+U02734,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U02735,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U02736,1,1,212.39,212.39,15,<18,Male,1,1,Low Activity
+U02737,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U02738,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U02739,1,1,487.92,487.92,15,<18,Female,1,1,Low Activity
+U02740,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U02741,1,1,0.0,0.0,18,18-25,Male,1,1,Low Activity
+U02742,2,2,285.05,142.525,25,18-25,Female,2,2,Low Activity
+U02743,14,14,800.46,57.175714285714285,33,26-35,Male,8,2,Very High Activity
+U02744,1,1,342.61,342.61,24,18-25,Female,1,1,Low Activity
+U02745,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U02746,3,3,117.68,39.22666666666667,28,26-35,Male,2,2,Moderate Activity
+U02747,3,3,53.86,17.953333333333333,30,26-35,Male,3,2,Moderate Activity
+U02748,2,2,0.0,0.0,27,26-35,Female,2,2,Low Activity
+U02749,2,2,0.0,0.0,30,26-35,Male,2,2,Low Activity
+U02750,2,2,57.32,28.66,23,18-25,Female,2,1,Low Activity
+U02751,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U02752,1,1,0.0,0.0,32,26-35,Female,1,1,Low Activity
+U02753,1,1,53.86,53.86,26,26-35,Female,1,1,Low Activity
+U02754,13,13,888.76,68.36615384615385,34,26-35,Male,9,3,Very High Activity
+U02755,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U02756,2,2,326.02,163.01,32,26-35,Female,2,2,Low Activity
+U02757,1,1,415.51,415.51,16,<18,Male,1,1,Low Activity
+U02758,2,2,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U02759,2,2,0.0,0.0,20,18-25,Female,2,2,Low Activity
+U02760,3,3,374.64000000000004,124.88000000000001,31,26-35,Male,3,2,Moderate Activity
+U02761,4,4,394.26,98.565,31,26-35,Female,3,2,Moderate Activity
+U02762,2,2,314.26,157.13,21,18-25,Female,2,1,Low Activity
+U02763,3,3,574.12,191.37333333333333,28,26-35,Male,3,2,Moderate Activity
+U02764,1,1,37.89,37.89,32,26-35,Male,1,1,Low Activity
+U02765,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U02766,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U02767,14,14,1377.85,98.41785714285713,31,26-35,Male,9,3,Very High Activity
+U02768,2,2,472.28,236.14,34,26-35,Female,2,2,Low Activity
+U02769,3,3,753.2,251.0666666666667,19,18-25,Male,1,2,Moderate Activity
+U02770,14,14,1389.02,99.21571428571428,31,26-35,Male,8,3,Very High Activity
+U02771,1,1,0.78,0.78,18,18-25,Female,1,1,Low Activity
+U02772,1,1,177.34,177.34,31,26-35,Male,1,1,Low Activity
+U02773,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U02774,1,1,0.0,0.0,19,18-25,Male,1,1,Low Activity
+U02775,12,12,1423.51,118.62583333333333,24,18-25,Female,10,3,Very High Activity
+U02776,2,2,0.0,0.0,20,18-25,Female,2,2,Low Activity
+U02777,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02778,3,3,0.0,0.0,29,26-35,Male,3,2,Moderate Activity
+U02779,3,3,809.77,269.92333333333335,19,18-25,Female,3,2,Moderate Activity
+U02780,2,2,0.0,0.0,26,26-35,Female,2,2,Low Activity
+U02781,3,3,700.31,233.43666666666664,24,18-25,Female,3,2,Moderate Activity
+U02782,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02783,1,1,0.0,0.0,30,26-35,Female,1,1,Low Activity
+U02784,2,2,248.1,124.05,23,18-25,Male,2,2,Low Activity
+U02785,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U02786,12,12,1390.83,115.90249999999999,25,18-25,Male,9,3,Very High Activity
+U02787,1,1,346.71,346.71,21,18-25,Male,1,1,Low Activity
+U02788,12,12,1273.64,106.13666666666667,20,18-25,Female,9,3,Very High Activity
+U02789,4,4,0.0,0.0,21,18-25,Male,4,2,Moderate Activity
+U02790,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02791,13,13,917.89,70.60692307692308,27,26-35,Male,10,3,Very High Activity
+U02792,14,14,795.72,56.83714285714286,27,26-35,Female,9,3,Very High Activity
+U02793,14,14,1449.91,103.56500000000001,22,18-25,Female,10,3,Very High Activity
+U02794,2,2,342.61,171.305,33,26-35,Female,2,1,Low Activity
+U02795,1,1,299.57,299.57,31,26-35,Male,1,1,Low Activity
+U02796,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U02797,1,1,0.78,0.78,34,26-35,Male,1,1,Low Activity
+U02798,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U02799,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U02800,1,1,299.57,299.57,34,26-35,Male,1,1,Low Activity
+U02801,3,3,0.78,0.26,15,<18,Female,3,3,Moderate Activity
+U02802,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U02803,2,2,0.0,0.0,26,26-35,Male,2,1,Low Activity
+U02804,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U02805,1,1,57.32,57.32,16,<18,Male,1,1,Low Activity
+U02806,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U02807,4,4,559.0999999999999,139.77499999999998,18,18-25,Female,3,3,Moderate Activity
+U02808,2,2,0.0,0.0,35,26-35,Male,1,2,Low Activity
+U02809,2,2,0.0,0.0,32,26-35,Male,2,1,Low Activity
+U02810,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U02811,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U02812,1,1,119.04,119.04,17,<18,Male,1,1,Low Activity
+U02813,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02814,2,2,0.0,0.0,27,26-35,Female,2,1,Low Activity
+U02815,4,4,389.73,97.4325,15,<18,Female,3,1,Moderate Activity
+U02816,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02817,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U02818,1,1,0.78,0.78,32,26-35,Male,1,1,Low Activity
+U02819,2,2,0.0,0.0,20,18-25,Female,2,2,Low Activity
+U02820,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U02821,11,11,1173.96,106.72363636363637,27,26-35,Male,7,3,Very High Activity
+U02822,1,1,0.0,0.0,15,<18,Male,1,1,Low Activity
+U02823,2,2,0.0,0.0,31,26-35,Male,2,1,Low Activity
+U02824,1,1,326.02,326.02,28,26-35,Female,1,1,Low Activity
+U02825,13,13,1636.01,125.84692307692308,34,26-35,Male,8,3,Very High Activity
+U02826,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02827,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U02828,2,2,490.9,245.45,32,26-35,Female,2,2,Low Activity
+U02829,1,1,89.59,89.59,19,18-25,Female,1,1,Low Activity
+U02830,1,1,0.0,0.0,34,26-35,Female,1,1,Low Activity
+U02831,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U02832,11,11,0.78,0.07090909090909091,31,26-35,Male,5,3,Very High Activity
+U02833,2,2,342.61,171.305,21,18-25,Female,2,2,Low Activity
+U02834,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U02835,1,1,117.68,117.68,31,26-35,Male,1,1,Low Activity
+U02836,1,1,472.28,472.28,17,<18,Female,1,1,Low Activity
+U02837,2,2,0.0,0.0,31,26-35,Male,2,2,Low Activity
+U02838,2,2,837.6099999999999,418.80499999999995,35,26-35,Male,2,2,Low Activity
+U02839,4,4,0.0,0.0,18,18-25,Female,4,3,Moderate Activity
+U02840,1,1,0.0,0.0,29,26-35,Female,1,1,Low Activity
+U02841,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U02842,2,2,490.9,245.45,20,18-25,Female,2,2,Low Activity
+U02843,14,14,1296.66,92.61857142857143,26,26-35,Male,9,3,Very High Activity
+U02844,12,12,1101.98,91.83166666666666,21,18-25,Female,7,3,Very High Activity
+U02845,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U02846,1,1,299.57,299.57,29,26-35,Female,1,1,Low Activity
+U02847,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02848,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U02849,1,1,0.0,0.0,31,26-35,Female,1,1,Low Activity
+U02850,13,13,993.9,76.45384615384616,25,18-25,Female,10,3,Very High Activity
+U02851,1,1,394.26,394.26,30,26-35,Male,1,1,Low Activity
+U02852,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U02853,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02854,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U02855,1,1,327.99,327.99,18,18-25,Female,1,1,Low Activity
+U02856,1,1,472.28,472.28,19,18-25,Female,1,1,Low Activity
+U02857,12,12,1001.5,83.45833333333333,35,26-35,Male,7,3,Very High Activity
+U02858,4,4,0.0,0.0,16,<18,Female,4,2,Moderate Activity
+U02859,2,2,654.01,327.005,26,26-35,Female,2,2,Low Activity
+U02860,1,1,0.78,0.78,17,<18,Male,1,1,Low Activity
+U02861,1,1,346.71,346.71,29,26-35,Male,1,1,Low Activity
+U02862,2,2,0.0,0.0,27,26-35,Male,2,2,Low Activity
+U02863,1,1,0.0,0.0,29,26-35,Male,1,1,Low Activity
+U02864,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U02865,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U02866,2,2,326.02,163.01,20,18-25,Male,2,1,Low Activity
+U02867,2,2,177.34,88.67,19,18-25,Male,2,2,Low Activity
+U02868,2,2,0.0,0.0,25,18-25,Male,2,1,Low Activity
+U02869,1,1,0.0,0.0,26,26-35,Female,1,1,Low Activity
+U02870,1,1,0.0,0.0,27,26-35,Male,1,1,Low Activity
+U02871,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02872,2,2,342.61,171.305,21,18-25,Female,2,2,Low Activity
+U02873,3,3,53.86,17.953333333333333,33,26-35,Female,3,3,Moderate Activity
+U02874,11,11,1151.3899999999999,104.67181818181817,32,26-35,Male,7,3,Very High Activity
+U02875,1,1,285.05,285.05,27,26-35,Female,1,1,Low Activity
+U02876,1,1,0.0,0.0,24,18-25,Female,1,1,Low Activity
+U02877,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U02878,2,2,534.55,267.275,23,18-25,Male,2,1,Low Activity
+U02879,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U02880,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U02881,4,4,276.37,69.0925,27,26-35,Male,3,3,Moderate Activity
+U02882,1,1,0.0,0.0,33,26-35,Female,1,1,Low Activity
+U02883,12,12,2314.35,192.86249999999998,16,<18,Female,7,3,Very High Activity
+U02884,3,3,0.78,0.26,31,26-35,Female,3,2,Moderate Activity
+U02885,3,3,342.61,114.20333333333333,22,18-25,Male,3,2,Moderate Activity
+U02886,3,3,89.59,29.863333333333333,35,26-35,Male,3,3,Moderate Activity
+U02887,4,4,476.90999999999997,119.22749999999999,30,26-35,Male,4,3,Moderate Activity
+U02888,1,1,117.68,117.68,20,18-25,Male,1,1,Low Activity
+U02889,1,1,326.02,326.02,28,26-35,Female,1,1,Low Activity
+U02890,2,2,0.0,0.0,18,18-25,Male,2,1,Low Activity
+U02891,3,3,702.3,234.1,27,26-35,Female,2,2,Moderate Activity
+U02892,1,1,472.28,472.28,26,26-35,Female,1,1,Low Activity
+U02893,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U02894,1,1,0.0,0.0,15,<18,Female,1,1,Low Activity
+U02895,2,2,53.86,26.93,21,18-25,Female,2,1,Low Activity
+U02896,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U02897,1,1,299.57,299.57,27,26-35,Male,1,1,Low Activity
+U02898,4,4,619.76,154.94,22,18-25,Female,3,2,Moderate Activity
+U02899,13,13,327.99,25.23,28,26-35,Female,8,3,Very High Activity
+U02900,1,1,394.26,394.26,35,26-35,Male,1,1,Low Activity
+U02901,1,1,0.0,0.0,30,26-35,Male,1,1,Low Activity
+U02902,2,2,0.0,0.0,27,26-35,Male,2,2,Low Activity
+U02903,1,1,487.92,487.92,27,26-35,Male,1,1,Low Activity
+U02904,1,1,346.71,346.71,18,18-25,Male,1,1,Low Activity
+U02905,2,2,119.04,59.52,27,26-35,Female,2,2,Low Activity
+U02906,3,3,591.3199999999999,197.10666666666665,24,18-25,Male,2,2,Moderate Activity
+U02907,2,2,415.51,207.755,17,<18,Female,2,2,Low Activity
+U02908,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U02909,14,14,1205.39,86.09928571428573,19,18-25,Female,9,3,Very High Activity
+U02910,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U02911,1,1,490.9,490.9,34,26-35,Female,1,1,Low Activity
+U02912,2,2,212.39,106.195,27,26-35,Male,2,1,Low Activity
+U02913,1,1,0.0,0.0,22,18-25,Female,1,1,Low Activity
+U02914,2,2,57.32,28.66,31,26-35,Female,2,2,Low Activity
+U02915,14,14,415.51,29.679285714285715,33,26-35,Female,9,3,Very High Activity
+U02916,15,15,2093.42,139.56133333333335,20,18-25,Male,10,3,Very High Activity
+U02917,1,1,487.92,487.92,32,26-35,Female,1,1,Low Activity
+U02918,2,2,0.0,0.0,19,18-25,Female,2,1,Low Activity
+U02919,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02920,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U02921,1,1,0.0,0.0,16,<18,Female,1,1,Low Activity
+U02922,1,1,0.0,0.0,25,18-25,Male,1,1,Low Activity
+U02923,3,3,818.89,272.9633333333333,27,26-35,Male,2,2,Moderate Activity
+U02924,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U02925,4,4,513.3,128.325,18,18-25,Female,4,2,Moderate Activity
+U02926,1,1,0.0,0.0,24,18-25,Male,1,1,Low Activity
+U02927,15,15,1865.3400000000001,124.35600000000001,20,18-25,Male,10,3,Very High Activity
+U02928,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U02929,1,1,472.28,472.28,16,<18,Female,1,1,Low Activity
+U02930,1,1,285.05,285.05,26,26-35,Female,1,1,Low Activity
+U02931,15,15,156.93,10.462,28,26-35,Female,8,3,Very High Activity
+U02932,1,1,0.0,0.0,17,<18,Female,1,1,Low Activity
+U02933,1,1,0.0,0.0,34,26-35,Male,1,1,Low Activity
+U02934,1,1,299.57,299.57,29,26-35,Female,1,1,Low Activity
+U02935,2,2,700.56,350.28,25,18-25,Female,2,2,Low Activity
+U02936,2,2,0.0,0.0,35,26-35,Female,2,2,Low Activity
+U02937,13,13,648.58,49.89076923076924,23,18-25,Male,8,3,Very High Activity
+U02938,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U02939,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U02940,3,3,346.71,115.57,18,18-25,Female,3,2,Moderate Activity
+U02941,12,12,907.5,75.625,22,18-25,Male,8,3,Very High Activity
+U02942,3,3,415.51,138.50333333333333,18,18-25,Male,3,3,Moderate Activity
+U02943,1,1,0.0,0.0,19,18-25,Female,1,1,Low Activity
+U02944,1,1,0.0,0.0,23,18-25,Female,1,1,Low Activity
+U02945,12,12,1621.1599999999999,135.09666666666666,23,18-25,Female,8,3,Very High Activity
+U02946,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U02947,11,11,912.1299999999999,82.92090909090908,18,18-25,Female,9,3,Very High Activity
+U02948,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U02949,2,2,787.49,393.745,17,<18,Female,2,2,Low Activity
+U02950,4,4,342.61,85.6525,35,26-35,Male,3,3,Moderate Activity
+U02951,1,1,0.0,0.0,28,26-35,Male,1,1,Low Activity
+U02952,2,2,0.0,0.0,32,26-35,Male,2,1,Low Activity
+U02953,1,1,285.05,285.05,21,18-25,Male,1,1,Low Activity
+U02954,2,2,487.92,243.96,35,26-35,Female,2,1,Low Activity
+U02955,1,1,57.32,57.32,25,18-25,Male,1,1,Low Activity
+U02956,2,2,53.86,26.93,18,18-25,Male,2,1,Low Activity
+U02957,1,1,0.0,0.0,31,26-35,Male,1,1,Low Activity
+U02958,12,12,1338.41,111.53416666666668,33,26-35,Male,7,3,Very High Activity
+U02959,2,2,276.37,138.185,29,26-35,Male,2,1,Low Activity
+U02960,1,1,299.57,299.57,24,18-25,Male,1,1,Low Activity
+U02961,1,1,0.0,0.0,25,18-25,Female,1,1,Low Activity
+U02962,1,1,0.0,0.0,23,18-25,Male,1,1,Low Activity
+U02963,1,1,0.0,0.0,18,18-25,Female,1,1,Low Activity
+U02964,1,1,0.0,0.0,33,26-35,Male,1,1,Low Activity
+U02965,1,1,327.99,327.99,16,<18,Male,1,1,Low Activity
+U02966,4,4,0.0,0.0,26,26-35,Female,4,2,Moderate Activity
+U02967,1,1,0.0,0.0,21,18-25,Male,1,1,Low Activity
+U02968,2,2,511.96,255.98,34,26-35,Female,2,2,Low Activity
+U02969,13,13,1177.78,90.59846153846154,18,18-25,Female,10,3,Very High Activity
+U02970,2,2,90.37,45.185,34,26-35,Male,2,2,Low Activity
+U02971,13,13,776.89,59.76076923076923,20,18-25,Female,9,3,Very High Activity
+U02972,2,2,580.49,290.245,35,26-35,Male,1,2,Low Activity
+U02973,1,1,0.0,0.0,28,26-35,Female,1,1,Low Activity
+U02974,14,14,1206.08,86.14857142857143,31,26-35,Female,9,3,Very High Activity
+U02975,1,1,0.0,0.0,22,18-25,Male,1,1,Low Activity
+U02976,16,16,1526.86,95.42875,28,26-35,Female,9,3,Very High Activity
+U02977,1,1,394.26,394.26,33,26-35,Male,1,1,Low Activity
+U02978,4,4,248.1,62.025,18,18-25,Female,4,2,Moderate Activity
+U02979,1,1,212.39,212.39,26,26-35,Male,1,1,Low Activity
+U02980,12,12,804.66,67.05499999999999,27,26-35,Male,8,3,Very High Activity
+U02981,14,14,1177.0,84.07142857142857,23,18-25,Male,9,3,Very High Activity
+U02982,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U02983,1,1,0.0,0.0,35,26-35,Female,1,1,Low Activity
+U02984,14,14,1574.03,112.43071428571429,35,26-35,Female,9,3,Very High Activity
+U02985,1,1,0.78,0.78,35,26-35,Male,1,1,Low Activity
+U02986,2,2,590.71,295.355,16,<18,Male,2,2,Low Activity
+U02987,1,1,0.0,0.0,26,26-35,Male,1,1,Low Activity
+U02988,1,1,0.0,0.0,17,<18,Male,1,1,Low Activity
+U02989,11,11,968.91,88.08272727272727,22,18-25,Male,8,3,Very High Activity
+U02990,2,2,472.28,236.14,22,18-25,Male,2,2,Low Activity
+U02991,1,1,0.0,0.0,27,26-35,Female,1,1,Low Activity
+U02992,12,12,1913.78,159.48166666666665,24,18-25,Female,8,3,Very High Activity
+U02993,1,1,0.0,0.0,20,18-25,Female,1,1,Low Activity
+U02994,14,14,1069.44,76.38857142857144,31,26-35,Female,9,3,Very High Activity
+U02995,1,1,37.89,37.89,16,<18,Male,1,1,Low Activity
+U02996,1,1,0.0,0.0,32,26-35,Male,1,1,Low Activity
+U02997,1,1,0.0,0.0,21,18-25,Female,1,1,Low Activity
+U02998,1,1,37.89,37.89,33,26-35,Male,1,1,Low Activity
+U02999,1,1,37.89,37.89,20,18-25,Male,1,1,Low Activity
+U03000,1,1,394.26,394.26,15,<18,Male,1,1,Low Activity

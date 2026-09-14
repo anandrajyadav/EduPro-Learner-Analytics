@@ -1,0 +1,61 @@
+CourseID,CourseName,CourseCategory,Enrollments,UniqueLearners,CourseRating,CoursePrice,PopularityRank,EnrollmentShare
+CR00021,Data Analysis with Python,Data Science,196,196,3.6,0.0,1,1.96
+CR00058,Social Media Strategy,Digital Marketing,194,194,4.44,0.0,2,1.94
+CR00025,Statistical Analysis,Data Science,192,192,3.74,299.57,3,1.92
+CR00048,AI Ethics,Artificial Intelligence,186,186,3.64,0.0,4,1.86
+CR00023,Machine Learning Fundamentals,Data Science,185,185,3.02,0.0,5,1.85
+CR00042,Investment Strategies,Finance,183,183,4.1,0.0,6,1.83
+CR00043,Corporate Finance,Finance,182,182,4.14,0.0,7,1.82
+CR00010,3D Modeling,Design,180,180,4.45,0.0,8,1.8
+CR00035,Cyber Threat Intelligence,Cybersecurity,179,179,4.94,0.0,9,1.79
+CR00007,UI/UX Design,Design,178,178,2.61,0.0,10,1.78
+CR00054,Backend Development with Node.js,Web Development,178,178,3.32,0.0,11,1.78
+CR00055,Full-Stack Web Development,Web Development,178,178,4.74,57.32,12,1.78
+CR00036,Agile Project Management,Project Management,177,177,4.68,0.0,13,1.77
+CR00019,Content Marketing,Marketing,177,177,2.98,0.0,14,1.77
+CR00022,Data Visualization,Data Science,177,177,3.65,0.0,15,1.77
+CR00040,Leadership in Projects,Project Management,174,174,1.51,327.99,16,1.74
+CR00050,Computer Vision,Artificial Intelligence,174,174,4.55,490.9,17,1.74
+CR00003,C++ for Beginners,Programming,173,173,3.85,0.0,18,1.73
+CR00012,Business Strategy,Business,173,173,3.64,487.92,19,1.73
+CR00045,Financial Modeling,Finance,172,172,1.59,0.0,20,1.72
+CR00026,Intro to Machine Learning,Machine Learning,172,172,4.73,0.0,21,1.72
+CR00051,HTML & CSS,Web Development,171,171,1.3,37.89,22,1.71
+CR00014,Sales Mastery,Business,171,171,3.15,0.0,23,1.71
+CR00028,Deep Learning,Machine Learning,171,171,3.89,0.78,24,1.71
+CR00013,Finance for Startups,Business,170,170,2.0,0.0,25,1.7
+CR00030,Reinforcement Learning,Machine Learning,169,169,1.73,0.0,26,1.69
+CR00015,Leadership Essentials,Business,168,168,1.96,285.05,27,1.68
+CR00039,Project Planning,Project Management,167,167,1.23,346.71,28,1.67
+CR00033,Cybersecurity Fundamentals,Cybersecurity,167,167,3.93,0.0,29,1.67
+CR00024,Big Data Analytics,Data Science,166,166,2.57,117.68,30,1.66
+CR00047,Natural Language Processing,Artificial Intelligence,166,166,2.68,89.59,31,1.66
+CR00041,Financial Accounting,Finance,166,166,2.47,53.86,32,1.66
+CR00005,Full Stack Development,Programming,166,166,1.28,0.0,33,1.66
+CR00060,Content Creation,Digital Marketing,165,165,2.14,0.0,34,1.65
+CR00001,Python Basics,Programming,164,164,4.74,472.28,35,1.64
+CR00049,Deep Learning,Artificial Intelligence,163,163,3.11,415.51,36,1.63
+CR00032,Ethical Hacking,Cybersecurity,163,163,2.38,0.0,37,1.63
+CR00053,React for Beginners,Web Development,163,163,2.67,0.0,38,1.63
+CR00018,Social Media Marketing,Marketing,163,163,2.01,0.0,39,1.63
+CR00044,Personal Finance,Finance,161,161,2.75,119.04,40,1.61
+CR00059,Affiliate Marketing,Digital Marketing,161,161,4.66,0.0,41,1.61
+CR00031,Network Security,Cybersecurity,160,160,1.91,0.0,42,1.6
+CR00008,Photoshop Mastery,Design,158,158,1.52,0.0,43,1.58
+CR00017,SEO Mastery,Marketing,158,158,4.79,0.0,44,1.58
+CR00038,Risk Management,Project Management,158,158,4.84,342.61,45,1.58
+CR00006,Graphic Design Basics,Design,156,156,2.72,276.37,46,1.56
+CR00020,Email Marketing,Marketing,155,155,4.11,0.0,47,1.55
+CR00029,Natural Language Processing,Machine Learning,155,155,1.13,0.0,48,1.55
+CR00009,Web Design Fundamentals,Design,155,155,4.51,0.0,49,1.55
+CR00004,Advanced Python,Programming,154,154,2.88,0.0,50,1.54
+CR00052,JavaScript Mastery,Web Development,154,154,2.2,0.0,51,1.54
+CR00016,Digital Marketing,Marketing,153,153,4.72,0.0,52,1.53
+CR00037,Scrum Essentials,Project Management,153,153,3.45,0.0,53,1.53
+CR00027,Neural Networks,Machine Learning,152,152,1.81,0.0,54,1.52
+CR00011,Entrepreneurship 101,Business,151,151,2.69,326.02,55,1.51
+CR00034,Data Encryption,Cybersecurity,150,150,1.35,394.26,56,1.5
+CR00002,Java Programming,Programming,149,149,2.43,0.0,57,1.49
+CR00056,Google Ads Mastery,Digital Marketing,148,148,3.15,212.39,58,1.48
+CR00046,AI for Beginners,Artificial Intelligence,140,140,1.2,248.1,59,1.4
+CR00057,SEO for E-commerce,Digital Marketing,140,140,3.89,177.34,60,1.4

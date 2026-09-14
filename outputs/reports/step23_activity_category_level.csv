@@ -1,0 +1,145 @@
+ActivitySegment,CourseCategory,CourseLevel,Enrollments,UniqueLearners,ShareWithinActivity
+Low Activity,Artificial Intelligence,Advanced,0,0,0.0
+Low Activity,Artificial Intelligence,Beginner,140,139,4.92
+Low Activity,Artificial Intelligence,Intermediate,96,96,3.38
+Low Activity,Business,Advanced,163,163,5.73
+Low Activity,Business,Beginner,45,45,1.58
+Low Activity,Business,Intermediate,45,45,1.58
+Low Activity,Cybersecurity,Advanced,52,52,1.83
+Low Activity,Cybersecurity,Beginner,52,52,1.83
+Low Activity,Cybersecurity,Intermediate,152,150,5.34
+Low Activity,Data Science,Advanced,41,41,1.44
+Low Activity,Data Science,Beginner,98,98,3.45
+Low Activity,Data Science,Intermediate,106,105,3.73
+Low Activity,Design,Advanced,197,197,6.93
+Low Activity,Design,Beginner,55,55,1.93
+Low Activity,Design,Intermediate,0,0,0.0
+Low Activity,Digital Marketing,Advanced,77,77,2.71
+Low Activity,Digital Marketing,Beginner,104,104,3.66
+Low Activity,Digital Marketing,Intermediate,54,54,1.9
+Low Activity,Finance,Advanced,45,45,1.58
+Low Activity,Finance,Beginner,88,88,3.09
+Low Activity,Finance,Intermediate,96,96,3.38
+Low Activity,Machine Learning,Advanced,96,95,3.38
+Low Activity,Machine Learning,Beginner,34,34,1.2
+Low Activity,Machine Learning,Intermediate,99,99,3.48
+Low Activity,Marketing,Advanced,132,130,4.64
+Low Activity,Marketing,Beginner,0,0,0.0
+Low Activity,Marketing,Intermediate,84,84,2.95
+Low Activity,Programming,Advanced,0,0,0.0
+Low Activity,Programming,Beginner,179,178,6.29
+Low Activity,Programming,Intermediate,30,30,1.05
+Low Activity,Project Management,Advanced,46,46,1.62
+Low Activity,Project Management,Beginner,98,98,3.45
+Low Activity,Project Management,Intermediate,91,91,3.2
+Low Activity,Web Development,Advanced,153,148,5.38
+Low Activity,Web Development,Beginner,96,96,3.38
+Low Activity,Web Development,Intermediate,0,0,0.0
+Moderate Activity,Artificial Intelligence,Advanced,0,0,0.0
+Moderate Activity,Artificial Intelligence,Beginner,48,47,4.49
+Moderate Activity,Artificial Intelligence,Intermediate,36,34,3.36
+Moderate Activity,Business,Advanced,53,50,4.95
+Moderate Activity,Business,Beginner,15,15,1.4
+Moderate Activity,Business,Intermediate,14,14,1.31
+Moderate Activity,Cybersecurity,Advanced,18,18,1.68
+Moderate Activity,Cybersecurity,Beginner,24,24,2.24
+Moderate Activity,Cybersecurity,Intermediate,46,45,4.3
+Moderate Activity,Data Science,Advanced,23,23,2.15
+Moderate Activity,Data Science,Beginner,37,37,3.46
+Moderate Activity,Data Science,Intermediate,41,40,3.83
+Moderate Activity,Design,Advanced,77,73,7.2
+Moderate Activity,Design,Beginner,18,18,1.68
+Moderate Activity,Design,Intermediate,0,0,0.0
+Moderate Activity,Digital Marketing,Advanced,40,38,3.74
+Moderate Activity,Digital Marketing,Beginner,30,30,2.8
+Moderate Activity,Digital Marketing,Intermediate,19,19,1.78
+Moderate Activity,Finance,Advanced,16,16,1.5
+Moderate Activity,Finance,Beginner,30,30,2.8
+Moderate Activity,Finance,Intermediate,44,43,4.11
+Moderate Activity,Machine Learning,Advanced,38,36,3.55
+Moderate Activity,Machine Learning,Beginner,29,29,2.71
+Moderate Activity,Machine Learning,Intermediate,35,35,3.27
+Moderate Activity,Marketing,Advanced,55,53,5.14
+Moderate Activity,Marketing,Beginner,0,0,0.0
+Moderate Activity,Marketing,Intermediate,30,30,2.8
+Moderate Activity,Programming,Advanced,0,0,0.0
+Moderate Activity,Programming,Beginner,70,55,6.54
+Moderate Activity,Programming,Intermediate,21,21,1.96
+Moderate Activity,Project Management,Advanced,16,16,1.5
+Moderate Activity,Project Management,Beginner,28,27,2.62
+Moderate Activity,Project Management,Intermediate,25,25,2.34
+Moderate Activity,Web Development,Advanced,53,50,4.95
+Moderate Activity,Web Development,Beginner,41,39,3.83
+Moderate Activity,Web Development,Intermediate,0,0,0.0
+High Activity,Artificial Intelligence,Advanced,0,0,0.0
+High Activity,Artificial Intelligence,Beginner,2,2,4.08
+High Activity,Artificial Intelligence,Intermediate,2,2,4.08
+High Activity,Business,Advanced,3,3,6.12
+High Activity,Business,Beginner,0,0,0.0
+High Activity,Business,Intermediate,1,1,2.04
+High Activity,Cybersecurity,Advanced,1,1,2.04
+High Activity,Cybersecurity,Beginner,0,0,0.0
+High Activity,Cybersecurity,Intermediate,2,1,4.08
+High Activity,Data Science,Advanced,0,0,0.0
+High Activity,Data Science,Beginner,2,2,4.08
+High Activity,Data Science,Intermediate,1,1,2.04
+High Activity,Design,Advanced,5,4,10.2
+High Activity,Design,Beginner,1,1,2.04
+High Activity,Design,Intermediate,0,0,0.0
+High Activity,Digital Marketing,Advanced,0,0,0.0
+High Activity,Digital Marketing,Beginner,2,2,4.08
+High Activity,Digital Marketing,Intermediate,1,1,2.04
+High Activity,Finance,Advanced,0,0,0.0
+High Activity,Finance,Beginner,3,3,6.12
+High Activity,Finance,Intermediate,0,0,0.0
+High Activity,Machine Learning,Advanced,2,2,4.08
+High Activity,Machine Learning,Beginner,0,0,0.0
+High Activity,Machine Learning,Intermediate,2,2,4.08
+High Activity,Marketing,Advanced,3,2,6.12
+High Activity,Marketing,Beginner,0,0,0.0
+High Activity,Marketing,Intermediate,1,1,2.04
+High Activity,Programming,Advanced,0,0,0.0
+High Activity,Programming,Beginner,5,3,10.2
+High Activity,Programming,Intermediate,1,1,2.04
+High Activity,Project Management,Advanced,1,1,2.04
+High Activity,Project Management,Beginner,3,3,6.12
+High Activity,Project Management,Intermediate,1,1,2.04
+High Activity,Web Development,Advanced,4,2,8.16
+High Activity,Web Development,Beginner,0,0,0.0
+High Activity,Web Development,Intermediate,0,0,0.0
+Very High Activity,Artificial Intelligence,Advanced,0,0,0.0
+Very High Activity,Artificial Intelligence,Beginner,310,247,5.14
+Very High Activity,Artificial Intelligence,Intermediate,195,182,3.23
+Very High Activity,Business,Advanced,295,240,4.89
+Very High Activity,Business,Beginner,108,108,1.79
+Very High Activity,Business,Intermediate,91,91,1.51
+Very High Activity,Cybersecurity,Advanced,92,92,1.52
+Very High Activity,Cybersecurity,Beginner,103,103,1.71
+Very High Activity,Cybersecurity,Intermediate,277,232,4.59
+Very High Activity,Data Science,Advanced,102,102,1.69
+Very High Activity,Data Science,Beginner,232,205,3.84
+Very High Activity,Data Science,Intermediate,233,206,3.86
+Very High Activity,Design,Advanced,393,285,6.51
+Very High Activity,Design,Beginner,81,81,1.34
+Very High Activity,Design,Intermediate,0,0,0.0
+Very High Activity,Digital Marketing,Advanced,171,160,2.83
+Very High Activity,Digital Marketing,Beginner,223,197,3.69
+Very High Activity,Digital Marketing,Intermediate,87,87,1.44
+Very High Activity,Finance,Advanced,111,111,1.84
+Very High Activity,Finance,Beginner,227,202,3.76
+Very High Activity,Finance,Intermediate,204,178,3.38
+Very High Activity,Machine Learning,Advanced,187,170,3.1
+Very High Activity,Machine Learning,Beginner,92,92,1.52
+Very High Activity,Machine Learning,Intermediate,205,178,3.4
+Very High Activity,Marketing,Advanced,308,251,5.1
+Very High Activity,Marketing,Beginner,0,0,0.0
+Very High Activity,Marketing,Intermediate,193,174,3.2
+Very High Activity,Programming,Advanced,0,0,0.0
+Very High Activity,Programming,Beginner,403,288,6.68
+Very High Activity,Programming,Intermediate,97,97,1.61
+Very High Activity,Project Management,Advanced,104,104,1.72
+Very High Activity,Project Management,Beginner,222,195,3.68
+Very High Activity,Project Management,Intermediate,194,176,3.21
+Very High Activity,Web Development,Advanced,302,237,5.0
+Very High Activity,Web Development,Beginner,195,171,3.23
+Very High Activity,Web Development,Intermediate,0,0,0.0

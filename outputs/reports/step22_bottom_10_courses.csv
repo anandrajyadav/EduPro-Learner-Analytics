@@ -1,0 +1,11 @@
+CourseID,CourseName,CourseCategory,CourseLevel,CourseType,Enrollments,UniqueLearners,CoursePrice,CourseRating,AverageTransactionAmount,TotalTransactionAmount,CourseDuration,EnrollmentShare,PopularityRank,LearnerReachShare,EnrollmentsPerLearner
+CR00046,AI for Beginners,Artificial Intelligence,Beginner,Paid,140,140,248.1,1.2,248.1,34734.0,9.4,1.4,59,1.4,1.0
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,Paid,140,140,177.34,3.89,177.34,24827.600000000002,49.73,1.4,60,1.4,1.0
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,Paid,148,148,212.39,3.15,212.39,31433.719999999998,22.89,1.48,58,1.48,1.0
+CR00002,Java Programming,Programming,Intermediate,Free,149,149,0.0,2.43,0.0,0.0,37.7,1.49,57,1.49,1.0
+CR00034,Data Encryption,Cybersecurity,Intermediate,Paid,150,150,394.26,1.35,394.26,59139.0,47.44,1.5,56,1.5,1.0
+CR00011,Entrepreneurship 101,Business,Intermediate,Paid,151,151,326.02,2.69,326.02,49229.02,11.31,1.51,55,1.51,1.0
+CR00027,Neural Networks,Machine Learning,Advanced,Free,152,152,0.0,1.81,0.0,0.0,9.3,1.52,54,1.52,1.0
+CR00016,Digital Marketing,Marketing,Intermediate,Free,153,153,0.0,4.72,0.0,0.0,42.68,1.53,52,1.53,1.0
+CR00037,Scrum Essentials,Project Management,Intermediate,Free,153,153,0.0,3.45,0.0,0.0,33.93,1.53,53,1.53,1.0
+CR00004,Advanced Python,Programming,Beginner,Free,154,154,0.0,2.88,0.0,0.0,45.13,1.54,50,1.54,1.0

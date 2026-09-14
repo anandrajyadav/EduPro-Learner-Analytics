@@ -1,0 +1,13 @@
+ActivitySegment,CourseLevel,Enrollments,Learners,ShareWithinSegment
+Low Activity,Advanced,1002,917,35.23
+Low Activity,Beginner,989,907,34.77
+Low Activity,Intermediate,853,805,29.99
+Moderate Activity,Advanced,389,239,36.36
+Moderate Activity,Beginner,370,235,34.58
+Moderate Activity,Intermediate,311,207,29.07
+High Activity,Advanced,19,5,38.78
+High Activity,Beginner,18,5,36.73
+High Activity,Intermediate,12,5,24.49
+Very High Activity,Advanced,2065,447,34.21
+Very High Activity,Beginner,2196,449,36.38
+Very High Activity,Intermediate,1776,447,29.42

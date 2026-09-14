@@ -1,0 +1,25 @@
+TableNumber,TableTitle
+1,Dataset Profile
+2,Age Demographic Profile
+3,Gender Profile
+4,Course Category Distribution
+5,Course Level Distribution
+6,Course Type Distribution
+7,Age × Course Category
+8,Age × Course Category Percentage
+9,Age × Course Level
+10,Age × Course Level Percentage
+11,Gender × Course Category
+12,Gender × Course Category Percentage
+13,Gender × Course Level
+14,Gender × Course Level Percentage
+15,Learner Engagement
+16,Top 10 Courses
+17,Monthly Enrollment
+18,Beginner vs Advanced
+19,Course Performance
+20,Learner Course Diversity
+21,Course Enrollment Concentration
+22,Learner Enrollment Concentration
+23,SDG 4 Mapping
+24,Key Research Findings

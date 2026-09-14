@@ -1,0 +1,145 @@
+YearMonth,MonthStart,CourseCategory,Enrollments
+2025-01,2025-01-01,Artificial Intelligence,80
+2025-01,2025-01-01,Web Development,69
+2025-01,2025-01-01,Project Management,69
+2025-01,2025-01-01,Programming,72
+2025-01,2025-01-01,Machine Learning,70
+2025-01,2025-01-01,Finance,75
+2025-01,2025-01-01,Marketing,68
+2025-01,2025-01-01,Design,49
+2025-01,2025-01-01,Data Science,75
+2025-01,2025-01-01,Cybersecurity,59
+2025-01,2025-01-01,Business,82
+2025-01,2025-01-01,Digital Marketing,65
+2025-02,2025-02-01,Machine Learning,56
+2025-02,2025-02-01,Web Development,63
+2025-02,2025-02-01,Project Management,63
+2025-02,2025-02-01,Programming,58
+2025-02,2025-02-01,Marketing,59
+2025-02,2025-02-01,Finance,65
+2025-02,2025-02-01,Cybersecurity,61
+2025-02,2025-02-01,Design,61
+2025-02,2025-02-01,Data Science,69
+2025-02,2025-02-01,Business,61
+2025-02,2025-02-01,Artificial Intelligence,81
+2025-02,2025-02-01,Digital Marketing,69
+2025-03,2025-03-01,Machine Learning,62
+2025-03,2025-03-01,Web Development,84
+2025-03,2025-03-01,Project Management,74
+2025-03,2025-03-01,Programming,63
+2025-03,2025-03-01,Finance,63
+2025-03,2025-03-01,Marketing,60
+2025-03,2025-03-01,Design,64
+2025-03,2025-03-01,Data Science,82
+2025-03,2025-03-01,Digital Marketing,78
+2025-03,2025-03-01,Cybersecurity,62
+2025-03,2025-03-01,Business,81
+2025-03,2025-03-01,Artificial Intelligence,84
+2025-04,2025-04-01,Project Management,72
+2025-04,2025-04-01,Programming,65
+2025-04,2025-04-01,Marketing,58
+2025-04,2025-04-01,Machine Learning,68
+2025-04,2025-04-01,Finance,70
+2025-04,2025-04-01,Web Development,67
+2025-04,2025-04-01,Design,76
+2025-04,2025-04-01,Data Science,80
+2025-04,2025-04-01,Cybersecurity,69
+2025-04,2025-04-01,Business,77
+2025-04,2025-04-01,Artificial Intelligence,61
+2025-04,2025-04-01,Digital Marketing,68
+2025-05,2025-05-01,Web Development,72
+2025-05,2025-05-01,Project Management,73
+2025-05,2025-05-01,Programming,76
+2025-05,2025-05-01,Marketing,60
+2025-05,2025-05-01,Machine Learning,74
+2025-05,2025-05-01,Finance,70
+2025-05,2025-05-01,Digital Marketing,62
+2025-05,2025-05-01,Data Science,85
+2025-05,2025-05-01,Cybersecurity,67
+2025-05,2025-05-01,Business,55
+2025-05,2025-05-01,Artificial Intelligence,63
+2025-05,2025-05-01,Design,68
+2025-06,2025-06-01,Machine Learning,75
+2025-06,2025-06-01,Project Management,66
+2025-06,2025-06-01,Programming,66
+2025-06,2025-06-01,Marketing,84
+2025-06,2025-06-01,Finance,79
+2025-06,2025-06-01,Web Development,74
+2025-06,2025-06-01,Design,82
+2025-06,2025-06-01,Data Science,73
+2025-06,2025-06-01,Cybersecurity,75
+2025-06,2025-06-01,Business,72
+2025-06,2025-06-01,Artificial Intelligence,69
+2025-06,2025-06-01,Digital Marketing,84
+2025-07,2025-07-01,Project Management,63
+2025-07,2025-07-01,Programming,73
+2025-07,2025-07-01,Marketing,60
+2025-07,2025-07-01,Machine Learning,64
+2025-07,2025-07-01,Finance,82
+2025-07,2025-07-01,Web Development,59
+2025-07,2025-07-01,Design,77
+2025-07,2025-07-01,Data Science,82
+2025-07,2025-07-01,Cybersecurity,72
+2025-07,2025-07-01,Business,71
+2025-07,2025-07-01,Artificial Intelligence,66
+2025-07,2025-07-01,Digital Marketing,57
+2025-08,2025-08-01,Web Development,76
+2025-08,2025-08-01,Project Management,74
+2025-08,2025-08-01,Programming,65
+2025-08,2025-08-01,Marketing,76
+2025-08,2025-08-01,Machine Learning,80
+2025-08,2025-08-01,Finance,76
+2025-08,2025-08-01,Digital Marketing,70
+2025-08,2025-08-01,Data Science,67
+2025-08,2025-08-01,Cybersecurity,80
+2025-08,2025-08-01,Business,53
+2025-08,2025-08-01,Artificial Intelligence,63
+2025-08,2025-08-01,Design,64
+2025-09,2025-09-01,Machine Learning,87
+2025-09,2025-09-01,Project Management,67
+2025-09,2025-09-01,Programming,71
+2025-09,2025-09-01,Web Development,74
+2025-09,2025-09-01,Finance,74
+2025-09,2025-09-01,Marketing,74
+2025-09,2025-09-01,Design,70
+2025-09,2025-09-01,Data Science,85
+2025-09,2025-09-01,Cybersecurity,73
+2025-09,2025-09-01,Business,72
+2025-09,2025-09-01,Artificial Intelligence,54
+2025-09,2025-09-01,Digital Marketing,69
+2025-10,2025-10-01,Web Development,62
+2025-10,2025-10-01,Project Management,65
+2025-10,2025-10-01,Programming,63
+2025-10,2025-10-01,Marketing,66
+2025-10,2025-10-01,Machine Learning,58
+2025-10,2025-10-01,Finance,72
+2025-10,2025-10-01,Digital Marketing,52
+2025-10,2025-10-01,Design,66
+2025-10,2025-10-01,Data Science,64
+2025-10,2025-10-01,Cybersecurity,60
+2025-10,2025-10-01,Business,75
+2025-10,2025-10-01,Artificial Intelligence,59
+2025-11,2025-11-01,Project Management,77
+2025-11,2025-11-01,Programming,73
+2025-11,2025-11-01,Web Development,67
+2025-11,2025-11-01,Marketing,81
+2025-11,2025-11-01,Machine Learning,60
+2025-11,2025-11-01,Finance,67
+2025-11,2025-11-01,Cybersecurity,74
+2025-11,2025-11-01,Design,72
+2025-11,2025-11-01,Data Science,73
+2025-11,2025-11-01,Business,71
+2025-11,2025-11-01,Artificial Intelligence,79
+2025-11,2025-11-01,Digital Marketing,75
+2025-12,2025-12-01,Programming,61
+2025-12,2025-12-01,Marketing,60
+2025-12,2025-12-01,Machine Learning,65
+2025-12,2025-12-01,Finance,71
+2025-12,2025-12-01,Digital Marketing,59
+2025-12,2025-12-01,Data Science,81
+2025-12,2025-12-01,Cybersecurity,67
+2025-12,2025-12-01,Business,63
+2025-12,2025-12-01,Artificial Intelligence,70
+2025-12,2025-12-01,Project Management,66
+2025-12,2025-12-01,Design,78
+2025-12,2025-12-01,Web Development,77

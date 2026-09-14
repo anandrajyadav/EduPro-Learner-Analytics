@@ -1,0 +1,43 @@
+The EduPro Learner Demographics and Course Enrollment Behavior
+Analysis provides a descriptive understanding of learner
+participation, course preferences and enrollment behavior.
+
+The analysis demonstrates that learner participation is not
+uniform across demographic groups. Differences can be observed
+across age groups and gender groups, while course enrollment
+patterns also vary by category, course level and course type.
+
+The study further demonstrates the value of cross-dimensional
+analysis. Examining age groups together with course categories
+and course levels provides a more detailed understanding of
+learner preferences than examining individual variables alone.
+
+Learner engagement analysis shows that users can be grouped
+according to their observed enrollment activity. This provides
+a useful descriptive framework for understanding the distribution
+of learner participation and identifying highly active and
+less-active segments.
+
+Temporal analysis also indicates that enrollment activity varies
+across time. Identifying higher- and lower-activity periods can
+support educational program planning and monitoring.
+
+Overall, the findings indicate that learner demographic and
+enrollment data can provide useful evidence for understanding
+digital learning participation and course demand. The analysis
+can support education stakeholders in designing more
+evidence-based learning programs, course portfolios and
+outreach strategies.
+
+The project is aligned primarily with SDG 4 - Quality Education,
+particularly the themes of access, skills development and
+equitable participation. However, enrollment behavior alone
+cannot measure the complete quality or effectiveness of
+education. Therefore, the findings should be interpreted as
+descriptive evidence rather than direct measurements of
+educational outcomes or SDG performance.
+
+A major conclusion of the study is that combining demographic,
+course, engagement and temporal dimensions provides a more
+complete picture of learner behavior than using any single
+dimension independently.

@@ -1,0 +1,11 @@
+InsightID,Area,Finding,Evidence,Interpretation,Importance
+1,Learner Demographics,The 26-35 age group recorded the highest enrollment volume.,"4,799 enrollments (47.99%).",This group represents the strongest observed participation in the EduPro enrollment dataset.,High
+2,Gender Participation,Female learners accounted for the largest enrollment share.,50.78% of all enrollments.,The dataset shows differences in observed enrollment participation across gender groups.,High
+3,Course Preference,Data Science was the most enrolled course category.,916 enrollments (9.16%).,The category represents the strongest observed area of learner demand.,High
+4,Course Level,Beginner courses had the highest enrollment volume.,"3,573 enrollments (35.73%).",Learner participation is not evenly distributed across course difficulty levels.,High
+5,Beginner vs Advanced,Beginner courses had the larger enrollment share.,50.70% of Beginner/Advanced enrollments.,The comparison indicates the relative demand for entry-level versus advanced learning.,Medium
+6,Age × Course Preference,The 26-35 group showed its strongest preference for Data Science.,459 enrollments.,Course category preferences vary across different age groups.,High
+7,Age × Course Level,The 26-35 group showed the strongest observed preference for Beginner courses.,"1,727 enrollments.",Learning-level preferences vary across learner age groups.,High
+8,Learner Engagement,Very High Activity learners contributed the largest enrollment volume.,60.37% of enrollments.,Enrollment activity is distributed across different levels of learner engagement.,High
+9,Temporal Behavior,June 2025 recorded the highest enrollment activity.,899 enrollments.,"Enrollment activity varies over time, with identifiable higher-activity periods.",Medium
+10,Course Popularity,Data Analysis with Python was the most enrolled course.,196 enrollments (1.96%).,The course represents the highest observed individual course enrollment demand.,High

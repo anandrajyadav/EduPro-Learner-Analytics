@@ -1,0 +1,17 @@
+EduPro Learner Demographics and Course Enrollment Behavior Analysis - Research Summary
+======================================================================
+Total enrollment transactions analyzed: 10,000
+Unique learners analyzed: 3,000
+Unique courses analyzed: 60
+Course categories analyzed: 12
+
+1. Most active age group: 26-35 (4,799.0 enrollments; 47.99%).
+2. Highest enrollment participation by gender: Female (50.78% of enrollments).
+3. Most preferred course category: Data Science (9.16% of enrollments).
+4. Most preferred course level: Beginner (35.73% of enrollments).
+5. Beginner vs Advanced: Beginner = 50.70%, Advanced = 49.30%.
+6. Peak enrollment period: June 2025 (899 enrollments).
+7. Most enrolled course: Data Analysis with Python (196 enrollments).
+8. Highest enrollment contribution by activity segment: Very High Activity (60.37%).
+
+Interpretation: The analysis provides a descriptive view of learner demographics, course preferences, engagement, and temporal enrollment behavior on the EduPro platform. The findings can support evidence-based educational planning and learner-focused program design.

@@ -1,0 +1,61 @@
+CourseID,CourseName,CourseCategory,CourseLevel,CourseType,Enrollments,AverageRating,AveragePrice,AverageTransactionAmount
+CR00021,Data Analysis with Python,Data Science,Intermediate,Free,196,3.6,0.0,0.0
+CR00058,Social Media Strategy,Digital Marketing,Beginner,Free,194,4.44,0.0,0.0
+CR00025,Statistical Analysis,Data Science,Beginner,Paid,192,3.74,299.57,299.57
+CR00048,AI Ethics,Artificial Intelligence,Beginner,Free,186,3.64,0.0,0.0
+CR00023,Machine Learning Fundamentals,Data Science,Intermediate,Free,185,3.02,0.0,0.0
+CR00042,Investment Strategies,Finance,Intermediate,Free,183,4.1,0.0,0.0
+CR00043,Corporate Finance,Finance,Beginner,Free,182,4.14,0.0,0.0
+CR00010,3D Modeling,Design,Advanced,Free,180,4.45,0.0,0.0
+CR00035,Cyber Threat Intelligence,Cybersecurity,Beginner,Free,179,4.94,0.0,0.0
+CR00007,UI/UX Design,Design,Advanced,Free,178,2.61,0.0,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,Free,178,3.32,0.0,0.0
+CR00055,Full-Stack Web Development,Web Development,Advanced,Paid,178,4.74,57.32,57.32
+CR00036,Agile Project Management,Project Management,Beginner,Free,177,4.68,0.0,0.0
+CR00019,Content Marketing,Marketing,Advanced,Free,177,2.98,0.0,0.0
+CR00022,Data Visualization,Data Science,Beginner,Free,177,3.65,0.0,0.0
+CR00040,Leadership in Projects,Project Management,Beginner,Paid,174,1.51,327.99,327.99
+CR00050,Computer Vision,Artificial Intelligence,Beginner,Paid,174,4.55,490.9,490.9
+CR00003,C++ for Beginners,Programming,Beginner,Free,173,3.85,0.0,0.0
+CR00012,Business Strategy,Business,Advanced,Paid,173,3.64,487.92,487.92
+CR00045,Financial Modeling,Finance,Advanced,Free,172,1.59,0.0,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,Free,172,4.73,0.0,0.0
+CR00051,HTML & CSS,Web Development,Advanced,Paid,171,1.3,37.89,37.89
+CR00014,Sales Mastery,Business,Advanced,Free,171,3.15,0.0,0.0
+CR00028,Deep Learning,Machine Learning,Advanced,Paid,171,3.89,0.78,0.78
+CR00013,Finance for Startups,Business,Advanced,Free,170,2.0,0.0,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,Free,169,1.73,0.0,0.0
+CR00015,Leadership Essentials,Business,Beginner,Paid,168,1.96,285.05,285.05
+CR00039,Project Planning,Project Management,Advanced,Paid,167,1.23,346.71,346.71
+CR00033,Cybersecurity Fundamentals,Cybersecurity,Intermediate,Free,167,3.93,0.0,0.0
+CR00024,Big Data Analytics,Data Science,Advanced,Paid,166,2.57,117.68,117.68
+CR00047,Natural Language Processing,Artificial Intelligence,Intermediate,Paid,166,2.68,89.59,89.59
+CR00041,Financial Accounting,Finance,Beginner,Paid,166,2.47,53.86,53.86
+CR00005,Full Stack Development,Programming,Beginner,Free,166,1.28,0.0,0.0
+CR00060,Content Creation,Digital Marketing,Beginner,Free,165,2.14,0.0,0.0
+CR00001,Python Basics,Programming,Beginner,Paid,164,4.74,472.28,472.28
+CR00049,Deep Learning,Artificial Intelligence,Intermediate,Paid,163,3.11,415.51,415.51
+CR00032,Ethical Hacking,Cybersecurity,Advanced,Free,163,2.38,0.0,0.0
+CR00053,React for Beginners,Web Development,Advanced,Free,163,2.67,0.0,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,Free,163,2.01,0.0,0.0
+CR00044,Personal Finance,Finance,Intermediate,Paid,161,2.75,119.04,119.04
+CR00059,Affiliate Marketing,Digital Marketing,Intermediate,Free,161,4.66,0.0,0.0
+CR00031,Network Security,Cybersecurity,Intermediate,Free,160,1.91,0.0,0.0
+CR00008,Photoshop Mastery,Design,Advanced,Free,158,1.52,0.0,0.0
+CR00017,SEO Mastery,Marketing,Advanced,Free,158,4.79,0.0,0.0
+CR00038,Risk Management,Project Management,Intermediate,Paid,158,4.84,342.61,342.61
+CR00006,Graphic Design Basics,Design,Advanced,Paid,156,2.72,276.37,276.37
+CR00020,Email Marketing,Marketing,Intermediate,Free,155,4.11,0.0,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,Free,155,1.13,0.0,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,Free,155,4.51,0.0,0.0
+CR00004,Advanced Python,Programming,Beginner,Free,154,2.88,0.0,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,Free,154,2.2,0.0,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,Free,153,4.72,0.0,0.0
+CR00037,Scrum Essentials,Project Management,Intermediate,Free,153,3.45,0.0,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,Free,152,1.81,0.0,0.0
+CR00011,Entrepreneurship 101,Business,Intermediate,Paid,151,2.69,326.02,326.02
+CR00034,Data Encryption,Cybersecurity,Intermediate,Paid,150,1.35,394.26,394.26
+CR00002,Java Programming,Programming,Intermediate,Free,149,2.43,0.0,0.0
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,Paid,148,3.15,212.39,212.39
+CR00046,AI for Beginners,Artificial Intelligence,Beginner,Paid,140,1.2,248.1,248.1
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,Paid,140,3.89,177.34,177.34

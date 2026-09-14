@@ -1,0 +1,108 @@
+EDUPRO FINAL PROJECT VALIDATION REPORT
+============================================================
+
+PASS     : 96
+WARNINGS : 0
+FAIL     : 0
+
+PROJECT STRUCTURE
+------------------------------------------------------------
+[PASS] data folder found
+[PASS] outputs folder found
+[PASS] reports folder found
+[PASS] charts folder found
+[PASS] EduPro.xlsx found
+[PASS] app.py found
+[PASS] Excel sheet found: Users
+[PASS] Excel sheet found: Teachers
+[PASS] Excel sheet found: Courses
+[PASS] Excel sheet found: Transactions
+[PASS] Users loaded: 3,000 rows
+[PASS] Teachers loaded: 60 rows
+[PASS] Courses loaded: 60 rows
+[PASS] Transactions loaded: 10,000 rows
+[PASS] Users: 3,000 rows
+[PASS] Teachers: 60 rows
+[PASS] Courses: 60 rows
+[PASS] Transactions: 10,000 rows
+[PASS] Users.UserID
+[PASS] Users.UserName
+[PASS] Users.Age
+[PASS] Users.Gender
+[PASS] Users.Email
+[PASS] Teachers.TeacherID
+[PASS] Teachers.TeacherName
+[PASS] Teachers.Age
+[PASS] Teachers.Gender
+[PASS] Teachers.Expertise
+[PASS] Teachers.YearsOfExperience
+[PASS] Teachers.TeacherRating
+[PASS] Courses.CourseID
+[PASS] Courses.CourseName
+[PASS] Courses.CourseCategory
+[PASS] Courses.CourseType
+[PASS] Courses.CourseLevel
+[PASS] Courses.CoursePrice
+[PASS] Courses.CourseDuration
+[PASS] Courses.CourseRating
+[PASS] Transactions.TransactionID
+[PASS] Transactions.UserID
+[PASS] Transactions.CourseID
+[PASS] Transactions.TransactionDate
+[PASS] Transactions.Amount
+[PASS] Transactions.PaymentMethod
+[PASS] Transactions.TeacherID
+[PASS] Users.UserID: no duplicate IDs
+[PASS] Teachers.TeacherID: no duplicate IDs
+[PASS] Courses.CourseID: no duplicate IDs
+[PASS] Transactions.TransactionID: no duplicate IDs
+[PASS] All transaction UserIDs exist in Users
+[PASS] All transaction CourseIDs exist in Courses
+[PASS] All transaction TeacherIDs exist in Teachers
+[PASS] Master dataset created: 10,000 rows
+[PASS] Master dataset preserved all transactions
+[PASS] No duplicate master rows
+[PASS] UserID: no missing values
+[PASS] CourseID: no missing values
+[PASS] TransactionDate: no missing values
+[PASS] Age: no missing values
+[PASS] Gender: no missing values
+[PASS] CourseCategory: no missing values
+[PASS] CourseLevel: no missing values
+[PASS] All transaction dates are valid
+[PASS] Date range: 2025-01-01 to 2025-12-30
+[PASS] Report found: step24_key_findings.csv
+[PASS] Report found: step24_research_question_summary.csv
+[PASS] Report found: step25_final_research_findings.csv
+[PASS] Report found: step25_research_questions.csv
+[PASS] Report found: step25_research_objectives.csv
+[PASS] Report found: step26_government_stakeholder_analysis.csv
+[PASS] Report found: step26_sdg4_mapping.csv
+[PASS] Report found: step27_final_research_insights.csv
+[PASS] Report found: step27_recommendations.csv
+[PASS] Report found: step27_research_conclusion.txt
+[PASS] Report found: step27_limitations.csv
+[PASS] Report found: step27_future_scope.csv
+[PASS] Report found: step28_research_paper_tables.xlsx
+[PASS] Report found: step28_master_research_results.csv
+[PASS] Report found: step28_research_paper_results.txt
+[PASS] 93 chart files found
+[PASS] Dashboard feature found: streamlit
+[PASS] Dashboard feature found: st.set_page_config
+[PASS] Dashboard feature found: st.sidebar
+[PASS] Dashboard feature found: st.tabs
+[PASS] Dashboard feature found: st.metric
+[PASS] Dashboard feature found: st.plotly_chart
+[PASS] Dashboard feature found: st.download_button
+[PASS] Dashboard feature found: AgeGroup
+[PASS] Dashboard feature found: CourseCategory
+[PASS] Dashboard feature found: CourseLevel
+[PASS] Dashboard feature found: Gender
+[PASS] Package installed: pandas
+[PASS] Package installed: numpy
+[PASS] Package installed: openpyxl
+[PASS] Package installed: plotly
+[PASS] Package installed: streamlit
+
+FINAL STATUS
+PROJECT VALIDATION PASSED

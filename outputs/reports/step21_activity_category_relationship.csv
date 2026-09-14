@@ -1,0 +1,49 @@
+ActivitySegment,CourseCategory,Enrollments,Learners,ShareWithinSegment
+Low Activity,Artificial Intelligence,236,230,8.3
+Low Activity,Business,253,251,8.9
+Low Activity,Cybersecurity,256,252,9.0
+Low Activity,Data Science,245,242,8.61
+Low Activity,Design,252,252,8.86
+Low Activity,Digital Marketing,235,231,8.26
+Low Activity,Finance,229,227,8.05
+Low Activity,Machine Learning,229,226,8.05
+Low Activity,Marketing,216,212,7.59
+Low Activity,Programming,209,207,7.35
+Low Activity,Project Management,235,229,8.26
+Low Activity,Web Development,249,242,8.76
+Moderate Activity,Artificial Intelligence,84,78,7.85
+Moderate Activity,Business,82,75,7.66
+Moderate Activity,Cybersecurity,88,81,8.22
+Moderate Activity,Data Science,101,88,9.44
+Moderate Activity,Design,95,88,8.88
+Moderate Activity,Digital Marketing,89,80,8.32
+Moderate Activity,Finance,90,83,8.41
+Moderate Activity,Machine Learning,102,90,9.53
+Moderate Activity,Marketing,85,82,7.94
+Moderate Activity,Programming,91,74,8.5
+Moderate Activity,Project Management,69,66,6.45
+Moderate Activity,Web Development,94,82,8.79
+High Activity,Artificial Intelligence,4,2,8.16
+High Activity,Business,4,3,8.16
+High Activity,Cybersecurity,3,2,6.12
+High Activity,Data Science,3,3,6.12
+High Activity,Design,6,4,12.24
+High Activity,Digital Marketing,3,3,6.12
+High Activity,Finance,3,3,6.12
+High Activity,Machine Learning,4,3,8.16
+High Activity,Marketing,4,3,8.16
+High Activity,Programming,6,4,12.24
+High Activity,Project Management,5,4,10.2
+High Activity,Web Development,4,2,8.16
+Very High Activity,Artificial Intelligence,505,329,8.37
+Very High Activity,Business,494,319,8.18
+Very High Activity,Cybersecurity,472,317,7.82
+Very High Activity,Data Science,567,352,9.39
+Very High Activity,Design,474,313,7.85
+Very High Activity,Digital Marketing,481,332,7.97
+Very High Activity,Finance,542,337,8.98
+Very High Activity,Machine Learning,484,320,8.02
+Very High Activity,Marketing,501,326,8.3
+Very High Activity,Programming,500,320,8.28
+Very High Activity,Project Management,520,337,8.61
+Very High Activity,Web Development,497,326,8.23

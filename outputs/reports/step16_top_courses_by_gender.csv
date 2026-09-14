@@ -1,0 +1,21 @@
+Gender,Rank,CourseID,CourseName,Enrollments
+Female,1,CR00021,Data Analysis with Python,107
+Female,2,CR00058,Social Media Strategy,101
+Female,3,CR00023,Machine Learning Fundamentals,100
+Female,4,CR00045,Financial Modeling,98
+Female,5,CR00003,C++ for Beginners,96
+Female,6,CR00010,3D Modeling,96
+Female,7,CR00025,Statistical Analysis,94
+Female,8,CR00007,UI/UX Design,93
+Female,9,CR00035,Cyber Threat Intelligence,93
+Female,10,CR00032,Ethical Hacking,93
+Male,1,CR00025,Statistical Analysis,98
+Male,2,CR00042,Investment Strategies,94
+Male,3,CR00048,AI Ethics,94
+Male,4,CR00014,Sales Mastery,93
+Male,5,CR00019,Content Marketing,93
+Male,6,CR00058,Social Media Strategy,93
+Male,7,CR00015,Leadership Essentials,92
+Male,8,CR00043,Corporate Finance,91
+Male,9,CR00021,Data Analysis with Python,89
+Male,10,CR00054,Backend Development with Node.js,89

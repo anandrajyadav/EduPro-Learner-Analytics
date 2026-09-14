@@ -1,0 +1,9 @@
+Gender,ActivitySegment,Learners,TotalEnrollments,AverageEnrollments,LearnerShareWithinGender
+Female,Low Activity,1122,1443,1.286096256684492,73.82
+Female,Moderate Activity,168,569,3.386904761904762,11.05
+Female,High Activity,5,49,9.8,0.33
+Female,Very High Activity,225,3017,13.408888888888889,14.8
+Male,Low Activity,1110,1401,1.2621621621621621,75.0
+Male,Moderate Activity,146,501,3.4315068493150687,9.86
+Male,High Activity,0,0,,0.0
+Male,Very High Activity,224,3020,13.482142857142858,15.14

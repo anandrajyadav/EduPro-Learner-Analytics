@@ -1,0 +1,4 @@
+AgeGroup,TopCourseCategory,Enrollments_x,PercentageWithinAgeGroup_x,TopCourseLevel,Enrollments_y,PercentageWithinAgeGroup_y,TopCourseType,Enrollments,PercentageWithinAgeGroup
+18-25,Data Science,343,9.19,Beginner,1345,36.04,Free,2411,64.6
+26-35,Data Science,459,9.56,Beginner,1727,35.99,Free,3085,64.28
+<18,Finance,136,9.26,Advanced,534,36.35,Free,907,61.74

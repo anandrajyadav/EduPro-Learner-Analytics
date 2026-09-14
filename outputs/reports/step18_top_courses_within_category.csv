@@ -1,0 +1,61 @@
+CourseCategory,Rank,CourseID,CourseName,Enrollments
+Marketing,1,CR00019,Content Marketing,177
+Marketing,2,CR00018,Social Media Marketing,163
+Marketing,3,CR00017,SEO Mastery,158
+Marketing,4,CR00020,Email Marketing,155
+Marketing,5,CR00016,Digital Marketing,153
+Project Management,1,CR00036,Agile Project Management,177
+Project Management,2,CR00040,Leadership in Projects,174
+Project Management,3,CR00039,Project Planning,167
+Project Management,4,CR00038,Risk Management,158
+Project Management,5,CR00037,Scrum Essentials,153
+Artificial Intelligence,1,CR00048,AI Ethics,186
+Artificial Intelligence,2,CR00050,Computer Vision,174
+Artificial Intelligence,3,CR00047,Natural Language Processing,166
+Artificial Intelligence,4,CR00049,Deep Learning,163
+Artificial Intelligence,5,CR00046,AI for Beginners,140
+Digital Marketing,1,CR00058,Social Media Strategy,194
+Digital Marketing,2,CR00060,Content Creation,165
+Digital Marketing,3,CR00059,Affiliate Marketing,161
+Digital Marketing,4,CR00056,Google Ads Mastery,148
+Digital Marketing,5,CR00057,SEO for E-commerce,140
+Finance,1,CR00042,Investment Strategies,183
+Finance,2,CR00043,Corporate Finance,182
+Finance,3,CR00045,Financial Modeling,172
+Finance,4,CR00041,Financial Accounting,166
+Finance,5,CR00044,Personal Finance,161
+Data Science,1,CR00021,Data Analysis with Python,196
+Data Science,2,CR00025,Statistical Analysis,192
+Data Science,3,CR00023,Machine Learning Fundamentals,185
+Data Science,4,CR00022,Data Visualization,177
+Data Science,5,CR00024,Big Data Analytics,166
+Programming,1,CR00003,C++ for Beginners,173
+Programming,2,CR00005,Full Stack Development,166
+Programming,3,CR00001,Python Basics,164
+Programming,4,CR00004,Advanced Python,154
+Programming,5,CR00002,Java Programming,149
+Cybersecurity,1,CR00035,Cyber Threat Intelligence,179
+Cybersecurity,2,CR00033,Cybersecurity Fundamentals,167
+Cybersecurity,3,CR00032,Ethical Hacking,163
+Cybersecurity,4,CR00031,Network Security,160
+Cybersecurity,5,CR00034,Data Encryption,150
+Machine Learning,1,CR00026,Intro to Machine Learning,172
+Machine Learning,2,CR00028,Deep Learning,171
+Machine Learning,3,CR00030,Reinforcement Learning,169
+Machine Learning,4,CR00029,Natural Language Processing,155
+Machine Learning,5,CR00027,Neural Networks,152
+Design,1,CR00010,3D Modeling,180
+Design,2,CR00007,UI/UX Design,178
+Design,3,CR00008,Photoshop Mastery,158
+Design,4,CR00006,Graphic Design Basics,156
+Design,5,CR00009,Web Design Fundamentals,155
+Business,1,CR00012,Business Strategy,173
+Business,2,CR00014,Sales Mastery,171
+Business,3,CR00013,Finance for Startups,170
+Business,4,CR00015,Leadership Essentials,168
+Business,5,CR00011,Entrepreneurship 101,151
+Web Development,1,CR00055,Full-Stack Web Development,178
+Web Development,2,CR00054,Backend Development with Node.js,178
+Web Development,3,CR00051,HTML & CSS,171
+Web Development,4,CR00053,React for Beginners,163
+Web Development,5,CR00052,JavaScript Mastery,154

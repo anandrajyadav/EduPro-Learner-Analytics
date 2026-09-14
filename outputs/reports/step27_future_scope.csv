@@ -1,0 +1,11 @@
+FutureID,FutureResearchArea,PossibleExtension
+1,Learning Outcome Analysis,Integrate assessment and examination scores to study actual learning outcomes.
+2,Course Completion Analysis,"Analyze course completion, dropout and progression behavior."
+3,Geographic Analysis,"Add state, district, rural/urban and regional variables."
+4,Socioeconomic Analysis,Integrate socioeconomic indicators to study education participation gaps.
+5,Accessibility and Inclusion Analysis,Include disability and accessibility variables to evaluate inclusive education.
+6,Employment Outcome Analysis,Connect course participation with employment and skill-development outcomes.
+7,Longitudinal Learner Analysis,Track learners over longer periods to study changes in learning behavior.
+8,Advanced Statistical Testing,Apply statistical significance tests to evaluate demographic differences.
+9,Predictive Analytics,Develop predictive models only after establishing a reliable analytical foundation.
+10,Recommendation Systems,Develop personalized course recommendation systems using suitable machine-learning methods.

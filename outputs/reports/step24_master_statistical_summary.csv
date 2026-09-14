@@ -1,0 +1,24 @@
+Metric,Value
+Total Enrollment Records,10000
+Unique Learners,3000
+Unique Courses,60
+Unique Categories,12
+Unique Teachers,60
+Mean Learner Age,24.97
+Median Learner Age,25.0
+Average Course Rating,3.12
+Median Course Rating,3.11
+Average Course Price,91.13
+Median Course Price,0.0
+Average Transaction Amount,91.13
+Most Active Age Group,26-35
+Highest Enrollment Gender,Female
+Most Preferred Category,Data Science
+Most Preferred Level,Beginner
+Most Preferred Course Type,Free
+Most Popular Course,Data Analysis with Python
+Largest Activity Segment,Low Activity
+Highest Enrollment Contribution Segment,Very High Activity
+Peak Enrollment Month,2025-06
+Rating-Enrollment Correlation,0.294
+Price-Enrollment Correlation,-0.163

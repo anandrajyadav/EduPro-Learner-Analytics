@@ -1,0 +1,11 @@
+CourseID,CourseName,CourseCategory,CourseLevel,CourseType,Enrollments,UniqueLearners,CoursePrice,CourseRating,AverageTransactionAmount,TotalTransactionAmount,CourseDuration,EnrollmentShare,PopularityRank,LearnerReachShare,EnrollmentsPerLearner
+CR00021,Data Analysis with Python,Data Science,Intermediate,Free,196,196,0.0,3.6,0.0,0.0,1.2,1.96,1,1.96,1.0
+CR00058,Social Media Strategy,Digital Marketing,Beginner,Free,194,194,0.0,4.44,0.0,0.0,1.46,1.94,2,1.94,1.0
+CR00025,Statistical Analysis,Data Science,Beginner,Paid,192,192,299.57,3.74,299.57,57517.44,48.32,1.92,3,1.92,1.0
+CR00048,AI Ethics,Artificial Intelligence,Beginner,Free,186,186,0.0,3.64,0.0,0.0,42.7,1.86,4,1.86,1.0
+CR00023,Machine Learning Fundamentals,Data Science,Intermediate,Free,185,185,0.0,3.02,0.0,0.0,9.71,1.85,5,1.85,1.0
+CR00042,Investment Strategies,Finance,Intermediate,Free,183,183,0.0,4.1,0.0,0.0,34.83,1.83,6,1.83,1.0
+CR00043,Corporate Finance,Finance,Beginner,Free,182,182,0.0,4.14,0.0,0.0,31.77,1.82,7,1.82,1.0
+CR00010,3D Modeling,Design,Advanced,Free,180,180,0.0,4.45,0.0,0.0,15.29,1.8,8,1.8,1.0
+CR00035,Cyber Threat Intelligence,Cybersecurity,Beginner,Free,179,179,0.0,4.94,0.0,0.0,42.59,1.79,9,1.79,1.0
+CR00007,UI/UX Design,Design,Advanced,Free,178,178,0.0,2.61,0.0,0.0,48.68,1.78,10,1.78,1.0

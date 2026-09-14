@@ -1,0 +1,11 @@
+Limitation,Explanation
+Dataset Scope,The analysis is based on the available EduPro dataset and may not represent all online learners or education platforms.
+Descriptive Nature,The study identifies patterns and relationships but does not establish causal relationships.
+Learning Outcomes,"The dataset does not contain examination scores, completion rates, assessment results or learning gains."
+Socioeconomic Variables,"Income, socioeconomic status and household-level information are not available."
+Geographic Variables,"Detailed geographic information such as district, rural/urban status and state-level participation is not available."
+Accessibility,Disability and accessibility-related learner data are not included.
+Employment Outcomes,The dataset does not establish whether course participation resulted in employment or income gains.
+Generalization,Findings should not automatically be generalized to the entire population without representative sampling and additional datasets.
+Temporal Coverage,Observed temporal patterns depend on the date range contained in the dataset.
+Self-Selection,Enrollment behavior may reflect learner self-selection and therefore may not represent the preferences of non-participating learners.

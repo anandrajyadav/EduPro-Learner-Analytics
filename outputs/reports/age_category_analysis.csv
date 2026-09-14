@@ -1,0 +1,37 @@
+AgeGroup,CourseCategory,Enrollments
+18–25,Artificial Intelligence,317
+18–25,Business,307
+18–25,Cybersecurity,307
+18–25,Data Science,343
+18–25,Design,311
+18–25,Digital Marketing,296
+18–25,Finance,297
+18–25,Machine Learning,305
+18–25,Marketing,313
+18–25,Programming,305
+18–25,Project Management,296
+18–25,Web Development,335
+26–35,Artificial Intelligence,383
+26–35,Business,406
+26–35,Cybersecurity,391
+26–35,Data Science,459
+26–35,Design,396
+26–35,Digital Marketing,385
+26–35,Finance,431
+26–35,Machine Learning,394
+26–35,Marketing,367
+26–35,Programming,392
+26–35,Project Management,418
+26–35,Web Development,377
+<18,Artificial Intelligence,129
+<18,Business,120
+<18,Cybersecurity,121
+<18,Data Science,114
+<18,Design,120
+<18,Digital Marketing,127
+<18,Finance,136
+<18,Machine Learning,120
+<18,Marketing,126
+<18,Programming,109
+<18,Project Management,115
+<18,Web Development,132

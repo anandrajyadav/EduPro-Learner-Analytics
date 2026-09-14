@@ -1,0 +1,25 @@
+Gender,CourseCategory,Enrollments,UniqueLearners,ShareWithinGender
+Female,Artificial Intelligence,413,312,8.13
+Female,Business,418,337,8.23
+Female,Cybersecurity,430,338,8.47
+Female,Data Science,479,356,9.43
+Female,Design,424,340,8.35
+Female,Digital Marketing,417,330,8.21
+Female,Finance,451,335,8.88
+Female,Machine Learning,403,309,7.94
+Female,Marketing,385,305,7.58
+Female,Programming,420,319,8.27
+Female,Project Management,425,323,8.37
+Female,Web Development,413,321,8.13
+Male,Artificial Intelligence,416,327,8.45
+Male,Business,415,311,8.43
+Male,Cybersecurity,389,314,7.9
+Male,Data Science,437,329,8.88
+Male,Design,403,317,8.19
+Male,Digital Marketing,391,316,7.94
+Male,Finance,413,315,8.39
+Male,Machine Learning,416,330,8.45
+Male,Marketing,421,318,8.55
+Male,Programming,386,286,7.84
+Male,Project Management,404,313,8.21
+Male,Web Development,431,331,8.76

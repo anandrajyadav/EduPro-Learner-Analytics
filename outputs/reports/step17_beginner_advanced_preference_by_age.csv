@@ -1,0 +1,7 @@
+AgeGroup,BeginnerEnrollments,AdvancedEnrollments,BeginnerPercentage,AdvancedPercentage,DominantLevel
+<18,501,534,48.41,51.59,Advanced
+18-25,1345,1300,50.85,49.15,Beginner
+26-35,1727,1641,51.28,48.72,Beginner
+36-45,0,0,0.0,0.0,No Data
+45+,0,0,0.0,0.0,No Data
+Unknown,0,0,0.0,0.0,No Data

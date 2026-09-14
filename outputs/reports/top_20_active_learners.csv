@@ -1,0 +1,21 @@
+UserID,TotalEnrollments,UniqueCourses,TotalSpend,AverageTransactionAmount,Age,AgeGroup,Gender,UniqueCategories,UniqueCourseLevels,ActivitySegment
+U02976,16,16,1526.86,95.42875,28,26-35,Female,9,3,Very High Activity
+U00018,16,16,1468.03,91.751875,24,18-25,Female,9,3,Very High Activity
+U00427,16,16,1374.23,85.889375,29,26-35,Female,9,3,Very High Activity
+U01203,16,16,1827.61,114.225625,15,<18,Male,11,3,Very High Activity
+U02258,16,16,1617.15,101.071875,21,18-25,Male,10,3,Very High Activity
+U01724,16,16,1227.77,76.735625,17,<18,Male,10,3,Very High Activity
+U00339,16,16,2087.63,130.476875,29,26-35,Male,10,3,Very High Activity
+U01337,16,16,1242.9,77.68125,32,26-35,Female,10,3,Very High Activity
+U01543,16,16,1848.28,115.5175,25,18-25,Female,10,3,Very High Activity
+U00829,16,16,1338.31,83.644375,22,18-25,Male,8,3,Very High Activity
+U00881,16,16,2703.36,168.96,34,26-35,Female,10,3,Very High Activity
+U00055,16,16,1448.25,90.515625,31,26-35,Female,9,3,Very High Activity
+U01399,16,16,1648.93,103.058125,20,18-25,Male,8,3,Very High Activity
+U01414,16,16,1200.1,75.00625,35,26-35,Female,11,3,Very High Activity
+U01773,16,16,2596.54,162.28375,17,<18,Male,8,3,Very High Activity
+U01096,16,16,769.7199999999999,48.107499999999995,18,18-25,Male,7,3,Very High Activity
+U00216,16,16,1405.87,87.866875,23,18-25,Male,10,3,Very High Activity
+U02651,16,16,1113.95,69.621875,16,<18,Female,9,3,Very High Activity
+U02288,15,15,1437.73,95.84866666666667,32,26-35,Female,10,3,Very High Activity
+U02300,15,15,1511.0,100.73333333333333,35,26-35,Male,9,3,Very High Activity

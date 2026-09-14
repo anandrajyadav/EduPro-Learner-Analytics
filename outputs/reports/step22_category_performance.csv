@@ -1,0 +1,13 @@
+CourseCategory,NumberOfCourses,TotalEnrollments,UniqueLearners,AverageCourseRating,AverageCoursePrice,AverageTransactionAmount,EnrollmentShare
+Data Science,5,916,916,3.32,83.45,83.45,9.16
+Finance,5,864,864,3.01,34.58,34.58,8.64
+Web Development,5,844,844,2.85,19.04,19.04,8.44
+Business,5,833,833,2.69,219.8,219.8,8.33
+Project Management,5,829,829,3.14,203.46,203.46,8.29
+Artificial Intelligence,5,829,829,3.04,248.82,248.82,8.29
+Design,5,827,827,3.16,55.27,55.27,8.27
+Cybersecurity,5,819,819,2.9,78.85,78.85,8.19
+Machine Learning,5,819,819,2.66,0.16,0.16,8.19
+Digital Marketing,5,808,808,3.66,77.95,77.95,8.08
+Programming,5,806,806,3.04,94.46,94.46,8.06
+Marketing,5,806,806,3.72,0.0,0.0,8.06

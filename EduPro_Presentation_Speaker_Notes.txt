@@ -1,0 +1,52 @@
+EDUPRO FINAL PRESENTATION — SPEAKER NOTES
+
+Slide 1:
+Good morning. My project is Learner Demographics and Course Enrollment Behavior Analysis on EduPro. The project uses descriptive analytics to understand learner participation, course preferences and enrollment behavior.
+
+Slide 2:
+Online learning platforms generate large amounts of learner and enrollment data. The challenge is converting raw records into understandable patterns. This project provides a structured descriptive analysis.
+
+Slide 3:
+The research questions focus on age groups, gender participation, course categories, course levels, engagement and temporal enrollment behavior.
+
+Slide 4:
+The dataset contains Users, Teachers, Courses and Transactions. Users and Transactions are connected through UserID, while Transactions and Courses are connected through CourseID. This produces the master analytical dataset.
+
+Slide 5:
+The methodology starts with collection and cleaning, followed by validation and master dataset construction. Descriptive, demographic, course, engagement, temporal and cross-dimensional analyses are then performed.
+
+Slide 6:
+Age groups are below 18, 18–25, 26–35, 36–45 and 45+. Gender participation is also compared across these groups. State the actual highest group only after checking the dashboard.
+
+Slide 7:
+Course category, type and level preferences are analyzed. Top enrolled courses are identified. Enrollment indicates participation/popularity, not course quality.
+
+Slide 8:
+Learners are segmented by enrollment count: Low 1–2, Moderate 3–5, High 6–10 and Very High 11+. Monthly enrollment and MoM changes show temporal behavior.
+
+Slide 9:
+Cross-dimensional analysis combines multiple dimensions, such as Age × Category and Gender × Level, to reveal patterns that are not visible in one-dimensional summaries.
+
+Slide 10:
+The Streamlit dashboard contains filters and multiple analytical tabs. Demonstrate the filters live and show that KPIs and charts change.
+
+Slide 11:
+The project is relevant to SDG 4, particularly targets 4.3, 4.4 and 4.5. It provides descriptive evidence; it does not prove SDG 4 achievement.
+
+Slide 12:
+Use the actual numerical findings generated in Step 27/28. Do not invent values. Mention limitations clearly.
+
+Slide 13:
+Conclude that descriptive analytics provides a structured understanding of EduPro learner behavior. Future work can extend the analysis to completion, retention, prediction and recommendation systems.
+
+VIVA CORE ANSWERS:
+1. Why descriptive analytics? Because the research objective is to understand existing behavior, not predict future behavior.
+2. Why no machine learning? Prediction is outside the primary scope.
+3. What is the master dataset? A unified dataset created by joining transactions with learner and course information.
+4. Enrollment vs learner? Enrollment is a transaction; learner is a unique UserID.
+5. Does enrollment mean completion? No, completion data is not available.
+6. Does popularity mean quality? No, enrollment measures participation, not quality.
+7. Does correlation prove causation? No.
+8. Why SDG 4? The analysis provides evidence relevant to education access, skills demand and demographic participation.
+9. Limitations? Dataset scope, no completion/outcome data, and descriptive analysis cannot establish causality.
+10. Future scope? Completion, retention, prediction, recommendation, geography and longitudinal analysis.

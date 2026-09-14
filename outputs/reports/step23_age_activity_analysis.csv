@@ -1,0 +1,21 @@
+AgeGroup,ActivitySegment,Enrollments,UniqueLearners,LearnerShareWithinAge
+<18,Low Activity,407,323,74.6
+<18,Moderate Activity,138,41,9.47
+<18,High Activity,30,3,0.69
+<18,Very High Activity,894,66,15.24
+18-25,Low Activity,1062,825,73.6
+18-25,Moderate Activity,438,129,11.51
+18-25,High Activity,0,0,0.0
+18-25,Very High Activity,2232,167,14.9
+26-35,Low Activity,1375,1084,74.97
+26-35,Moderate Activity,494,144,9.96
+26-35,High Activity,19,2,0.14
+26-35,Very High Activity,2911,216,14.94
+36-45,Low Activity,0,0,
+36-45,Moderate Activity,0,0,
+36-45,High Activity,0,0,
+36-45,Very High Activity,0,0,
+45+,Low Activity,0,0,
+45+,Moderate Activity,0,0,
+45+,High Activity,0,0,
+45+,Very High Activity,0,0,

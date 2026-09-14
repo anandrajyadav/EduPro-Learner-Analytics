@@ -1,0 +1,16 @@
+AgeGroup,CourseLevel,Enrollments,ShareWithinAge
+<18,Advanced,534,36.35
+<18,Beginner,501,34.1
+<18,Intermediate,434,29.54
+18-25,Advanced,1300,34.83
+18-25,Beginner,1345,36.04
+18-25,Intermediate,1087,29.13
+26-35,Advanced,1641,34.19
+26-35,Beginner,1727,35.99
+26-35,Intermediate,1431,29.82
+36-45,Advanced,0,
+36-45,Beginner,0,
+36-45,Intermediate,0,
+45+,Advanced,0,
+45+,Beginner,0,
+45+,Intermediate,0,

@@ -1,0 +1,11 @@
+Metric,Value
+Total Records,10000.0
+Total Columns,19.0
+Duplicate Rows,0.0
+Missing Cells,0.0
+Unique Learners,3000.0
+Unique Courses,60.0
+Unique Transactions,10000.0
+Average Age,24.97
+Average Transaction Amount,91.13
+Average Course Rating,3.12

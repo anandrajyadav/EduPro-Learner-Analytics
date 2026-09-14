@@ -1,0 +1,4 @@
+Column,TotalRecords,UniqueValues,MissingValues
+TransactionID,10000,10000,0
+UserID,10000,3000,0
+CourseID,10000,60,0

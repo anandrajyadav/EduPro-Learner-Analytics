@@ -1,0 +1,15 @@
+Metric,Value
+Number of Courses,60
+Total Enrollments,10000
+Average Enrollments per Course,166.67
+Median Enrollments per Course,166.0
+Maximum Course Enrollments,196
+Minimum Course Enrollments,140
+Average Course Rating,3.1
+Median Course Rating,3.06
+Average Course Price,92.99
+Top Course,Data Analysis with Python
+Top Course Enrollment Count,196
+Top Course Enrollment Share,1.96
+Rating-Enrollment Correlation,0.294
+Price-Enrollment Correlation,-0.163

@@ -1,0 +1,21 @@
+AgeGroup,CourseCategory,CourseLevel,Enrollments,UniqueLearners,ShareWithinAge
+26-35,Design,Advanced,323,260,6.73
+26-35,Programming,Beginner,317,260,6.61
+18-25,Design,Advanced,251,213,6.73
+18-25,Programming,Beginner,251,197,6.73
+26-35,Business,Advanced,245,218,5.11
+26-35,Artificial Intelligence,Beginner,230,196,4.79
+26-35,Web Development,Advanced,224,194,4.67
+26-35,Marketing,Advanced,224,197,4.67
+26-35,Cybersecurity,Intermediate,220,199,4.58
+18-25,Web Development,Advanced,208,178,5.57
+26-35,Data Science,Intermediate,199,185,4.15
+18-25,Artificial Intelligence,Beginner,199,178,5.33
+18-25,Marketing,Advanced,193,166,5.17
+18-25,Business,Advanced,185,165,4.96
+18-25,Cybersecurity,Intermediate,184,166,4.93
+26-35,Data Science,Beginner,179,167,3.73
+26-35,Project Management,Beginner,178,164,3.71
+26-35,Finance,Beginner,177,168,3.69
+26-35,Digital Marketing,Beginner,173,161,3.6
+26-35,Finance,Intermediate,170,160,3.54

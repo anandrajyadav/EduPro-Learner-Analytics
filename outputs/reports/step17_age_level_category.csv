@@ -1,0 +1,94 @@
+AgeGroup,CourseLevel,CourseCategory,Enrollments
+26-35,Advanced,Design,323
+26-35,Beginner,Programming,317
+18-25,Advanced,Design,251
+18-25,Beginner,Programming,251
+26-35,Advanced,Business,245
+26-35,Beginner,Artificial Intelligence,230
+26-35,Advanced,Web Development,224
+26-35,Advanced,Marketing,224
+26-35,Intermediate,Cybersecurity,220
+18-25,Advanced,Web Development,208
+26-35,Intermediate,Data Science,199
+18-25,Beginner,Artificial Intelligence,199
+18-25,Advanced,Marketing,193
+18-25,Advanced,Business,185
+18-25,Intermediate,Cybersecurity,184
+26-35,Beginner,Data Science,179
+26-35,Beginner,Project Management,178
+26-35,Beginner,Finance,177
+26-35,Beginner,Digital Marketing,173
+26-35,Intermediate,Finance,170
+26-35,Intermediate,Machine Learning,170
+26-35,Intermediate,Project Management,155
+26-35,Beginner,Web Development,153
+26-35,Intermediate,Artificial Intelligence,153
+26-35,Advanced,Machine Learning,152
+26-35,Intermediate,Marketing,143
+18-25,Beginner,Data Science,140
+26-35,Advanced,Digital Marketing,138
+18-25,Intermediate,Data Science,138
+18-25,Beginner,Digital Marketing,134
+18-25,Beginner,Project Management,130
+18-25,Beginner,Web Development,127
+18-25,Intermediate,Machine Learning,127
+18-25,Intermediate,Finance,122
+18-25,Intermediate,Marketing,120
+18-25,Intermediate,Artificial Intelligence,118
+18-25,Advanced,Machine Learning,114
+18-25,Beginner,Finance,109
+18-25,Intermediate,Project Management,106
+18-25,Advanced,Digital Marketing,102
+<18,Advanced,Design,98
+26-35,Beginner,Business,89
+<18,Beginner,Programming,89
+26-35,Beginner,Cybersecurity,86
+26-35,Advanced,Cybersecurity,85
+26-35,Advanced,Project Management,85
+26-35,Advanced,Finance,84
+<18,Advanced,Business,84
+26-35,Advanced,Data Science,81
+<18,Advanced,Marketing,81
+<18,Advanced,Web Development,80
+26-35,Intermediate,Programming,75
+26-35,Intermediate,Digital Marketing,74
+<18,Intermediate,Cybersecurity,73
+26-35,Beginner,Design,73
+26-35,Beginner,Machine Learning,72
+26-35,Intermediate,Business,72
+<18,Beginner,Artificial Intelligence,71
+18-25,Beginner,Cybersecurity,67
+18-25,Advanced,Finance,66
+18-25,Advanced,Data Science,65
+18-25,Beginner,Machine Learning,64
+18-25,Beginner,Business,64
+<18,Beginner,Finance,62
+18-25,Advanced,Project Management,60
+18-25,Beginner,Design,60
+18-25,Intermediate,Digital Marketing,60
+<18,Intermediate,Artificial Intelligence,58
+18-25,Intermediate,Business,58
+<18,Advanced,Machine Learning,57
+18-25,Advanced,Cybersecurity,56
+18-25,Intermediate,Programming,54
+<18,Beginner,Web Development,52
+<18,Beginner,Digital Marketing,52
+<18,Intermediate,Finance,52
+<18,Intermediate,Project Management,50
+<18,Beginner,Data Science,50
+<18,Advanced,Digital Marketing,48
+<18,Intermediate,Marketing,45
+<18,Intermediate,Data Science,44
+<18,Intermediate,Machine Learning,44
+<18,Beginner,Project Management,43
+<18,Intermediate,Digital Marketing,27
+<18,Beginner,Cybersecurity,26
+<18,Advanced,Cybersecurity,22
+<18,Advanced,Finance,22
+<18,Beginner,Design,22
+<18,Advanced,Project Management,22
+<18,Intermediate,Business,21
+<18,Intermediate,Programming,20
+<18,Advanced,Data Science,20
+<18,Beginner,Machine Learning,19
+<18,Beginner,Business,15

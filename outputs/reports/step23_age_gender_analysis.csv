@@ -1,0 +1,11 @@
+AgeGroup,Gender,Enrollments,UniqueLearners,ShareWithinAge
+<18,Female,678,205,46.15
+<18,Male,791,228,53.85
+18-25,Female,1918,578,51.39
+18-25,Male,1814,543,48.61
+26-35,Female,2482,737,51.72
+26-35,Male,2317,709,48.28
+36-45,Female,0,0,
+36-45,Male,0,0,
+45+,Female,0,0,
+45+,Male,0,0,

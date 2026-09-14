@@ -1,0 +1,41 @@
+AgeGroup,Gender,ActivitySegment,Enrollments,UniqueLearners
+<18,Female,Low Activity,184,151
+<18,Female,Moderate Activity,72,22
+<18,Female,High Activity,30,3
+<18,Female,Very High Activity,392,29
+<18,Male,Low Activity,223,172
+<18,Male,Moderate Activity,66,19
+<18,Male,High Activity,0,0
+<18,Male,Very High Activity,502,37
+18-25,Female,Low Activity,550,423
+18-25,Female,Moderate Activity,235,69
+18-25,Female,High Activity,0,0
+18-25,Female,Very High Activity,1133,86
+18-25,Male,Low Activity,512,402
+18-25,Male,Moderate Activity,203,60
+18-25,Male,High Activity,0,0
+18-25,Male,Very High Activity,1099,81
+26-35,Female,Low Activity,709,548
+26-35,Female,Moderate Activity,262,77
+26-35,Female,High Activity,19,2
+26-35,Female,Very High Activity,1492,110
+26-35,Male,Low Activity,666,536
+26-35,Male,Moderate Activity,232,67
+26-35,Male,High Activity,0,0
+26-35,Male,Very High Activity,1419,106
+36-45,Female,Low Activity,0,0
+36-45,Female,Moderate Activity,0,0
+36-45,Female,High Activity,0,0
+36-45,Female,Very High Activity,0,0
+36-45,Male,Low Activity,0,0
+36-45,Male,Moderate Activity,0,0
+36-45,Male,High Activity,0,0
+36-45,Male,Very High Activity,0,0
+45+,Female,Low Activity,0,0
+45+,Female,Moderate Activity,0,0
+45+,Female,High Activity,0,0
+45+,Female,Very High Activity,0,0
+45+,Male,Low Activity,0,0
+45+,Male,Moderate Activity,0,0
+45+,Male,High Activity,0,0
+45+,Male,Very High Activity,0,0

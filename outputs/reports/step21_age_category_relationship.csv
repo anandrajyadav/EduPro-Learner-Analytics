@@ -1,0 +1,61 @@
+AgeGroup,CourseCategory,Enrollments,UniqueLearners,ShareWithinAge
+<18,Artificial Intelligence,129,91,8.78
+<18,Business,120,92,8.17
+<18,Cybersecurity,121,90,8.24
+<18,Data Science,114,90,7.76
+<18,Design,120,99,8.17
+<18,Digital Marketing,127,103,8.65
+<18,Finance,136,101,9.26
+<18,Machine Learning,120,95,8.17
+<18,Marketing,126,102,8.58
+<18,Programming,109,76,7.42
+<18,Project Management,115,89,7.83
+<18,Web Development,132,99,8.99
+18-25,Artificial Intelligence,317,253,8.49
+18-25,Business,307,237,8.23
+18-25,Cybersecurity,307,251,8.23
+18-25,Data Science,343,254,9.19
+18-25,Design,311,251,8.33
+18-25,Digital Marketing,296,232,7.93
+18-25,Finance,297,219,7.96
+18-25,Machine Learning,305,242,8.17
+18-25,Marketing,313,236,8.39
+18-25,Programming,305,230,8.17
+18-25,Project Management,296,229,7.93
+18-25,Web Development,335,257,8.98
+26-35,Artificial Intelligence,383,295,7.98
+26-35,Business,406,319,8.46
+26-35,Cybersecurity,391,311,8.15
+26-35,Data Science,459,341,9.56
+26-35,Design,396,307,8.25
+26-35,Digital Marketing,385,311,8.02
+26-35,Finance,431,330,8.98
+26-35,Machine Learning,394,302,8.21
+26-35,Marketing,367,285,7.65
+26-35,Programming,392,299,8.17
+26-35,Project Management,418,318,8.71
+26-35,Web Development,377,296,7.86
+36-45,Artificial Intelligence,0,0,
+36-45,Business,0,0,
+36-45,Cybersecurity,0,0,
+36-45,Data Science,0,0,
+36-45,Design,0,0,
+36-45,Digital Marketing,0,0,
+36-45,Finance,0,0,
+36-45,Machine Learning,0,0,
+36-45,Marketing,0,0,
+36-45,Programming,0,0,
+36-45,Project Management,0,0,
+36-45,Web Development,0,0,
+45+,Artificial Intelligence,0,0,
+45+,Business,0,0,
+45+,Cybersecurity,0,0,
+45+,Data Science,0,0,
+45+,Design,0,0,
+45+,Digital Marketing,0,0,
+45+,Finance,0,0,
+45+,Machine Learning,0,0,
+45+,Marketing,0,0,
+45+,Programming,0,0,
+45+,Project Management,0,0,
+45+,Web Development,0,0,

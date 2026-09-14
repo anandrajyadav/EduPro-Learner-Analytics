@@ -1,0 +1,29 @@
+RESEARCH PAPER - RESULTS SUMMARY
+================================================================================
+
+1. DATASET PROFILE
+The analysis examined 10,000 enrollment transactions involving 3,000 unique learners and 60 unique courses.
+
+2. AGE GROUP ANALYSIS
+The 26-35 age group recorded the highest enrollment volume with 4,799 enrollments.
+
+3. GENDER ANALYSIS
+The Female group recorded the highest observed enrollment share at 50.78%.
+
+4. COURSE CATEGORY ANALYSIS
+Data Science was the most preferred course category, accounting for 9.16% of enrollments.
+
+5. COURSE LEVEL ANALYSIS
+Beginner was the most preferred course level with 35.73% of enrollments.
+
+6. COURSE POPULARITY
+Data Analysis with Python recorded the highest number of enrollments.
+
+7. TEMPORAL ANALYSIS
+The highest monthly enrollment activity occurred in June 2025, with 899 enrollments.
+
+8. SDG 4 CONNECTION
+The study provides descriptive evidence relevant to SDG 4 themes including access to education, skills development and equitable participation.
+
+9. INTERPRETATION
+The results indicate that learner enrollment behavior varies across demographic groups, course categories, course levels and time periods. Cross-dimensional analysis provides a more detailed understanding of learner preferences than examining individual variables separately.

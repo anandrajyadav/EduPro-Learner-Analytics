@@ -1,0 +1,9 @@
+RQ_ID,ResearchQuestion,PrimaryTable
+RQ1,Which age groups are most active?,Table 2
+RQ2,How do enrollment patterns differ by gender?,Table 3
+RQ3,Which course categories are most preferred?,Table 4
+RQ4,Which course levels are most popular?,Table 5
+RQ5,Are beginner or advanced courses more popular?,Table 14
+RQ6,How do category preferences vary across age groups?,Table 7
+RQ7,How does course-level preference vary across age groups?,Table 8
+RQ8,How is learner engagement distributed?,Table 11
